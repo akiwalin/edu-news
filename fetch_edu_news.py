@@ -269,7 +269,9 @@ def render(articles):
             cards.append(
                 f'<article class="card" data-ages="{esc(ages)}" data-topic="{esc(a["topic"])}">'
                 f'<div class="meta">{age_tags}<span class="tag">{esc(a["topic"])}</span>'
-                f'<span class="src">{esc(a["source"])}</span></div>'
+                f'<span class="src">{esc(a["source"])}</span>'
+                + (f'<span class="tag">🔥 {a.get("mentions", 1)} 家報導</span>' if a.get("mentions", 1) >= 2 else "")
+                + '</div>'
                 f'<h3><a href="{esc(a["url"])}" target="_blank" rel="noopener noreferrer">{esc(a["title"])}</a></h3>'
                 f'<p>{esc(a["summary"])}</p>'
                 f'<p class="take">給家長與老師：{esc(a["takeaway"])}</p></article>'
@@ -308,8 +310,9 @@ def main():
 
     seen_urls = {normalize_url(a["url"]) for a in data["articles"]}
     seen_urls |= {normalize_url(r["url"]) for r in data["rejected"]}
-    recent_titles = [clean_title(a["title"]) for a in data["articles"]]
-    recent_titles += [r.get("title", "") for r in data["rejected"]]
+    # 標題索引：(整理後標題, 對應的文章紀錄或 None)。用來去重，也用來累計「被幾家媒體報導」
+    title_index = [(clean_title(a["title"]), a) for a in data["articles"]]
+    title_index += [(r.get("title", ""), None) for r in data["rejected"]]
 
     print("== 蒐集來源 ==")
     groups = collect(cfg)
@@ -318,19 +321,33 @@ def main():
     candidates = [x for tup in zip_longest(*groups) for x in tup if x]
     print(f"== 共 {len(candidates)} 則候選，開始去重與分析（上限 {max_new} 則）==")
 
-    processed = added = fails = 0
+    processed = added = fails = counted = 0
+    stop_ai = False
     for item in candidates:
-        if processed >= max_new:
-            break
-        if fails >= 3:
-            print("  連續 3 次 AI 失敗，今天先停止（可能是額度用完），明天會自動再試。")
-            break
         if not item["title"] or not item["url"]:
             continue
         ct = clean_title(item["title"])
-        if any(similar(ct, t) >= 0.8 for t in recent_titles if t):
+
+        # 去重：標題相似視為同一則。若是「不同媒體」報導同一件事，累計聲量（報導家數）
+        match = next(((t, art) for t, art in title_index if t and similar(ct, t) >= 0.8), None)
+        if match:
+            art = match[1]
+            if art is not None and item["source"] != art["source"]:
+                also = art.setdefault("also_from", [])
+                if item["source"] not in also:
+                    also.append(item["source"])
+                    art["mentions"] = 1 + len(also)
+                    counted += 1
             continue
         if normalize_url(item["url"]) in seen_urls:
+            continue
+
+        # 以下是需要 AI 分析的新文章；額度用完或失敗太多次就不再分析，但上面的聲量累計仍繼續
+        if stop_ai or processed >= max_new:
+            continue
+        if fails >= 3:
+            print("  連續 3 次 AI 失敗，今天先停止（可能是額度用完），明天會自動再試。")
+            stop_ai = True
             continue
 
         url = resolve_gnews(item["url"]) if item["gnews"] else item["url"]
@@ -345,16 +362,16 @@ def main():
             fails += 1
             continue
         fails = 0
-        recent_titles.append(ct)
         seen_urls.add(normalize_url(url))
 
         if not result.get("relevant"):
             data["rejected"].append({"url": url, "title": ct, "date": today})
+            title_index.append((ct, None))
             continue
 
         ages = [a for a in result.get("ages", []) if a in AGES] or AGES
         topic = result.get("topic") if result.get("topic") in TOPICS else "其他"
-        data["articles"].append({
+        article = {
             "date": today,
             "title": item["title"],
             "url": url,
@@ -363,7 +380,11 @@ def main():
             "topic": topic,
             "summary": (result.get("summary") or "").strip(),
             "takeaway": (result.get("takeaway") or "").strip(),
-        })
+            "mentions": 1,
+            "also_from": [],
+        }
+        data["articles"].append(article)
+        title_index.append((ct, article))
         added += 1
         print(f"  + {item['title'][:40]}")
 
@@ -371,7 +392,7 @@ def main():
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
     render(data["articles"])
-    print(f"== 完成：分析 {processed} 則，新增 {added} 則，網頁已更新 ==")
+    print(f"== 完成：分析 {processed} 則，新增 {added} 則，累計報導家數 {counted} 筆，網頁已更新 ==")
 
 
 if __name__ == "__main__":
