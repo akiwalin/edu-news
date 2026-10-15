@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>0–16 歲教育每日精選</title>
+<style>
+:root{--bg:#faf8f5;--card:#fff;--text:#2b2b2b;--sub:#6b6b6b;--line:#e8e3dc;--accent:#2f6f5e;--tag:#e6f1ed}
+@media (prefers-color-scheme:dark){:root{--bg:#1b1c1b;--card:#252726;--text:#ececec;--sub:#a5a5a5;--line:#3a3d3b;--accent:#7cc7b0;--tag:#2c3a35}}
+body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;line-height:1.7}
+.wrap{max-width:760px;margin:0 auto;padding:24px 16px 64px}
+h1{font-size:1.5rem;margin:0 0 4px}
+.sub{color:var(--sub);font-size:.9rem;margin:0 0 16px}
+.bar{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0}
+.bar button{border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:999px;padding:4px 12px;cursor:pointer;font-size:.85rem}
+.bar button.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.day h2{font-size:1.05rem;margin:28px 0 8px;color:var(--accent)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:10px 0}
+.card h3{font-size:1.02rem;margin:6px 0}
+.card a{color:inherit;text-decoration:none}
+.card a:hover{text-decoration:underline}
+.meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:.8rem}
+.tag{background:var(--tag);color:var(--accent);border-radius:6px;padding:1px 8px}
+.src{color:var(--sub)}
+.card p{margin:6px 0;font-size:.95rem}
+.take{color:var(--sub)}
+.foot{margin-top:40px;color:var(--sub);font-size:.8rem}
+</style>
+</head>
+<body><div class="wrap">
+<h1>0–16 歲教育每日精選</h1>
+<p class="sub">最後更新：2026-10-15 16:23　｜　摘要由 AI 整理，內容以原文為準</p>
+<div class="bar" id="ageBar"></div>
+<div class="bar" id="topicBar"></div>
+<p>目前還沒有文章，請稍後再來。</p>
+<p class="foot">本頁僅提供標題、連結與 AI 改寫摘要，著作權屬原媒體所有。</p>
+</div>
+<script>
+const state={age:"全部",topic:"全部"};
+function mk(id,key,opts){const bar=document.getElementById(id);
+ opts.forEach(o=>{const b=document.createElement("button");b.textContent=o.label;
+  if(o.val==="全部")b.className="on";
+  b.onclick=()=>{state[key]=o.val;[...bar.children].forEach(c=>c.className="");b.className="on";apply();};
+  bar.appendChild(b);});}
+mk("ageBar","age",[{label:"全部年齡",val:"全部"},{label:"0–3 歲",val:"0-3"},{label:"3–6 歲",val:"3-6"},{label:"6–12 歲",val:"6-12"},{label:"12–16 歲",val:"12-16"}]);
+mk("topicBar","topic",[{label:"全部主題",val:"全部"},...["政策","教養","學習方法","心理健康","其他"].map(t=>({label:t,val:t}))]);
+function apply(){
+ document.querySelectorAll(".card").forEach(c=>{
+  const okA=state.age==="全部"||c.dataset.ages.split(" ").includes(state.age);
+  const okT=state.topic==="全部"||c.dataset.topic===state.topic;
+  c.style.display=(okA&&okT)?"":"none";});
+ document.querySelectorAll(".day").forEach(d=>{
+  d.style.display=[...d.querySelectorAll(".card")].some(c=>c.style.display!=="none")?"":"none";});
+}
+</script>
+</body></html>
