@@ -1,0 +1,37 @@
+name: Daily education news
+
+on:
+  schedule:
+    # UTC 00:00 = 台灣時間早上 08:00（GitHub 排程可能延遲數分鐘到數十分鐘）
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 允許手動按鈕執行，測試用
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect and summarize
+        run: python fetch_edu_news.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || git commit -m "daily update $(date -u +%F)"
+          git push
