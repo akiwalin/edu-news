@@ -144,8 +144,11 @@ def get_text(url):
 
 
 # ---------- AI ----------
-def analyze(model, api_key, item, text):
-    """呼叫 Gemini（免費額度）。失敗回傳 None（該文章明天會再試）。"""
+DEAD_MODELS = set()  # 已確認 404 的模型，本次執行不再嘗試
+
+
+def analyze(models, api_key, item, text):
+    """呼叫 Gemini（免費額度）。依序嘗試模型清單；失敗回傳 None（該文章明天會再試）。"""
     material = f"標題：{item['title']}\n來源：{item['source']}\n"
     if text:
         material += f"內文節錄：\n{text}"
@@ -154,7 +157,6 @@ def analyze(model, api_key, item, text):
     else:
         material += "（只有標題，沒有內文）"
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     body = {
         "systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
         "contents": [{"role": "user", "parts": [{"text": material}]}],
@@ -164,22 +166,30 @@ def analyze(model, api_key, item, text):
             "maxOutputTokens": 2000,
         },
     }
-    for attempt in range(3):
-        try:
-            r = requests.post(url, json=body, timeout=60,
-                              headers={"x-goog-api-key": api_key})
-            if r.status_code == 429:  # 超過免費額度的速率限制，等一下再試
-                print("    被限速（429），等待 30 秒後重試")
-                time.sleep(30)
-                continue
-            r.raise_for_status()
-            parts = r.json()["candidates"][0]["content"]["parts"]
-            raw = "".join(p.get("text", "") for p in parts)
-            m = re.search(r"\{.*\}", raw, re.S)
-            return json.loads(m.group(0))
-        except Exception as e:
-            print(f"    AI 呼叫失敗（第 {attempt + 1} 次）：{e}")
-            time.sleep(5)
+    for model in models:
+        if model in DEAD_MODELS:
+            continue
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+        for attempt in range(3):
+            try:
+                r = requests.post(url, json=body, timeout=60,
+                                  headers={"x-goog-api-key": api_key})
+                if r.status_code == 404:  # 模型名稱不存在，換下一個
+                    print(f"    模型 {model} 找不到（404），改試清單中的下一個")
+                    DEAD_MODELS.add(model)
+                    break
+                if r.status_code == 429:  # 超過免費額度的速率限制，等一下再試
+                    print("    被限速（429），等待 30 秒後重試")
+                    time.sleep(30)
+                    continue
+                r.raise_for_status()
+                parts = r.json()["candidates"][0]["content"]["parts"]
+                raw = "".join(p.get("text", "") for p in parts)
+                m = re.search(r"\{.*\}", raw, re.S)
+                return json.loads(m.group(0))
+            except Exception as e:
+                print(f"    AI 呼叫失敗（{model}，第 {attempt + 1} 次）：{e}")
+                time.sleep(5)
     return None
 
 
@@ -281,7 +291,7 @@ def main():
     with open(SOURCES_FILE, encoding="utf-8") as f:
         cfg = json.load(f)
     st = cfg["settings"]
-    model = st.get("model", "gemini-2.5-flash-lite")
+    models = st.get("models") or [st.get("model", "gemini-3.1-flash-lite")]
     max_new = st.get("max_new_per_run", 15)
     pause = st.get("seconds_between_calls", 7)  # 控制每分鐘呼叫次數，避免超過免費限速
     keep_days = st.get("keep_days", 60)
@@ -327,7 +337,7 @@ def main():
         if normalize_url(url) in seen_urls:
             continue
         text = get_text(url)
-        result = analyze(model, api_key, item, text)
+        result = analyze(models, api_key, item, text)
         processed += 1
         time.sleep(pause)
 
