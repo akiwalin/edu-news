@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "model": "gemini-2.5-flash-lite",
+    "max_new_per_run": 15,
+    "seconds_between_calls": 7,
+    "keep_days": 60,
+    "lookback_hours": 48
+  },
+  "rss_feeds": [
+    {
+      "name": "報導者",
+      "url": "https://www.twreporter.org/a/rss2.xml",
+      "enabled": true
+    },
+    {
+      "name": "（範例）想新增的媒體 RSS，確認網址可用後把 enabled 改成 true",
+      "url": "https://example.com/rss.xml",
+      "enabled": false
+    }
+  ],
+  "google_news_queries": [
+    "幼兒教育",
+    "親子教養",
+    "兒童發展",
+    "國小教育",
+    "國中教育 會考",
+    "108課綱",
+    "青少年 心理健康 學校",
+    "教育部 國教",
+    "site:parenting.com.tw 孩子",
+    "site:cw.com.tw 教育",
+    "site:crossing.cw.com.tw 教育",
+    "site:twreporter.org 教育",
+    "site:udn.com 教育 孩子",
+    "site:ltn.com.tw 教育 孩子"
+  ]
+}
