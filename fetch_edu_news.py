@@ -316,6 +316,8 @@ def main():
 
     print("== 蒐集來源 ==")
     groups = collect(cfg)
+    if not groups:
+        sys.exit("所有來源都讀取失敗，今天沒有更新。請查看上方各來源的錯誤訊息。")
 
     # 各來源輪流取，避免某個來源佔滿名額
     candidates = [x for tup in zip_longest(*groups) for x in tup if x]
@@ -393,6 +395,8 @@ def main():
         json.dump(data, f, ensure_ascii=False, indent=1)
     render(data["articles"])
     print(f"== 完成：分析 {processed} 則，新增 {added} 則，累計報導家數 {counted} 筆，網頁已更新 ==")
+    if stop_ai or fails >= 3:  # 讓 GitHub 顯示紅色叉叉，才不會悄悄漏掉
+        sys.exit("AI 連續失敗，今天的分析不完整（可能是額度用完，或金鑰、模型名稱有誤）。")
 
 
 if __name__ == "__main__":
