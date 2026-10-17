@@ -612,8 +612,10 @@
    "topic": "政策",
    "summary": "文章探討了課程綱要修訂後，在實際課堂教學中卻與學生實際感受產生落差的現象。",
    "takeaway": "關注教育政策在校園實際落地的狀況與教學現場的真實落差。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "民生電子報"
+   ]
   },
   {
    "date": "2026-10-16",
@@ -674,8 +676,10 @@
    "topic": "學習方法",
    "summary": "桃園市透過產官合作推動科普教育，讓觀音地區的學生能夠動手體驗科學活動。",
    "takeaway": "家長與老師可鼓勵孩子多參與動手操作的科普活動，提升學習興趣。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "國立教育廣播電台"
+   ]
   },
   {
    "date": "2026-10-16",
@@ -737,6 +741,224 @@
    "takeaway": "關注幼教政策變動，並支持提升教保品質與人員待遇的相關措施。",
    "mentions": 1,
    "also_from": []
+  },
+  {
+   "date": "2026-10-17",
+   "title": "配合明年軍公教加薪 教育部擬2度調高準公共幼兒園人員待遇 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcHMwWmdVV0xYbzk2akdWY1M2cHJQSFdHVG4zNUhpdVZKTG5ETnhWZU1xcjdyX1BiRGxfZ0I3bE16MnphYkl4eTFoWkJjazI1TVlWb1R6VUdfMVpfYU92SjJ1ejZ3OC01THfSAWpBVV95cUxQT3BzMFpnVVdMWG85NmpHVmNTNnByUEhXR1RuMzVIaXVWSkxuRE54VmVNcXI3cl9QYkRsX2dCN2xNejJ6YWJJeHkxaFpCY2syNU1ZVm9UelVHXzFaX2FPdkoydXo2dzgtNUx3?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "教育部計畫配合軍公教加薪政策，研擬再次調升準公共幼兒園教保人員的薪資待遇。",
+   "takeaway": "家長可持續關注幼教政策變動，以了解對幼兒園師資穩定度及教學品質的影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-17",
+   "title": "家長愈懂教育老師愈輕鬆？幼兒園創新解方破解親師衝突 - 聯合報數位版",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nbzA4ZzlmQmQtdjU3WDZ5aVhoSmJOSktzdi1VVWVjZHRTa29kUjluUGhHMnR6cWxBbV9Icy1KS0YtcF81SkdHWDI2ZG1DTVV1c25id2JxMA?oc=5",
+   "source": "聯合報數位版",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "本文探討幼兒園如何透過創新方式，提升家長對教育的理解以減少親師溝通摩擦。家長若能更了解教育理念，將有助於減輕教師負擔並改善親師關係。",
+   "takeaway": "家長應主動參與親師溝通，理解幼兒園教育方針以建立互信。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-17",
+   "title": "兒童才藝班學什麼？十大熱門課程排行 語言、運動、美術一次看 - 觸mii",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YUTBNR3JFVGZ4SGJwcW5saXFoVy16YWljdjE2UndSUWNzOVNJNlF4Yndib05XTG84X3l1ZXpzbmRCVm9wUVAyeW1hX2F0cUdEZ2lvS2swY211M1VaS3l4UDZhMjhrZUc1OU5VQQ?oc=5",
+   "source": "觸mii",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "本文整理了目前市面上最受歡迎的十大兒童才藝課程，涵蓋語言、運動與美術等多元領域。家長可透過此排行了解各類才藝的學習趨勢，作為規劃孩子課後活動的參考。",
+   "takeaway": "建議家長依據孩子的興趣與發展需求，選擇合適的才藝課程。",
+   "mentions": 2,
+   "also_from": [
+    "UDN"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "教育部品德教學特色學校名單出爐 全國30校、桃園4校獲獎 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03QTJWM3FYUFY0aVBZVU5CR09NM1FVUGdBWXl5SXNGQ0lIMm8tMF9CdmFvdmxaYmlYWkV3SVZBN1BIT1VpX3NJRFVzMlBsbTFFTWtVS1Ixd2hwLXVCQXdwVmxkT3nSAWpBVV95cUxQQkg5RGowdzgyZ3d3cjA2UUx4NXJlaXN0Z0VlWDhQY3VPbUJON3l1eG05MWJLMDFfZDc2UVlFZFZtWkpDVmllNzJsaS02UEcyS3Q3eVVQREJoLVoyY2w2OGdVUHI5M1hnb0NR?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部公布了全國品德教育特色學校名單，共有30所學校獲選，其中桃園市佔了4所。",
+   "takeaway": "家長可參考獲獎學校名單，了解各校在品德教育推動上的具體特色與方向。",
+   "mentions": 2,
+   "also_from": [
+    "CMoney"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "title": "青少年多吃一份水果 雪梨大學研究：憂鬱焦慮風險減輕 - 商傳媒 - SUN MEDIA",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOMWp6Yy1JRUhxcmRCV1dKSVVpVjlzcWk5RFlwaFV4Ums0YUNjcFphZjVDTzhFNUo1cGduZ3J5bURscDE1MXZtWWhDX2xkTzF0UmxhNGl1T2xCUjRxaWo3RGZZdDdyOEhqT1QwaFZ3V1FXMXVmVy1ueEVmMVVrY29RVWlIYzVwVEEzNmdpSFhLM3VwTm9DQUc2SWFxb1lkTkpINWoxbUJweUw1V0g0YThDU3J1ZUJQUjBpQ3E1cGd1Z05UQjhKcUxKNGRYQzZ3SndQbzJDNnRCbVlyblJjYWdDU0RTdDg5TENQUEVuaF9sZ3ZsX0tBVEJEUE5fWXlEV2R5WXlsNkJvTnlpZmo1c0czcktYVF9panNXZEViaHE3TlFfbmVSOFJ6TWJnb3RKc0E?oc=5",
+   "source": "商傳媒 - SUN MEDIA",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "雪梨大學的研究指出，青少年增加水果攝取量與降低憂鬱及焦慮風險具有關聯性。",
+   "takeaway": "家長可鼓勵青少年多攝取水果，以促進心理健康。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-17",
+   "title": "AI 讓孩子考試退步，黃仁勳卻說「不重要」？給父母的 4 個解答 - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMWNZNkFuV3ZBcW9yN1FKcjdjaUZSQWVhU01JbFFBOExWaFQ2ZWZFYVUtNlNNaWQyaXZlUm5zS3h6ZDJxMVY5dHV3UFV1enhqVWFpaGhkblFiUDA?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "面對AI工具對孩子考試成績的潛在影響，家長應重新思考教育的核心價值。文章探討了在AI時代下，學習重點與評量方式的轉變。",
+   "takeaway": "家長應調整對分數的執著，轉而培養孩子運用AI解決問題的思維能力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-17",
+   "title": "自由開講》完善制度安全網 讓老師安心做「一百分」 - 自由評論網",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81amswOTV4WHY2RGNtWlVtODYwN09WRExmM1VnTWlBT0JkVzNXcmx4ZTBLMFJnSXV5TzlBQ1FMRFJZQ2pSbFM1NE0xNXh4b3h0TE85M2VXS21vcDNQeW0wVzhCUFNtNjjSAWdBVV95cUxPNWprMDk1eFh2NkRjbVpVbTg2MDdPVkRMZjNVZ01pQU9CZFczV3JseGUwSzBSZ0l1eU85QUNRTERSWUNqUmxTNTRNMTV4eG94dExPOTNlV0ttb3AzUHltMFc4QlBTbTY4?oc=5",
+   "source": "自由評論網",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "文章探討應建立更完善的制度與安全網，以支持教師在教學現場安心發揮專業。",
+   "takeaway": "家長應理解教師面臨的制度壓力，並與學校建立正向的溝通合作關係。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-17",
+   "title": "偏鄉學童英文差 台師大靠「1妙招」翻轉 - 鏡週刊Mirror Media",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tU1l0Znk2T2kxQTZ2ME9ZWnlabllOellBaE5RcTBfS0I0WXZCSDZtQmFMQ2lheHJsTTdJLV9DMWdkM2hqSVZvemVqNjVBYXZfaUQ2WTA1VUhWcDU00gFiQVVfeXFMTVNxN2ZhbFhIemlfeGx4ZHYzWUFtcDlEaFRwaHZTby1GRm9LTlFXYURVQ3AyRFhINVd4T2d1OEdIZ01CY1RKeWhkT0ZCZGVPYTdUcGk0Vkh1azZ0allWQ2JEUUE?oc=5",
+   "source": "鏡週刊Mirror Media",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "台師大透過特定教學策略，成功改善偏鄉地區學童的英語學習成效。",
+   "takeaway": "關注並嘗試運用創新的教學策略，能有效提升偏鄉學童的學習動機與成效。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-17",
+   "title": "獨家》公幼代理老師行政獎金擬入法 追溯自去年9月施行 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1RFJobEotSFNEUmk1QWY3eTg0YlJWN0FuTEJBM2xTZ1Y4ZTZ1dUJ0TnZheTlZWFI2elh1TFdFOExVRHNiNWd1Njk1MTFlOHNwSzJ6OE85SzdaYzF3eE0wSUswRjfSAWpBVV95cUxNbXlRazZjckVobnhyWDFHY19uaEE3OHdkQWZWRGtYYzM1RHRIVEs0NGplT0JnOTRjTjI5c1ZtNWJtUDlkSVVMaXdnSGtfQnhESVllNEdlbXFZQUd4ZXVlZjhES3Q2N3BpOTB3?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "政府計畫將公立幼兒園代理教師的行政獎金納入法規保障，並預計追溯至去年九月開始實施。",
+   "takeaway": "家長可留意此政策對幼兒園師資穩定度與教學品質的潛在影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-17",
+   "title": "父母育兒焦慮怎麼辦？Nature子刊研究：比起管孩子情緒，爸媽先做對「這件事」更關鍵 - 親子天下",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IZ1ltMGNDcUxnenRjN3p2eVIwNE9VTnpHeHM3MjZQWW5OT011TVd5UEkyR3l5dmFHT3hLaEh1SFhhMjdHbUJQTXktQUc1djBKaUhFSEp4SQ?oc=5",
+   "source": "親子天下",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "根據Nature子刊研究，面對育兒焦慮時，家長調整自身狀態比直接處理孩子情緒更為重要。這項研究強調了父母自我調節對教養品質的關鍵影響。",
+   "takeaway": "家長應優先照顧自己的心理狀態，才能更有效地引導孩子。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-17",
+   "title": "非營利幼園擬調薪2成 幼教界憂大跳槽 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HazViUjQ1UFFhSXNtM3pjZjRXbDZXSFQ5c3ZJNDIxN09lTXVMb2Q2cVB3RmpERng4ekhOWW9yTEJRYzhSUkpLSGl2SGNhX0sy0gFWQVVfeXFMUEdfcE5rUHNLVUVVdXNrNWpkWi1VZExFU2JMaUQtVDRZdjdKVjhHcUZWYXJveGVwLUdNRnhGLVc5dElKWnV0TnhXcWRpTlRsN01lNGJScmc?oc=5",
+   "source": "UDN",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "非營利幼兒園計畫調升教保人員薪資兩成，引發幼教界擔憂可能導致人才流動與跳槽現象。",
+   "takeaway": "家長應留意園所師資穩定度，並持續關注幼教政策對教學品質的影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-17",
+   "title": "把一生獻給孩子！「兒科泰斗」黃富源行醫逾50年 出書寫下醫者初心 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LbGRvZ2lDVzYzaTNVeXNRR3JzQTM0ZnNsQVA0RW8wekxsbjV5bzdnbW5Ya3kxWGF0VzY0ekZ0bjk4UFVqdmJjb2VpYkhYQm5f0gFWQVVfeXFMUGZURF8xMkJNRFNjSi1DRGNqeDM1ZDFlWHBuc3dJOEJrN3MtOUM3bV90VW5heGx5SV9KM0VCUHZhT3JnenRKaVJtdmk4Wk1vQlpFZmUtVEE?oc=5",
+   "source": "UDN",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "兒科權威黃富源醫師行醫超過半世紀，透過新書分享其長年守護兒童健康的醫者初心與經驗。",
+   "takeaway": "透過資深兒科醫師的視角，了解兒童健康照護的專業觀點與醫者精神。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-17",
+   "title": "創校逾百年首建活動中心！台中追分國小斥資1.3億啟用 新地標亮麗登場 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zYTdoUThSNVRFTHQ2RFdUYmJxTTVsZmpjWmIzUkxDbGtSNjNha2Ntd2JwTGJkbmlNdnk3VjZtZlJyeVJMRjViS0o4TmVINTZq0gFWQVVfeXFMTVBNbkZBb1pLNWdrRXV3NzI0SVFmei1ydXJVdU1rNno0LTRhN05KeTFoamc0MEZLMW5tVExncTNjQktiWllBRWZsRnhtaUowVEN3YmlTaUE?oc=5",
+   "source": "UDN",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "台中追分國小投入1.3億元經費，為創校百餘年來首度興建活動中心，該設施已正式啟用。",
+   "takeaway": "家長可留意學校硬體設施更新，並鼓勵孩子善用校園新空間參與各類活動。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-17",
+   "title": "台師大攜手博幼深耕偏鄉課輔 4年培力在地教師解師資荒 - 翻爆",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fN3RoM1JMLThOdWZnMHNvcFB2ZmZKNUNhdG9XQThUY1JhaGREWEdPaHVaVnJZX242Y0hrU21GeHJ5VG4tZnZ6VGQ3R0JzWTlKYkdZQURWQmxtVUljc1BZUlJIeWQ5WE1tQ1F3?oc=5",
+   "source": "翻爆",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "台師大與博幼基金會合作，透過四年計畫培訓偏鄉在地教師，以解決當地師資不足的問題。",
+   "takeaway": "關注偏鄉教育資源整合，了解在地化師資培育對提升學習品質的影響。",
+   "mentions": 1,
+   "also_from": []
   }
  ],
  "rejected": [
@@ -794,6 +1016,11 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95MmtreHlqNGw1ckdXRkxoWVJkaHcxTFZtZzFxSW9xdXc1am1ubWNOcWRfa2FQQ2J1c1R6SGdheW5Yelpfby04UlYxckY3RllEc2FwSnRic25XY2drRVJUUlAwbVVUWXpiMUk3VV9QWQ?oc=5",
    "title": "澳門日報電子版",
    "date": "2026-10-16"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aTGpoOFFLRmhSN0tyU1RBX0tOeGdpTEd5MmR0NXZULV9xaURLeW1pbERZOWE3Y19sYXowaHNoSUJha0lLUFBBclFjbHJ2NjdtZzY2QU5QRzhaXzY4TElfYnNUSHM5TWNRc3hZRTFRcDZkQ2xzZi1J?oc=5",
+   "title": "夥蕭芳芳獻舞推廣幼兒教育課程郭富城冀跨年騷百花齊放吸旅客- 娛樂",
+   "date": "2026-10-17"
   }
  ]
 }
