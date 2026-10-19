@@ -1107,8 +1107,10 @@
    "topic": "其他",
    "summary": "追分國小新建的多功能活動中心已正式落成啟用。",
    "takeaway": "學校硬體設施的更新有助於提升學生的學習與活動環境。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "中華新聞雲／中華日報"
+   ]
   },
   {
    "date": "2026-10-17",
@@ -1398,8 +1400,10 @@
    "topic": "其他",
    "summary": "安聯人壽與傻瓜劇團合作舉辦公益演出，邀請早療家庭共同參與，提供親子溫馨的互動時光。",
    "takeaway": "家長可多留意公益藝文活動，透過參與演出療癒親子身心。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "台灣新聞雲報"
+   ]
   },
   {
    "date": "2026-10-18",
@@ -1472,8 +1476,10 @@
    "topic": "學習方法",
    "summary": "文章探討如何透過親子共同參與，將人工智慧技術融入教育環境中。藉由AI工具的輔助，旨在提升孩子的數位運用能力與學習成效。",
    "takeaway": "家長可引導孩子正確使用AI工具，將其轉化為輔助學習的利器。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "環球日報社"
+   ]
   },
   {
    "date": "2026-10-18",
@@ -1487,6 +1493,199 @@
    "topic": "政策",
    "summary": "全台目前設有107間社區教保中心，旨在為家長提供親子共讀資源及育兒諮詢服務。",
    "takeaway": "家長可多加利用社區教保中心，獲取專業育兒建議與親子共讀資源。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "蔣萬安4年未出席園長會議惹議 今早與幼教團體面對面交換意見 | 自由電子報 - LINE TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lcTgzQTdhRkJPSnlUakZEcjliZmMzS3lXY1pTb2lXYnRNcDk1OXhaOWI5b1hzTjBNVDRBdEQ1OTVVTkNUTmpKRGFwYTNMcDhtbi11ZVZB?oc=5",
+   "source": "LINE TODAY",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "台北市長蔣萬安與幼教團體進行面對面交流，針對幼兒教育相關議題交換意見。",
+   "takeaway": "家長可持續關注地方政府的幼教政策調整，以了解對孩子就學權益的影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "-縣府完善托嬰育兒支持 從零歲扎根打造友善育兒環境 - 金門日報",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nSXVFaW0yOG9UdW96YzBkQW52M2xwaDNGcnd0WmxEQ2tidkYtMGJBalBqMHRENkRLQnZuWFlmY0NRaXRQLUliLTlOeVgyZ3VpVXkxNWRLSFJqZw?oc=5",
+   "source": "金門日報",
+   "ages": [
+    "0-3"
+   ],
+   "topic": "政策",
+   "summary": "金門縣政府致力於完善托嬰與育兒支持系統，旨在為幼兒打造更友善的成長環境。",
+   "takeaway": "家長可多留意縣府提供的托育資源與相關育兒補助政策。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "新竹市提高早療費用補助 低收每月最高補助6000元 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQMDh2aXloakt6Y2hPVjlUOVNBYVZDSXFIbUpTZUZSeE83VVJtRjRBeXVDMTJBdzJTd3VfNXVFUXVWVEVlZGNkb0F3V3M2Tk0x0gFWQVVfeXFMUFUxczRZdUx2eVMtM3psZGtEcFJWRU53aHJ6SnNaTmhpWW1JVE4wSGlGZ1BvZnp4WGVHQzdZY2U1cmJnVDV1b1NES3kzNUdteF9heFh3Nnc?oc=5",
+   "source": "UDN",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "新竹市宣布調高早期療育費用的補助金額，低收入戶家庭每月最高可獲得6,000元的補助。",
+   "takeaway": "若家中有早療需求，請留意新竹市最新的補助額度與申請資格。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "新北19位雙語教師赴菲增能 將沉浸式學習帶回課堂 - 中華新聞雲／中華日報",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3VXI3NFE3RTZoN3NEcld5TXRhQ2Uxa2RjM2hUOFRLcjlhNExPdWhMRmdSSzV3SWo3d0lBWDd6OHM4MTdXTnlDLTYyZ1FMXzFqTHc?oc=5",
+   "source": "中華新聞雲／中華日報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "新北市派遣19位雙語教師前往菲律賓進行專業增能培訓。這些教師將把在當地學習到的沉浸式教學經驗，實際應用於課堂教學中。",
+   "takeaway": "家長可留意孩子在校雙語課程的互動方式，鼓勵孩子多開口練習英語。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "金融素養向下扎根！350校4千小時服務 親子共學防詐觀念 - TVBS新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xSUVUODQ1ajA1dHdhWWlIcGxZQWpQZDB6bFpTaGIxR0t4TEdvdWVQMXVucUozU05JRXRCSDdycFhqR0U2bDA2MlRVWENwQQ?oc=5",
+   "source": "TVBS新聞網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "全台有350所學校投入金融素養教育，透過數千小時的服務課程，協助學生與家長共同學習防詐騙知識。此計畫旨在提升家庭整體的金融安全意識。",
+   "takeaway": "家長可多留意學校的金融教育資源，並與孩子討論防詐觀念。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "來稿｜SEN教育不能只靠學校 家庭與社區是關鍵拼圖 - 香港01",
+   "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQd3JrZ2FSbENzRFVRWHN4VlR6dVJLSU4yenRDMl9Vem14ek5vVXZfUVhnWDE5allOeHlHT2N5RlpQeVZTQlhGdlZFbzVNOWplUzVJWHNraWswRmxRVGNWME9seHo5S1RBanh0M3ZrMUhfRFd1R3ByV0FHMXFkYUNKY2FmU0RpcHJUREpKcjZSX2t2Y2FJelpCcFZkZVhZdWtRRk9RT1dReTVUTlMtbDZCT3h5S3B0WEFpMWt3SFM1N0R2SWJET29PT2JEbHFRX3JRdHg2cFdIQXcxRWNqcWp5M3IxVk5fYUxfVU1QQV9iTEJUeVk3eFFQV1diR2dnbTFMbTAxSHlWSnRPUnpDVVMxd2FITzF6ZnhIMDJ1VFpTY0VMU1hBd3hZNUdMUERUcGYtTXB0NlkzQkhUUlFUSm9QRldPVElOSDBzaG52VTFEZHhKTmNqUnEw?oc=5",
+   "source": "香港01",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "特殊教育需求（SEN）的支援不應僅限於學校體系。家庭與社區的共同參與，才是完善教育支持系統的關鍵。",
+   "takeaway": "家長與社區應主動參與，與學校建立緊密的合作網絡，共同支持孩子的學習與發展。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "教部補助設立教保中心 社區親子共讀資源再升級 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PblFRTzNOaGVGZC1RUm5BSllzNmFub3R3SkUyd0oyS3hqaUVNT0VRSlRFZVNaRjAxM2RITXcyMkhBanl1XzJaUVMwWVBSN3huUVVicklNSjd4TU3SAWBBVV95cUxQTjdLX3ZHVVdOa0V0VW41a1IzSWJtUHZQMVRrYVNfWDBwVzZmVl8yMXF3TkUxcUFhUDU5NnVIOHozaF9DMkR3V3hiTUl3N3F5YVRpOUNMYWRYVVhSSVFvWnc?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "教育部透過補助設立教保中心，進一步提升社區內的親子共讀資源與環境。",
+   "takeaway": "家長可多留意社區教保中心資訊，善用公共資源陪伴孩子閱讀。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "《朱瑞福的游泳課》親子共讀，陪孩子克服害怕、練習勇敢 - 親子天下Shopping",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ySlJnYmNxR3VKbEZERWtPNkJ6OER4RWEydmxsazA3My1uaVdzel9DUzlWOG01Q3hyMU9JaFcyY3pjMW4tWldtNDk0MmtueEJWZFROc21XUWwtQnF6WTFOZjhQc19tZw?oc=5",
+   "source": "親子天下Shopping",
+   "ages": [
+    "3-6",
+    "6-12"
+   ],
+   "topic": "教養",
+   "summary": "這是一本適合親子共讀的繪本，透過朱瑞福的故事引導孩子面對恐懼。家長可藉由閱讀過程，陪伴孩子練習展現勇氣。",
+   "takeaway": "透過繪本共讀，引導孩子表達恐懼並建立克服困難的信心。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "被爆缺席4年園長會議挨罵 蔣萬安今與幼教團體「面對面交流」 - ETtoday新聞雲",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tUEo1SV8zQTNfM2VORzlFdDFZbl9CM2M5SHZ6QnBFN0xIZ28yRmluUVBVS1RmaGRqYVEtbDF4cHI0MVI4cXVoemsxZUtGLVV6NFY0VU9ab1kybFUtUHfSAUtBVV95cUxQdXNSN0RTNG11NXpJTzd6NlFDUU5uaHktVlpBNnRSbTl5YWdLZG9PanNmazhrOU9fVFp0dHBmRU5OWjBzclpITU4xTTA?oc=5",
+   "source": "ETtoday新聞雲",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "針對先前被質疑缺席幼兒園園長會議的爭議，台北市長蔣萬安今日親自與幼教團體進行面對面交流，以回應相關教育議題。",
+   "takeaway": "家長與老師可持續關注市府與幼教團體的溝通結果，了解相關政策對幼兒教育環境的影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "竹市修訂早療費用補助計畫！ 高虹安市長：減輕家庭負擔、陪伴孩子安心成長 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpZkYwNWhuVUhtSHRUdks2VHZhdkJRVjg4WExiUklXbVAycDFScGxDZnFOd2ZYSWx1UFMyMkFRY29lS0t6Y0R6M3dmbHg3M21kU3c?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "新竹市修訂了早期療育費用補助計畫，旨在減輕家庭的經濟壓力，並支持孩子獲得更完善的成長陪伴。",
+   "takeaway": "家長可留意新竹市早療補助新制，評估是否符合申請資格以減輕負擔。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "每一秒都重要：臺東月眉國小防災演練 - PeoPo 公民新聞",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yYVVoaXkzcy1hSVJyVk11ZmR1UUVualBGSzNPRlQ3T25BeU45NzV5T2dMZDlxWnNGRlVvMERMeG9ROXUzSEFSVg?oc=5",
+   "source": "PeoPo 公民新聞",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "臺東月眉國小透過實際演練，強化校園師生的防災意識與應變能力。",
+   "takeaway": "家長可與孩子討論居家防災計畫，提升家庭整體的安全意識。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "國中會考5A++ 台東女榜首對政治感興趣| 生活 - 三立新聞",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzQVFETUp5MTRfdmhaRzV2Zy1EWnBjWmxGZjRTUVFuRDVVeUl3cm9VT3FHVkc4WnItck16QjN2c2QydlBPSGlR?oc=5",
+   "source": "三立新聞",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "台東女中學生在國中會考中取得5A++的優異成績，並對政治領域展現出濃厚興趣。",
+   "takeaway": "鼓勵孩子探索個人興趣，並將其與學習動機結合。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "扎實推動生涯探索與技藝課程 臺南市榮獲教育部 114年度技職教育績效評定「優等」 - 臺南市政府全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OSnRHemlmd0NDN3hPbnBwdTJKR29WSkxST3hONFl5VGJBR1g5UWNfRENOQUhtcjBQV0hlazJkYW5jYWt1S0FFV3NabDR2WHI0N0NVZXV1OXJhM1pqQ0o3b0hVY0RTVEFoY3lmSW5n?oc=5",
+   "source": "臺南市政府全球資訊網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "臺南市因積極推動生涯探索與技藝教育，獲得教育部114年度技職教育績效評定優等肯定。",
+   "takeaway": "家長可多留意學校提供的技藝課程資源，協助孩子及早探索職涯興趣。",
    "mentions": 1,
    "also_from": []
   }
@@ -1606,6 +1805,16 @@
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1waDk5SFUxZF85ZFZyWTBYajROcjRoSVB6RmJPeGxRUkNHVHUyd0NFMzBsLURGeGtGVi15eEtSRU8xbDBnbG1HQVRB?oc=5",
    "title": "持光者攜手請問芳名打造跨界新作",
    "date": "2026-10-18"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmN5aEJ1ZXVuRFhnalpGRmdFR3BENU9HWGRsYW5aUG5CcTNiNXl5R2tWRk9VbEdGSWdjX1JhdlpzcFZiN24xYmZSMzZzRVB5R0FTaG5teEM3YXoyc2FuMk1McUY0cE1LamdZZGxGNHdQLXhHTElDMmRUd1o1dHRfTjhtazF1UU9m?oc=5",
+   "title": "如何穿越這片水域？德國作家施益堅在海牙談台灣認同的層次與書寫",
+   "date": "2026-10-19"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdE1uZWpzclhqWGU2Y25mMm1EWGhTZ0FrTlktamRmMmpBZ3cxWjd1djJjQTBaMENKcVdpUUhYbWVYYUJPajYzSFA0STR3YTJ2OFhsUm1xSjltbGU3Y0ZsWHRiMm5Hd1F3bVR5YzY1WXBGcjZ0X09WV1lsVkpFaVRLeGpRWU45VXM?oc=5",
+   "title": "",
+   "date": "2026-10-19"
   }
  ]
 }
