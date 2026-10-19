@@ -1508,8 +1508,11 @@
    "topic": "政策",
    "summary": "台北市長蔣萬安與幼教團體進行面對面交流，針對幼兒教育相關議題交換意見。",
    "takeaway": "家長可持續關注地方政府的幼教政策調整，以了解對孩子就學權益的影響。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 3,
+   "also_from": [
+    "Yahoo新聞",
+    "自由時報"
+   ]
   },
   {
    "date": "2026-10-19",
@@ -1599,8 +1602,10 @@
    "topic": "政策",
    "summary": "教育部透過補助設立教保中心，進一步提升社區內的親子共讀資源與環境。",
    "takeaway": "家長可多留意社區教保中心資訊，善用公共資源陪伴孩子閱讀。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "LINE TODAY"
+   ]
   },
   {
    "date": "2026-10-19",
@@ -1686,6 +1691,209 @@
    "topic": "政策",
    "summary": "臺南市因積極推動生涯探索與技藝教育，獲得教育部114年度技職教育績效評定優等肯定。",
    "takeaway": "家長可多留意學校提供的技藝課程資源，協助孩子及早探索職涯興趣。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "蘇巧慧、蘇傳臣為幼教議題交鋒 李四川喊話：做錯事就該道歉 | 自由電子報 - LINE TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTdiRTRjbHNOd3NBOFdqTmRtdUFQdWVBdXVoaUtKVDg0aXlpdW1uWTJ2MnZQYTRRTkRuNlpvQXNqbDV0UlhvRDgxdDEtWjVXQV95TlVJSnJESk9EczlCYVRTVVVLVzA5N08yVktDbVpGYlBJLVptZW5UdTVhZHdMd3hrTzdZbUtiM2c?oc=5",
+   "source": "LINE TODAY",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "政治人物針對幼教議題展開攻防，並引發相關行政責任的討論。",
+   "takeaway": "家長應持續關注幼教政策與相關行政監督議題，以維護幼兒權益。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "台中12歲國一生住處7樓墜落不治，疑段考成績不理想，確切原因待查 - Mombaby 媽媽寶寶懷孕生活網",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVdGFGeTl6VEZiR1B3NDZ6cnh5cW5xLVJCQzg4ckptamtrM3dySzVjX1hXNW5OMTdxUVVsRzBGSEdwdDFVNHhvY0Q1NFZvME9VV3h1c0R3?oc=5",
+   "source": "Mombaby 媽媽寶寶懷孕生活網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "台中一名12歲國中生疑似因段考成績不理想，從住處墜樓身亡。目前詳細的事故原因仍有待相關單位進一步調查釐清。",
+   "takeaway": "家長應多關注孩子的課業壓力與情緒狀態，並建立良好的溝通管道。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "臺師大KIT團隊10年追蹤臺灣兒童成長溫暖陪伴勝過經濟條件- 生活新聞 - PChome Online 新聞",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRVI3cjlwc002OWFxWFBRSUFySWphZ0dTTFJfNHVvLVdrS3p5Y29ocHFqb0daRXhaYjZQYXhfczlzM2dBMnpxaks3QVdVTy1wY05FZ1h5bDFNS2V5SXBTNk05aVNveHJ1WG82Vl9YT2RDYk40cWU1OW9WdFgycVVka3dqSjI?oc=5",
+   "source": "PChome Online 新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "臺師大研究團隊經過十年的長期追蹤，發現對於兒童的成長發展而言，家庭提供的溫暖陪伴比經濟條件更為關鍵。",
+   "takeaway": "家長應重視與孩子的互動品質，給予足夠的溫暖陪伴。",
+   "mentions": 2,
+   "also_from": [
+    "蕃新聞"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "浴佛結合正念舒壓 宏法社陪伴興華學子迎會考 - 人間通訊社",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNYVk2eGs4RjdCQzZ1VWZ3TU50RVZfTHpkUHl4ajB1ZkcwUnZ0ekQ3WnBTdkFnTm4tdGpSUWdidUlDZlpqaGxSTVBqb3RjMXR1V3RUZVFqaDhpR2RnNEd0WHpJTXd2ZUFwTjI4cU9pcnZMV2tkaGJhc0lXbHU5UF9tbzl5cEpSOFdlRHVmWGpUYzBBU2lNcWR2c0dEdE0zNkZGc1RLblEtOURUZGo1VnVweF9xaHY5b0o5dDk2YWI4QnVHWVcwMVJCUzVpMzlxWHlaZFUyMUpWdWpmXzZiSHJqNFNsaXBuSUt5REJ3ekhNUnB0MURoZDNkclVZbkE1ZnRyaVY3clVocW1raGhROFI0WnZXVU9yWEFia2Jmd2tXSTYxQzYyMlBXRGpYaGZqWWwzWE9iVHBCdTI2T3J5WUpHaEUzR19SZw?oc=5",
+   "source": "人間通訊社",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "宏法社透過浴佛活動結合正念練習，協助即將面臨會考的興華中學學生緩解壓力。",
+   "takeaway": "考前可引導學生透過正念練習，穩定情緒並提升專注力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "青少年容貌焦慮怎麼辦？兒盟調查35.4%受訪者自述焦慮，家長如何陪伴 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhVGdtM09LQnBDUWYzQy1SZmJtSWFJcF9MVHF2dGZCeG1rX3VYX3dGLW43UENBbndMYVFvM3JhWVpvV2VRWTNramJBYy0yX1pGeWc?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "兒福聯盟調查顯示，超過三成的青少年對自身外貌感到焦慮。家長應正視此現象，並學習如何陪伴孩子面對容貌焦慮的挑戰。",
+   "takeaway": "家長應多傾聽並接納孩子的感受，協助建立多元的自我價值觀。",
+   "mentions": 2,
+   "also_from": [
+    "Life 生活網"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "教育部補助1239萬元 中市神岡高工、六寶國小跑道球場將整建 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IUHgtTy1zYkpuamI0OFdJZzdVOGMxUXpseHZKQTVJY1lidV9VS3dyd3IzQWQ0dHpsb1U3R0dxZGpuTUN4YXZaUEQwaXpXVmRFN1ltSGFXUmtTNzk5WXpLZE1RYnFDZTdjSWfSAW9BVV95cUxQVDl6dWhYNHJMUzdTcEI2eWd1S1plX2NpbkJqeV83d0U0QzRyaVJ4NVJuMGdKajdLWW5sZG0zYzF4aWFEZjhyNnItc3lfZ0wyMFNtTU95a0F3MEZDZEZYYl92QmdFX1o4LVhwdGFnTzA?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部核定補助經費，將協助台中市神岡高工與六寶國小進行校內跑道及球場的整建工程。",
+   "takeaway": "學校運動設施將翻新，家長可留意校園環境改善後的體育活動空間與安全性。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "孩子烏龜頸怎麼改善？3 個姿勢警訊與日常調整方法 - 親子天下",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wc2FXU0NrNnhCbjBUXzZHb3UzamY1OTVsSU5JM1NkVGxCNktnSHBRTDFXQmltcGhLQ1hwUFg3S19ZcjFzdExfSEQ0dXBBb1EtNjh0eWROQQ?oc=5",
+   "source": "親子天下",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "本文探討兒童與青少年常見的烏龜頸姿勢問題，並提供改善建議。家長可透過觀察孩子的日常姿勢，及早發現並調整不良習慣。",
+   "takeaway": "家長應留意孩子日常姿勢，並透過適當調整預防烏龜頸發生。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "讀國際學校就有國際觀？家長深刻觀察：比起英文流利，能不能「理解差異」才是關鍵 - 換日線 Crossing",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOX1VpTmJmVmkyNURpak1xREJHXzl4Wkhkd0ZzQlp5V2dyNUtWU2cxLTlUWXptNnNoVEc1bmJpblJrcVNZY25oMW9xbzdEaWh0VkE?oc=5",
+   "source": "換日線 Crossing",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "家長觀察指出，就讀國際學校並不等同於具備國際觀。真正的國際視野核心，在於孩子能否學會尊重並理解不同文化間的差異，而非僅僅追求語言能力的流利。",
+   "takeaway": "培養孩子對多元文化的包容與理解，比單純追求語言學習更重要。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "嘉義家扶 享受山姍來遲旅遊 230名親子共學營 - 大紀元",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83ZFJNMmR6Zm1Tb3NfMkNaSllCVUVJeXo3d1dzaDFzMzRMeEp3WjZtQjZtcnctZTJ5M0FpRmZVT0VxUHNlZmlyRmV3aDVkbWJBVnNkdnoxUFNMRENlNnhhN3ZjVjBiZWPSAWdBVV95cUxPN2RSTTJkemZtU29zXzJDWkpZQlVFSXl6N3dXc2gxczM0THhKd1o2bUI2bXJ3LWUyeTNBaUZmVU9FcVBzZWZpckZld2g1ZG1iQVZzZHZ6MVBTTERDZTZ4YTd2Y1YwYmVj?oc=5",
+   "source": "大紀元",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "嘉義家扶中心舉辦親子共學營，邀請230名親子共同參與旅遊活動。",
+   "takeaway": "透過參與社福機構舉辦的親子活動，能增進家庭互動與情感連結。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "孩子語言發展慢 專家教家長用遊戲引導開口 - 民眾新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhdWF0ZklEb0RBRURfaFA3NjdVdnVNQlFPMmM5clFUSTRKbFNQYmNKMTZVSU1DVEhNNTRVOGdpTFVWWWpOMGdsQWYtR2N4WkxGMVQ0?oc=5",
+   "source": "民眾新聞網",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "針對語言發展較遲緩的幼兒，專家建議家長透過遊戲互動的方式，引導孩子主動開口說話。",
+   "takeaway": "家長可將語言練習融入日常遊戲中，降低壓力並提升孩子開口意願。",
+   "mentions": 2,
+   "also_from": [
+    "Life 生活網"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "title": "國三、小六特教生 啟動重新評估 - 中華新聞雲／中華日報",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kcmh6aG5Vb1pzRHFLdUc3aXpFcXlmR0NiZ1c5WEw3SFFMTTNwU0gyMGs3bVJvbmZ5bFFxbk1VNlNBbkw3YUphM2N2bm9sUU50alE?oc=5",
+   "source": "中華新聞雲／中華日報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "針對國三與小六的特殊教育學生，相關單位已啟動重新評估作業。",
+   "takeaway": "家長與老師應留意升學關鍵年段特教生的重新評估時程。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "台灣少年武和宮廣場遭集體霸凌「圍毆拖行」 警移送9名少年上法庭 - 堅料網",
+   "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxNel9ORHc4endJeWVCcHFVc2IybDdnMERqbG9ZRmtHaE9rYmxJRzdWM0FGeXRQeV9EUl9abjA5YzRDcHE2UkVjTVV5UVBodVg3aXJVTk15YnRGNVZUWHVXcFBrX0wtcmlUV2tLbHFISTljVmhjWFZOM3c1VTNMeDdYUDdlWlhqdWJabzZ4S1NYQ3JJVXRJY1M3VGZQQlNBR3plUkxiNEdBMjJkUmdtZzN2ZFVud2JPVmkxdTB1NUJBdXNoRXNCQXFGSC1mTFRiY1JaQV8wRzd3N05LaXJLSzY0dVRDRUoyRWlaUHc4dGsxUHF5QjZhWFp4TkotWXR5N1B0VWhic0tRYU1sdmxKUXZLb25wX1pRc0ktX2dBaXMzdlJIaExCMnFlel90S2JUcFhKQ2J4ZW5DVFNsZFkzVGt6ZFVMMHJnek50QkZLbklmaVd5bEdqLXhtQmtUSHVha2RHTGs1ZEk3LU5MLVhQZlg5N1YwWXNTcll1YnpOeFlKTmljSUU3cEsySVlWaUJBN3QzaFIyYUw2QjNxa0dwTWxkSVBrMlBTaEpVZ01PQkpJdXFGQUhib0hodTRoNEFoOE1iT0p5QXJJbDF2Z1VVdmlaODZHaDhBaHNBSlFCazhOWWZVT0ZNa0NJUzdXMTkzLTJBMGVmQkxNeG1SaUxwa2k2bGkwMDZDODRaQllZ?oc=5",
+   "source": "堅料網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "台灣發生一起少年在宮廟廣場遭集體霸凌的暴力事件，目前涉案的九名少年已被警方移送法庭處理。",
+   "takeaway": "家長應多關心青少年的社交狀況，並教導孩子面對霸凌時的應對與求助管道。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-19",
+   "title": "孩子開始服用ADHD藥物後，老師該觀察什麼？從五個課堂變化，建立有效的親師醫合作 - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2X3NQMVJ5TGJrNXhiSkNQTld6dWlldkswZTFGUDlnd0lqWWRYRDBrSF9yYWRCcEl6bmlIZGpwalBwWHVjRXR3SVdMU3NQSVctdl9zbDRVQ1pwTjA?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "當孩子開始服用ADHD藥物後，老師可透過觀察五個課堂變化，來協助建立有效的親師醫合作。",
+   "takeaway": "老師與家長可共同觀察孩子服藥後的課堂行為變化，建立良好的醫病親師合作。",
    "mentions": 1,
    "also_from": []
   }
@@ -1814,6 +2022,16 @@
   {
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdE1uZWpzclhqWGU2Y25mMm1EWGhTZ0FrTlktamRmMmpBZ3cxWjd1djJjQTBaMENKcVdpUUhYbWVYYUJPajYzSFA0STR3YTJ2OFhsUm1xSjltbGU3Y0ZsWHRiMm5Hd1F3bVR5YzY1WXBGcjZ0X09WV1lsVkpFaVRLeGpRWU45VXM?oc=5",
    "title": "",
+   "date": "2026-10-19"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VVklsSG43XzlnTlhzLVhMVE1zeVZjdGFfTUpqVXFSc0c5elRjMjJ6eW9FOXo0enRqYWJRT1hFZUtTVTJfVFpoX0t2ZTIzTG9WSHNVUkJKMDQ?oc=5",
+   "title": "年收304萬以為人生超穩！他59歲一算開銷驚覺晚年完蛋了",
+   "date": "2026-10-19"
+  },
+  {
+   "url": "https://www.twreporter.org/a/tainan-underground-railway-2026-open-to-traffic",
+   "title": "台南鐵路走入地下：送別地面列車最後一夜，拆遷戶的無奈心聲與新生",
    "date": "2026-10-19"
   }
  ]
