@@ -1572,8 +1572,10 @@
    "topic": "學習方法",
    "summary": "全台有350所學校投入金融素養教育，透過數千小時的服務課程，協助學生與家長共同學習防詐騙知識。此計畫旨在提升家庭整體的金融安全意識。",
    "takeaway": "家長可多留意學校的金融教育資源，並與孩子討論防詐觀念。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "LINE TODAY"
+   ]
   },
   {
    "date": "2026-10-19",
@@ -1852,9 +1854,10 @@
    "topic": "教養",
    "summary": "針對語言發展較遲緩的幼兒，專家建議家長透過遊戲互動的方式，引導孩子主動開口說話。",
    "takeaway": "家長可將語言練習融入日常遊戲中，降低壓力並提升孩子開口意願。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "Life 生活網"
+    "Life 生活網",
+    "獨家報導"
    ]
   },
   {
@@ -1912,9 +1915,10 @@
    "topic": "教養",
    "summary": "景興國小舉辦融合教育體驗活動，讓兩百多位學童透過換位思考，學習如何尊重與同理他人。",
    "takeaway": "透過體驗活動引導孩子換位思考，能有效培養同理心與尊重多元的態度。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "Life 生活網"
+    "Life 生活網",
+    "蕃新聞"
    ]
   },
   {
@@ -2073,6 +2077,188 @@
    "topic": "政策",
    "summary": "多個教育工會針對教育部放寬幼兒園代理教師聘任規定表達反對意見。工會呼籲政府應重視幼教專業，避免相關政策影響教學品質。",
    "takeaway": "家長可持續關注幼教政策變動，並留意幼兒園師資專業度對教學環境的影響。",
+   "mentions": 2,
+   "also_from": [
+    "LINE TODAY"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "「我很驕傲，我是一個幼教老師！」師鐸獎得主劉詠欣：打破課本框框，讓整個世界都是孩子的教室！ - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80b1h2MlAyY3pnNDJMeHVkSDRnX0pGWV9VcW0tdHdPcC1JZGhURUNqNzBXZW5kUG5LVlg2WjdtVHZUV2xwODJ3RXM0Y29Cal9vc2RYYUlETHVJU0k?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "師鐸獎得主劉詠欣分享幼教經驗，強調應跳脫傳統課本的限制。她主張將學習場域延伸至真實世界，讓孩子在生活中探索與成長。",
+   "takeaway": "鼓勵家長與老師打破框架，引導孩子從生活環境中主動學習。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "計時100秒：兩位作家 兩樣緊張的趣味 - 國語日報",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHUGlHVW1jRkt6QUQ2MVg3MWUxQkxzdEVDVzUyaWZfRVV5TEhKc1F2N1BJM0RjNzFXcjE5WlFsbTVsM2F1NE84SWVycEZRaXRCNnhqUnAxUE5uMEVkRm1QbUhTdkNGTGs?oc=5",
+   "source": "國語日報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "透過計時挑戰的方式，呈現兩位作家在有限時間內進行創作的趣味過程。此活動展現了寫作的節奏感與臨場反應。",
+   "takeaway": "家長可運用限時挑戰，引導孩子練習在短時間內組織想法並進行創意寫作。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "生活就是語言教室 隨時隨地玩出表達力 第6區早資中心親職活動化解父母焦慮 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fUGJBOHRUUzRxbTVnS2ZpX0JDNDRvVE1XVlhSc2hkeGFXSzRyQktJMU4tSVJiRTVsZFY4NUZZb2VxcGlqeU1FUUR3Vmk4VS1mREE?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "第6區早資中心舉辦親職活動，透過生活化的互動方式，協助家長在日常中培養孩子的語言表達能力，並緩解育兒焦慮。",
+   "takeaway": "家長可將生活場景轉化為語言練習，透過輕鬆互動提升孩子的表達自信。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "台中某國小3特教生遭綁椅子 校方：涉案教師已調離現職 - 你的公共電視",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IV1hhUU1YY0JNdEpxeHZ6aHNvaExvSk5Zd3N3RGprNGNWbVBQRUVEQmJRU1RGSmI5dVdSeVdpaENwSU5USkVDOVJ4Y0JmWTg?oc=5",
+   "source": "你的公共電視",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "心理健康",
+   "summary": "台中市某國小發生特教學生遭教師綑綁在椅子上的不當管教事件。目前校方已將涉案教師調離現職，並啟動相關調查程序。",
+   "takeaway": "家長應多留意孩子在校的身心狀況，並與校方保持密切溝通以確保學生安全。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "助自閉症童找回友情！奇美醫「Super Skills」神救援- 生活新聞 - PChome Online 新聞",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVnFwaVpQSE83QkVQLWxTRnI3eDhmcnJJN3ZERWQ0UkZqVVdoWURZcWFaVjA1akpfRDNOYzR5WEtpSFFrVGpWc2xpNUlQcmJzY2Jja0lUQndPRHRmczhqQlZZNkhwMTRDdjdrd1N0S1VZdnpwUV9rUDhHSXdmRG9ILWVFQ1NxM3l2aXo2V0REZw?oc=5",
+   "source": "PChome Online 新聞",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "奇美醫院透過「Super Skills」課程，協助自閉症兒童改善社交技巧並重建人際關係。",
+   "takeaway": "家長可關注醫療機構提供的社交技巧訓練課程，協助孩子提升人際互動能力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "該介入孩子們的遊戲嗎？破解幼兒遊戲的迷思 - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYa3dCc2RkcUxYdnR3XzZ5YjRZUFdGREI5MW1iQjlUM3FLNFVVWDdNV3BBSHh1dTZkbUNPSDlHUnQ2aU1HWW1Fb0FDVmpjdE1Wb0dMcW1mbllaZDQ?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "本文探討家長在面對幼兒遊戲時，是否應該主動介入的相關迷思。透過釐清遊戲的本質，協助成人理解如何適度參與孩子的探索過程。",
+   "takeaway": "家長應觀察並尊重孩子的遊戲節奏，適時給予支持而非過度干預。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "台中特教生如「貨物」慘遭綑綁 家長目睹心碎痛喊：救救無聲的孩子 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qZmxJY1ZQT2ZOd1B6emItY29vM3plQ3g3Skp1ekZRZUdkQ0RHOWd3NTZySDJXRHBkLVdHR2pFc0RIQmFUOVg0UzB1a1c1ZTYzbVBXSENVWlhQS2pzTm5yblEySTbSAWpBVV95cUxPbkRJNkd4WXotUVdWTmo2a3M4aG1kYS1RMHo0aFA0Q3dkMUJ0RTVGM2tFR3V2ZGl2UGo4a2VqWTlfOEt4RFZUYm5zUk8wakdDaVJVcEo3Q0lKOVVuN1J1OVVMRnR4YWRvZzln?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "台中發生特教生在校遭綑綁的不當對待事件，引發家長對特殊教育環境安全的強烈擔憂。",
+   "takeaway": "家長應多留意孩子在校的身心狀況，並與校方保持密切溝通以確保教學環境安全。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "台中某國小學生遭綑綁椅子 學校回應了 - 東森新聞",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UOS1VUlMxcWZ6YkpZZTdrZDdKamFKRG1zaWQ3eFgzd1VYME5mMS02Y05qaDFvVzhZbTBtblJrYkQzUXlMYjJxdmhhOGg1ZkM3X3JoRlJB?oc=5",
+   "source": "東森新聞",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "心理健康",
+   "summary": "台中某國小發生學生遭綑綁在椅子上的事件，目前校方已針對此案做出回應。",
+   "takeaway": "家長應多留意孩子在校的適應狀況，並與學校保持良好溝通。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "福克斯美語深耕桃園英語教育陪伴孩子扎實學習走向世界 - 經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqUlBDU1dKeWdJYVowLVZibWozcTZNUGdMM2RXTWNRajFDNjRLUUVmbDlxRF96TXpYX0h2OTZvR0Y1VzV5WXhXQ0xta3lGMkhhSXZGcDZtUGJEQmxaSU1sTWdn0gFiQVVfeXFMUGpSUENTV0p5Z0lhWjAtVmJtajNxNk1QZ0wzZFdNY1FqMUM2NEtRRWZsOXFEX3pNelhfSHY5Nm9HRjVXNXlZeFdDTG1reUYySGFJdkZwNm1QYkRCbFpJTWxNZ2c?oc=5",
+   "source": "經濟日報",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "福克斯美語致力於桃園地區的英語教育，透過陪伴式教學協助孩子打好語言基礎並拓展國際視野。",
+   "takeaway": "家長可評估在地英語補習資源，為孩子選擇適合的語言學習環境。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "賢庵國小幼兒園上樑 為孩子築起成長新天地 - 金門GO資訊網",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kYkh6WHJyZzBEb2F4ekdhdEtPQmRiMF9pOXREYnhwRG9PaDRXbC12cWJNLVl4b2xnUDRic1FpTUU5aldNZDJaTG1NaGlFYjlNUS0xelBIRl9Hai0ySUZEdEtGR3BqaWhVSHpIZzVuNHBMOXFDdWc?oc=5",
+   "source": "金門GO資訊網",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "其他",
+   "summary": "金門賢庵國小附設幼兒園舉行上樑典禮，象徵校舍建築工程邁向新階段。這項建設旨在為當地幼兒打造更優質的學習與成長環境。",
+   "takeaway": "家長可持續關注學校硬體建設進度，了解未來幼兒園的教學環境規劃。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "電子煙回收633公斤國教盟估4萬青少使用- 其他 - 旺得富理財網",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oUk9Qc1dieS1BZDRHa25veWtqNUZ2aV9QMFpUR0RNQlp0TWZYTXNYZkJQdlMtVHRPd3VYdVRYendaYVFDV3dibEF1Mmc5QW9YTDh5R0ZadzFOYy1VWWQwTDYxN3cyaUNoMWc?oc=5",
+   "source": "旺得富理財網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "國教盟根據電子煙回收數據推估，目前約有四萬名青少年正暴露在電子煙的危害之中。",
+   "takeaway": "家長與老師應多留意青少年的社交圈與行為，加強宣導電子煙對健康的負面影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "中市特教生遭綑綁椅子上家長控學校消極 校方道歉：已調整涉案人職務 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DeUQzSVRPaDJDVXhtOTFkOEFsMFQ2TzZTUkNPSnVPOTk3cDVqak9sdi1CNk5PMjNWRVhQbTJRVEhJUmRhc1VJMnFSZmpwSFUw0gFWQVVfeXFMTm9CQUstUzRHOEJ3aDhfamRuak9xOUw5dC1jWFhrWk8tOWM3RzlvOVc5NEhqTGNncUpVRmhzaXo2cDV2Tkx0em11X3hxOXcyckF6ZGxvcmc?oc=5",
+   "source": "UDN",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "台中市發生特教生在校遭綑綁於椅子上的不當管教事件，引發家長對校方處理態度的質疑。校方已針對此事件公開道歉，並將涉案人員進行職務調整。",
+   "takeaway": "家長應密切關注特教生的校園適應狀況，並與校方保持良好溝通以確保學生權益。",
    "mentions": 1,
    "also_from": []
   }
@@ -2226,6 +2412,21 @@
   {
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HYi02QTRocDMtbmUwYXF4Y3l2Y2J4eHRoLVlyNHYzSFdzQlpCVVgtQUU5eVItMThxYTBkdkpFMVkyS1Y3MDVMRF9kUWNnUUtDUHlpV2dn0gFWQVVfeXFMT0diLTZBNGhwMy1uZTBhcXhjeXZjYnh4dGgtWXI0djNIV3NCWkJVWC1BRTl5Ui0xOHFhMGR2SkUxWTJLVjcwNUxEX2RRY2dRS0NQeWlXZ2c?oc=5",
    "title": "從挑戰裸體藝術禁忌到陪伴迷途孩子 80歲吳素蓮病中迎25周年展",
+   "date": "2026-10-20"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNc2tCenlMZXBqV0k1X05Ua1VBdFBZX1hOMkxaVWNfR1d3U2hEdEpxYjhPOVlDRTdXS25ZQXJZal8zSUVJMW10RzF4czdMMjUxczUxcUtDR21DUHlYT3Bac2RTWGo3cWxMaHBOSzd5b3ZfM2JYT1BqbU9WQVdIYlZGcWE2TWcxbjFobi0yR3U0emJBcUJSOEt0QkFMejVRd2VKQWROM0ZEeDYxWlRLZGxsVFlhVF9uQk5LdE53VVlaV2Z3Qm91aVI2QzNndzNodmd6ZlY1eF9xVl9ObF8tdnIxeEQzUHRYeThFaUpKWWxXclhoNVA4MjVkeHB3SHoxc2EzN01GaVdnaXFPZTFkX0gxQS1RdFprVk1FbVNFbUtuWXdiYW16MTBlQi1aTTZ0MzVWSER3LWpHM1ZnS1JLcGltMkVFaUhFQTVFMURQZW5QRFQwU0FSam5DYXJaa3habkZCWDlGNzI5RmxmUWdMUnp5WmxOcUxjY2dfQ3RHNHJfT0NVTWNtVVU3RnBCVDlLcEs2QzJpZDY4bHBQV05wUkRFcDdDNFJIR3cwR3dlYlI1RlN1UQ?oc=5",
+   "title": "當腦退化奪去父母的表達力：學會聆聽那些說不出口的需要｜家福會",
+   "date": "2026-10-20"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NX0lJMHBsVXlXcjRWS044cHlyRVFsTjJPWG9zeG5JdFpNQnlXQm1uV0FNMk03ZVRUcWNNNGpheE81V042dXpsMEFyN2JpMXJheUI3YQ?oc=5",
+   "title": "農業部10/19舉辦第4屆金推獎頒獎典禮，感謝深耕與陪伴地方的農漁業推廣優秀單位及人員",
+   "date": "2026-10-20"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zSkV4OWc0NjRxbm10RlM4Ry1Tb25VNzZGa1NDZlpLZFRXOXl0c2trRVVYQzdvYzBpM3JxM3B6N21MdDlQa2FmcGZpZVV4b3JoOW13bWJR?oc=5",
+   "title": "才稱蔣萬安「什麼都不知道」 蘇傳臣錄影澄清：雙北慣例不同 | 上報",
    "date": "2026-10-20"
   }
  ]
