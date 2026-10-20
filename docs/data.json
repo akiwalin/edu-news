@@ -1445,8 +1445,10 @@
    "topic": "政策",
    "summary": "台北市透過園長會議建立與幼教界的對話機制，展現對幼兒教育政策溝通的重視。",
    "takeaway": "家長可持續關注地方政府的幼教政策溝通與執行情形。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "Yahoo新聞"
+   ]
   },
   {
    "date": "2026-10-18",
@@ -1706,8 +1708,10 @@
    "topic": "政策",
    "summary": "政治人物針對幼教議題展開攻防，並引發相關行政責任的討論。",
    "takeaway": "家長應持續關注幼教政策與相關行政監督議題，以維護幼兒權益。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "自由時報"
+   ]
   },
   {
    "date": "2026-10-19",
@@ -1896,6 +1900,181 @@
    "takeaway": "老師與家長可共同觀察孩子服藥後的課堂行為變化，建立良好的醫病親師合作。",
    "mentions": 1,
    "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "景興國小230位學童體驗融合教育 透過換位思考學會同理與尊重 - Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQaUtDQ1F6LVYzOFlhWFc3bWxicGszN3djaFctZjVWbHVyekdIOEdaa3F4T29KVWhJaWFEU3NNc256OUhrZjEtTmVna3ZCS0gwWTR4RkZRT0k4aTNPbFhkVnJDYzdTUkNOZ1BqRERQZm1VOEl1TWJyR1RPTm16V044UllDYjk2LVkwbEhLTURaRUQxZjN0N1FabmpYS1BIYlA3WTBRRVlPZDJKa1l1SDNjWXV6RHZwb3hXLTdOX05zWUxDRFpEWGczVVZHQW5HOWJYQ0VtWjBaTVhHaXRYd2Q1UEhnRlF1bjBIV0R6b2RhdG9mNDVHeFNodjdwRklYbW1BSjR0S2U2aVkxS3N2b2dqWTQ5aHlVUlRUd3lmek4wZUt0MXpac3ZTWG96TWZndF9QeVRWMzFZaFZpbFVuVENRZHgzdFgwYWRCMkoxMEpDQnNvRkgtSTRfMzhNVmZpa3RRY00ydnZpenhBek1HRlF2UjFJTnF0UGtSMER1RmRsVW9tQ1o3M2diUFdpeEM3MEZG?oc=5",
+   "source": "Yahoo新聞",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "教養",
+   "summary": "景興國小舉辦融合教育體驗活動，讓兩百多位學童透過換位思考，學習如何尊重與同理他人。",
+   "takeaway": "透過體驗活動引導孩子換位思考，能有效培養同理心與尊重多元的態度。",
+   "mentions": 2,
+   "also_from": [
+    "Life 生活網"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "title": "東京大學、京都大學學者走進新莊高中公民課堂，盛讚學生思辨力與探究精神 - 民安救護車",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NN2Y4LWIwS1g0ZElfQ1N6dlRKVDZPR2hwdm5tNFB1ZzdDMVFDMmZQUzFJYV9rV3J4RGRlUWd2YmRCeUd1djR1dzVoTVRUYU93Ni1rYUpHQV9WcGZWUGluYm9KSFpiRUxrWkFiaw?oc=5",
+   "source": "民安救護車",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "東京大學與京都大學的學者親自前往新莊高中進行交流，並對該校學生的思辨能力與探究精神給予高度評價。",
+   "takeaway": "鼓勵學生培養批判性思考與主動探究的學習態度。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "不是為了防疫！近1/4青少年長時間戴口罩 背後原因讓人心疼 - 健康醫療網",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iajFKeVVmRlk1NVVDVjBuQmVOR2k1ajI0ZDZZRXl1ZVNhVU9EUll3NWgya3Y2ZnZpem1hRHFBMjNneVc5UzJkcGp0REY4Mk9qLTBqb2NR?oc=5",
+   "source": "健康醫療網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "調查顯示，有近四分之一的青少年即便在非防疫需求下，仍習慣長時間配戴口罩。這項現象反映出青少年在社交互動中可能存在心理壓力或對外貌的不安全感。",
+   "takeaway": "家長應多關心孩子配戴口罩的動機，並留意其社交自信與心理狀態。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "深化臺比教育夥伴關係！國教署攜手駐歐盟兼駐比利時代表處與比利時法語區辦理中小學線上交流會 - 教育部全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14UkxISl8ybTF3RlF6WmZkNjhwZy0xVDlmZGZoOW5tR3Z1RjlERXd3NWtjeE1GU1BUemVRblJ0a2FYTHZSQU50OUp2UV91WnJUMExJUm9qejViTDllN0NJaFFuNGVnTVVUU2I0UTFjaXp3eHV1a3ZiaEx5Q3lXdTQ?oc=5",
+   "source": "教育部全球資訊網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部國教署與駐比利時代表處合作，推動台灣與比利時法語區中小學的線上交流活動。此舉旨在深化雙邊教育夥伴關係，促進跨國學習與文化互動。",
+   "takeaway": "家長與老師可留意學校是否有相關國際交流計畫，鼓勵孩子參與以拓展國際視野。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "8 成青年對政府絕望！直擊法國示威：當「未來被堵死」，Z 世代為何上街？｜迷瑞meRui／法生什麼事｜換日線 - 換日線 Crossing",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43QXJoYVVmV05MTnFrYmcydnQwazNpLWF5a2NLTkVFaGVuR2V4ZFZGMHRsN3NOX191bHZYN21vMzZaQVlEbkxvYW9lYlZGV2Ntbmc?oc=5",
+   "source": "換日線 Crossing",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "本文探討法國青年對政府政策感到絕望，並分析 Z 世代走上街頭抗爭背後的社會與未來發展困境。",
+   "takeaway": "家長可藉此引導青少年關注社會議題，並培養批判性思考與理性表達觀點的能力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "孩子不懂事？英數據揭傷害貓咪個案「逾6成未滿11歲」！動保團體籲及早教育 - udn寵物部落",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sb0VTUEhta3JlLWY2dU53bFR3RktpNW1FaHFDdjR6ajJGQVZBUXUzaUVmWFJyYVVXWElaUWdyak5lZE1UYkdfYWtZT3Bzb1FHTTZBVlhnUUFZZGhtQ2IwYTloczJGdHFUaXVHYXlSeDNmaHJ0SXNYT3RxZm_SAV9BVV95cUxOUFVBQkZMNVdYUktSM0V2SnVmNHNkXy11cWNrZ0MtUDBLcjB1LXBjZEFYbzdhSmhULTVHY3dGbGdpT19aQlJZVmFHVjV1VGpRMkxsTUpXclM5c0lvUTVqWQ?oc=5",
+   "source": "udn寵物部落",
+   "ages": [
+    "3-6",
+    "6-12"
+   ],
+   "topic": "教養",
+   "summary": "英國數據顯示，多數傷害貓咪的案例是由未滿11歲的兒童所造成。動保團體建議，應及早對孩子進行正確的動物保護教育，以避免類似傷害發生。",
+   "takeaway": "家長應及早教導孩子尊重生命，並引導正確與寵物互動的方式。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "-賢庵國小新建幼兒園教學大樓舉行上樑典禮 投入1.22億元 陳福海：優質幼教從孩子視角出發 - 金門日報",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWeUhVRHlsZ0NfQ0tXVFJCTjg3QzVfV0poM2JnV0dEVUZQN0VHRlBHck9Cd2MtSjVuQnEyY2w0UHZiekp6Mm9rLTFUY2phSG1GSDdJZEdIRU0?oc=5",
+   "source": "金門日報",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "金門賢庵國小投入逾億元經費，正式啟動新建幼兒園教學大樓的上樑儀式。縣長陳福海強調，未來將持續推動以幼兒視角為核心的優質教育環境。",
+   "takeaway": "家長可關注在地幼教設施的更新，了解學校如何透過空間規劃提升教學品質。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "家教中心親子共學26日起巡迴四鄉五島 報名 - 馬祖日報",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hZUVkZGNBeDhySzU1SF9ualgzSWNyRHhJVl9tZ3N6RGhEYjducEJseEkxcEJ2TTUtemk4YVBScGF1Rk5LY05maUxScmFvd0JPZ2Rwc3pNTU01bjN5ZUE?oc=5",
+   "source": "馬祖日報",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "馬祖家教中心將於26日起，在四鄉五島舉辦親子共學巡迴活動。歡迎家長與孩子踴躍報名參與。",
+   "takeaway": "家長可留意當地家教中心公告，把握親子共學的學習機會。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "近80年老校舍大變身！桃園新明國小創新辦學 奪KDP全國特優 - 桃園電子報",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2WXZ5YUhqWXpZQXBQYzZQNFRHeWY2Wi1VbURMNGZqVVo4V3E1eHUtdjhrMFFXb3p5UkRwcVBHNFFVcFFLVkU2NURlbk4?oc=5",
+   "source": "桃園電子報",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "桃園市新明國小透過校舍翻新與創新辦學，獲得KDP全國學校經營與教學創新特優獎項。",
+   "takeaway": "家長可關注學校如何透過環境改善與教學創新，提升孩子的學習體驗。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "【觀點】當法國學生走上街頭：臺灣的民主教育，走進教室了嗎？／魯云湘- 生活新聞 - PChome Online 新聞",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYXh2d1lyS3V3WUFXelVBNzJLaXJiSkJWQ1VpSGo5Y1o3Tl9YTHYwU1MtOEl6ZVhGUkRfamM2TEZ4U0VwMjdNV1NKQjdDOE9ObF9nRzlGaFNBVVZvSkIxZzhhbDJhQTZLOHZpdzY0T3RyYTdsZy1tc19Zc0dUT3lzUXJRMF90ZkQ5cHJyZ1hhUXlGOGs?oc=5",
+   "source": "PChome Online 新聞",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "本文探討法國學生參與社會運動的現象，並反思台灣民主教育在校園內的落實程度。文章旨在檢視台灣教育體系是否真正將民主素養融入教學現場。",
+   "takeaway": "家長與老師應思考如何引導青少年在校園中實踐民主參與及理性溝通。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "台灣、比利時深化教育互動 37校線上交流「認識台灣文化」 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vREFRVnljeGdCeXVhemhXeEgxS3pLTk9uc3cxRDZVeXN4bE5XaUNfLU96dVNyM3pYLWFzeUVQQksyY0wtUmdjRGVwaVFCNDhfRFNlZnFpVkFtQnBuUl9ndzhzd0h1MGFjR0HSAWpBVV95cUxOb0RBUVZ5Y3hnQnl1YXpoV3hIMUt6S05PbnN3MUQ2VXlzeGxOV2lDXy1PenVTcjN6WC1hc3lFUEJLMmNMLVJnY0RlcGlRQjQ4X0RTZWZxaVZBbUJwblJfZ3c4c3dIdTBhY0dB?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "台灣與比利時透過線上交流活動，促進兩地共計37所學校進行文化互動。此計畫旨在讓學生透過數位方式認識台灣文化，深化國際教育連結。",
+   "takeaway": "鼓勵孩子參與國際交流活動，藉此拓展文化視野並提升跨國溝通能力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-20",
+   "title": "批幼教代理鬆綁 台教產等9大工會籲教育部尊重專業 - Rti 中央廣播電臺",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CU0k0Tm5KVm9lcHpUaGR3S0dEcXRVTXdzcmg3N1dVZkNoWVJMR1h0SGdtN3lseGdpNVpCRk11Vm96VGxzaUI1b184RHBLX2MyRDBZZlB4MA?oc=5",
+   "source": "Rti 中央廣播電臺",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "多個教育工會針對教育部放寬幼兒園代理教師聘任規定表達反對意見。工會呼籲政府應重視幼教專業，避免相關政策影響教學品質。",
+   "takeaway": "家長可持續關注幼教政策變動，並留意幼兒園師資專業度對教學環境的影響。",
+   "mentions": 1,
+   "also_from": []
   }
  ],
  "rejected": [
@@ -2033,6 +2212,21 @@
    "url": "https://www.twreporter.org/a/tainan-underground-railway-2026-open-to-traffic",
    "title": "台南鐵路走入地下：送別地面列車最後一夜，拆遷戶的無奈心聲與新生",
    "date": "2026-10-19"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13eldoZEl6OVRkU25UMk9rZWpkQVNTVFh2dXRWdFpaVzIyMENuZ0FYcGh4SUZSY1lzR3Q5Ml8tSUNrQTN2OGZwaEI0YjBOekRZaWp6cFNfSWpydHh6UHNmSVQ2UUNtODktUU5mZzNB?oc=5",
+   "title": "【性別有事】賴婉琪／旅途上的喵星人：動物移民與家庭照顧",
+   "date": "2026-10-20"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sNTl0SkI1M0NwNmw2VTA4QlVzRS03b2hPaVlGY3FYbkdCTHJCN3RkWUR0SllCMnRwMVE0SjBOS0FoVG85NWYzQjlJMTdTOU9sNHc?oc=5",
+   "title": "失控的「抗爭匯流」：從高中學運到政黨攻防，剖析法國暴動演變脈絡｜迷瑞meRui／法生什麼事｜換日線",
+   "date": "2026-10-20"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HYi02QTRocDMtbmUwYXF4Y3l2Y2J4eHRoLVlyNHYzSFdzQlpCVVgtQUU5eVItMThxYTBkdkpFMVkyS1Y3MDVMRF9kUWNnUUtDUHlpV2dn0gFWQVVfeXFMT0diLTZBNGhwMy1uZTBhcXhjeXZjYnh4dGgtWXI0djNIV3NCWkJVWC1BRTl5Ui0xOHFhMGR2SkUxWTJLVjcwNUxEX2RRY2dRS0NQeWlXZ2c?oc=5",
+   "title": "從挑戰裸體藝術禁忌到陪伴迷途孩子 80歲吳素蓮病中迎25周年展",
+   "date": "2026-10-20"
   }
  ]
 }
