@@ -1876,8 +1876,10 @@
    "topic": "政策",
    "summary": "針對國三與小六的特殊教育學生，相關單位已啟動重新評估作業。",
    "takeaway": "家長與老師應留意升學關鍵年段特教生的重新評估時程。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "LINE TODAY"
+   ]
   },
   {
    "date": "2026-10-19",
@@ -1936,8 +1938,10 @@
    "topic": "學習方法",
    "summary": "東京大學與京都大學的學者親自前往新莊高中進行交流，並對該校學生的思辨能力與探究精神給予高度評價。",
    "takeaway": "鼓勵學生培養批判性思考與主動探究的學習態度。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "南蓮社區發展協會"
+   ]
   },
   {
    "date": "2026-10-20",
@@ -2040,8 +2044,10 @@
    "topic": "其他",
    "summary": "桃園市新明國小透過校舍翻新與創新辦學，獲得KDP全國學校經營與教學創新特優獎項。",
    "takeaway": "家長可關注學校如何透過環境改善與教學創新，提升孩子的學習體驗。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "Life 生活網"
+   ]
   },
   {
    "date": "2026-10-20",
@@ -2159,8 +2165,10 @@
    "topic": "心理健康",
    "summary": "奇美醫院透過「Super Skills」課程，協助自閉症兒童改善社交技巧並重建人際關係。",
    "takeaway": "家長可關注醫療機構提供的社交技巧訓練課程，協助孩子提升人際互動能力。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "Life 生活網"
+   ]
   },
   {
    "date": "2026-10-20",
@@ -2359,8 +2367,10 @@
    "topic": "政策",
    "summary": "面對少子化與超高齡社會的趨勢，教育資源的分配與思維模式亟需進行結構性調整。文章呼籲教育政策應隨人口結構變化而轉型，以因應未來世代的學習需求。",
    "takeaway": "家長與教育工作者應持續關注教育政策變革，並思考如何優化資源以提升孩子的競爭力。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "獨立評論"
+   ]
   },
   {
    "date": "2026-10-21",
@@ -2438,8 +2448,10 @@
    "topic": "政策",
    "summary": "教育部針對全台約九千名疑似特教生，因家長拒絕鑑定導致輔導資源難以介入的問題，提出三項應對策略。此舉旨在突破現行鑑定機制的困境，以確保有需要的學生能獲得適當的教育支持。",
    "takeaway": "家長應了解特教鑑定是為了爭取資源，而非標籤化，建議主動與校方溝通。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "三立新聞"
+   ]
   },
   {
    "date": "2026-10-21",
@@ -2455,6 +2467,214 @@
    "topic": "教養",
    "summary": "父母對孩子的愛並非與生俱來，而是需要透過後天練習與培養的過程。專家指出，家長不必因為偶爾感到疲憊或挫折而自我懷疑，這並不代表愛得不夠。",
    "takeaway": "接納自己身為父母的真實情緒，從日常的小事開始練習愛與陪伴。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "研究發現：螢幕看太多讓大腦變「被動」！ - 天才領袖",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NX2xzcjRTSFFLTC0tQnBBNC0zTHNPRHJzb21RMjVNUGxXWG1LdjV5ZFdRRThsNEpobm82Mjg0cEpiaHc3b2xYd09NYnBzTVBCWGlaUlExU29vSmM?oc=5",
+   "source": "天才領袖",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "研究指出長時間使用螢幕可能會導致兒童與青少年大腦運作變得被動。家長應留意數位產品對孩子認知發展的潛在影響。",
+   "takeaway": "應適度限制孩子使用螢幕的時間，鼓勵參與主動式學習與互動。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "健全特殊教育 教部提「普特融合」7大策略 - 客家電視台",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3cG5IQ0hhTUlKX2pEUk9oMTBzZklNT0hjN091MS1mMW5xWGlfWExoQmtmTjRpdVBTc3NKV082bk1rbEZaaElad3B0bDhwbnVxRFh1aWljRHNTT2dMNjFHMkJxWWhHUQ?oc=5",
+   "source": "客家電視台",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部針對特殊教育提出七大策略，旨在推動普特融合教育以健全整體體系。",
+   "takeaway": "家長與老師可持續關注教育部後續推動的融合教育政策與配套措施。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "驚人數據：美亞太裔女生自殺率 20年增長125% - 世界新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0SDBsUC1oRHR4b01lWE9VR1h3bkxfX1htVGwyQXBGdzVubjg3WlM5MjNla2VvaHJjbXc3b1RJVVFBYnVObF9iM08tQ09pMXM3OVJZYjNsNW80V0lmMmRkYkZFS0haR0HSAWdBVV95cUxQdEgwbFAtaER0eG9NZVhPVUdYd25MX19YbVRsMkFwRnc1bm44N1pTOTIzZWtlb2hyY213N29USVVRQWJ1TmxfYjNPLUNPaTFzNzlSWWIzbDVvNFdJZjJkZGJGRUtIWkdB?oc=5",
+   "source": "世界新聞網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "根據統計數據顯示，過去二十年間美國亞太裔女學生的自殺率大幅攀升。此現象反映出該族群青少女在成長過程中面臨嚴峻的心理健康挑戰。",
+   "takeaway": "家長與師長應多關注亞太裔青少年的心理狀態，並適時提供情感支持與資源。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "115學年度全國高級中等學校學生技藝競賽月啟動－實作扎根、跨域進階展現新世代技職人才實力 - 教育部全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RcWF1Ukh5N1k4a3BxY2haSnF2M2tqa0Z0RmtkY3EwMXFWY19yNzFFQ1F6ZkNncUFNaUx0dkp0TkljeFQwR1BfaHhxT0Y0ekpwR0NQeDZzRWFQSWVmaUdsZ3VFNDNWM0hTVW81QXN3SFA5ZEw0RXVrX2VoR1cxcWM?oc=5",
+   "source": "教育部全球資訊網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部正式啟動115學年度全國高級中等學校學生技藝競賽。此活動旨在透過實作與跨領域學習，展現技職學生的專業實力。",
+   "takeaway": "家長與老師可鼓勵學生參與技藝競賽，透過實作提升專業技能與競爭力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "孩子內心不安看見？專家解密3S陪伴法則重塑心理復原力 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kaDhDMVVjWmU1Tks3dml2RWFIeGpQYWQwRjJiQmVvRE9Ob1U0cG9YdjFGNG5KRVlnVFAzYXlnN1RSXzhZXzQ1VlVkb1oyUGM4NUE?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "專家提出3S陪伴法則，旨在協助家長辨識孩子內心的不安情緒，並透過適當的引導來重建其心理復原力。",
+   "takeaway": "家長可學習運用3S法則，在孩子感到不安時提供穩定的心理支持。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "普特融合檢討 全國「疑似生」約9千人…國教盟籲公開特教人力到位情形 - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vNU9Cczc1U3pKeEE2c21FaWRONDJ6UDZLZzNsV3lrbTE1ZFhvT21TV3VfWWtPMkxYU2xXYTN5bDZXbC11MkR2cFZBdTRBdmFfaDhaenVqblNGNTg?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "國教盟針對全國約九千名疑似特殊教育需求的學生，提出檢討普特融合教育的需求。呼籲主管機關應公開特教人力配置的實際到位狀況，以確保學生獲得適切支持。",
+   "takeaway": "家長與老師應持續關注特教資源配置，並留意校內特教人力是否充足。",
+   "mentions": 2,
+   "also_from": [
+    "UDN"
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "title": "調查近4萬名兒少！逾2成找AI求情緒支持 女生與少數族群更顯著 醫籲勿當解方 - 基隆海嗨",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBONDRYV2t2NzY4MUQyV19FLW5RNjk5MWxxZlFuTzVKWkFlT0xrMlhmY0NxUjJDUmliU0ZtaTYxWVlIN3F6eW5Z?oc=5",
+   "source": "基隆海嗨",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "一項針對近四萬名兒少的調查顯示，超過兩成比例的孩子會尋求AI進行情緒諮詢。研究發現女性及少數族群對此依賴程度較高，醫師提醒AI不應被視為心理問題的解決方案。",
+   "takeaway": "家長應留意孩子使用AI的情緒依賴，並鼓勵尋求專業心理支持。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "從一盤午餐剩菜到跨國助學：信邦電子支持永續台灣創意教案，讓學習化為行動 - 天下雜誌",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91SHVjeDhmTlk1Vm5lYnhoU0hqa0RrbVFURmxJdmlodlNwUlg0VmFSVDRlV1p6MThHaDlhU3djUmVNU1pXOHo1aUxOWHhmZw?oc=5",
+   "source": "天下雜誌",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "企業透過支持創意教案，鼓勵學生將永續議題轉化為實際行動。這項計畫連結了校園學習與社會公益，讓學生能從生活經驗出發參與跨國助學。",
+   "takeaway": "鼓勵孩子關注生活中的永續議題，並引導他們將所學轉化為具體的實踐行動。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "台中3特教生被綁座椅 家長泣訴救孩子／學校道歉 教育局：已調整3名人員職務 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ybUVBenYyQk53NVF5MkxHZUpzaktYZVdEaUxGdEpGSl9IQy11UVBtd01xakFrYU1HZUNQYkdYOXFzbFdyQlJGN3RqNUt5Y2RyRmdqOS1oMHBkOFXSAWBBVV95cUxQX1JmYjh5ZU9ZM1pMQzZqM2NOLWRKQm5nYWZob3ZvRjNlbVB0YXpkdEM4OFV4UlpGeTNNTzE4c01IMW9BLXR4MFgtTmlXWk1ONlpNNGwxd2ZYM0VveGRSc1A?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "台中市發生特教學生遭綑綁於座椅的爭議事件，引發家長強烈不滿。校方已針對此事公開道歉，教育局亦介入調查並調整相關人員職務。",
+   "takeaway": "家長應密切關注特教生的校園生活，並與校方保持良好溝通以確保孩子權益。",
+   "mentions": 2,
+   "also_from": [
+    "Yahoo新聞"
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "title": "從「會避難」到「會互相照顧」 桃園家庭教育中心體驗防災 - 大紀元",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Kd2tnZUh6b1FydWZjUTlKVjJ5NUxvcGlUVnc0UmtDZGJoUmtrVHRHdHlBX2t0RzhlakJvZVgwd0ZFeVdoNGRmRUhXMGdSSnBHNVhGWEhEODJ5NFVsWHVRalZlRHRiX0HSAWdBVV95cUxNSndrZ2VIem9RcnVmY1E5SlYyeTVMb3BpVFZ3NFJrQ2RiaFJra1R0R3R5QV9rdEc4ZWpCb2VYMHdGRXlXaDRkZkVIVzBnUkpwRzVYRlhIRDgyeTRVbFh1UWpWZUR0Yl9B?oc=5",
+   "source": "大紀元",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "桃園家庭教育中心透過體驗活動，引導家庭成員學習防災知識。活動重點在於培養孩子從自我避難進階到互助照顧的能力。",
+   "takeaway": "家長可帶領孩子參與防災體驗，培養家庭成員間的互助意識與應變能力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "基隆兒少「快閃遊戲列車-考完一起玩」將抵達百福站，帶領孩子們在百七街公園展開一系列冒險體驗 - 基隆市政府",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtTlBDNFc3T1h5SU5RZmxYalVXTDlaY3JtVUJ3eUVUa2NoVXV3YV9NQ29yN0swSTZGY3g3aGZrblR3MkVaTDAyaWkwSFVwZHdMQ1YzUHRKeG92VWY1RUNkc1Bn?oc=5",
+   "source": "基隆市政府",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "基隆市政府將於百七街公園舉辦「快閃遊戲列車」活動，讓孩子在考試結束後能透過冒險體驗放鬆身心。",
+   "takeaway": "家長可留意活動資訊，帶孩子參與戶外遊戲以紓解考試壓力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "全國特教生10年狂增萬人！特教師開缺招不滿「只增2成」 教育部說話了 - Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQUjFMS2s4dnpPVzZIRWhsaXhzQ2xsc0FncHNJSVl5RnAtOEp1RzB5X2VXclZXRVR2Y0h6cFo4aGE1Z25BbHhlOGFsYVFJVzNoSF9nV0lza3UtNXM3MS1ScVlzYW12bl9tT1VoMXdKbFBqdmVnNFFJRGxlVDhXQ2g4SGhYNE9lTHBrTDBJVEo1akJ5enFJRTJJckJzTllFdVhqb05LV2VQS0kweUMtNEIzTThNRWNDOFZXZl9JQlhzZGpRZlB5clJnYUZhX3ZYaU94OG1FMHQ5ZkJFVkFwWWtPTEczbTZwWG03Tk5ab0lUcTVOSVlPaEhXLXIyT1lHbFA0ZFNmcmFTUFdoR1B3djBxVW9LOHdBU0Q2QmpwQV95djFESU9ETU5nTVZFM21nd05OU3huN184UzAyd2c5MHM3SmQ2bVpfXzBWVE84UUtqaVNrTTJVNUhxeVZYTllwenUzRzRaQ1hCSFlZNnh4NDV3WXRycF9uUTNnVjVwcHBULVRueXlQbTQxbVQ1eElJUVFGUWl4R3BQX0dJQlJCRlBj?oc=5",
+   "source": "Yahoo新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "近年來全國特殊教育學生人數顯著成長，但特教教師的增補速度卻遠遠跟不上需求。教育部正針對特教人力不足的現況進行研議與回應。",
+   "takeaway": "家長與老師應持續關注特教資源分配，並留意校園內特教人力配置對孩子學習權益的影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "南湖國中與大明寺舉辦浴佛祈福 祝考生馬到成功 - 人間通訊社",
+   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPbUlhT2VIVmhZbEd3eVNxM3IyZ1lfTDFCWExVUFVvMEhzdFRidWVucXVpYTUxOWpGcUxQTzdpX2VxV0tVSzVyZzYyaTVfNV9nTjB4bEU4Y2E1VHI0RGhLWkNleFFhNEd2SV9rc1psT3BhM1lGTXVSUUU4UXNSdHRrM0NpN3A2NFVycWxnRkthNEZJTUdtVlpiT2x3Rno3SXhJbm82TnNZSm9xVERfdWN3NjREblFXMUtROEk5Rkp4WG1hakxDX0plN1RIMmFnMm9sbFF2VG5BZXBKWDZIcExGVVg1WERDZHI5VGp5aHY0SzlNYkt2OFFLeWpLeEFqV0JTdGNudDN4d1JoVktjeTQyNS1lMkc3R3N6dXpvdnJqdGwwNWRzZWtkVUZPQzdmLUdkazVuaERGamE4Z3ZaZFBtcENiV3dBc05yWktST19VQXNmQQ?oc=5",
+   "source": "人間通訊社",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "南湖國中與大明寺合作舉辦浴佛祈福活動，為即將面對考試的學生們加油打氣。",
+   "takeaway": "家長可透過多元的祈福或心理支持活動，協助考生穩定考前情緒。",
    "mentions": 1,
    "also_from": []
   }
@@ -2638,6 +2858,16 @@
   {
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45Nldtd1BUU0VwTThsRUwweWFqcThjenJFQjJyNnJXd2hIdmpxSVdRNDRIX1dXQmNyZ2hoWHdFTV9oeXBEWWdjNEdOYVRrcHliTUNiM1NRVVo3NW1oRWw5QXZ3SzAzODlkY0hGM3BQNA?oc=5",
    "title": "理工男逆擊的棒球夢：用進階數據掀起台灣野球革命新浪潮",
+   "date": "2026-10-21"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sX1JMMXpzOTFwMXJOZF9YeHJBU3h5cm1YY19hdGlRS0JtZV9TaWxSa2h2MXFPM0VYLWJUVUM1QXBmeEVETzM3Vw?oc=5",
+   "title": "恆春鎮長選戰四搶一 都打福利牌",
+   "date": "2026-10-21"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93VXFzaUhoMUR3YklmbVlwZ2hFeTZwRDFKODdwamNwV09zMWJsM3ZDRmlEa2lPVHdKWnB4R1JRaG1XTlVUallLbGY2WWtIYnc?oc=5",
+   "title": "廖宥甯 Jocelyn Liao／水泥叢林歷險記",
    "date": "2026-10-21"
   }
  ]
