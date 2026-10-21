@@ -788,9 +788,10 @@
    "topic": "學習方法",
    "summary": "本文整理了目前市面上最受歡迎的十大兒童才藝課程，涵蓋語言、運動與美術等多元領域。家長可透過此排行了解各類才藝的學習趨勢，作為規劃孩子課後活動的參考。",
    "takeaway": "建議家長依據孩子的興趣與發展需求，選擇合適的才藝課程。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "UDN"
+    "UDN",
+    "udn 女子漾"
    ]
   },
   {
@@ -840,8 +841,10 @@
    "topic": "學習方法",
    "summary": "面對AI工具對孩子考試成績的潛在影響，家長應重新思考教育的核心價值。文章探討了在AI時代下，學習重點與評量方式的轉變。",
    "takeaway": "家長應調整對分數的執著，轉而培養孩子運用AI解決問題的思維能力。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "親子天下"
+   ]
   },
   {
    "date": "2026-10-17",
@@ -1743,9 +1746,10 @@
    "topic": "教養",
    "summary": "臺師大研究團隊經過十年的長期追蹤，發現對於兒童的成長發展而言，家庭提供的溫暖陪伴比經濟條件更為關鍵。",
    "takeaway": "家長應重視與孩子的互動品質，給予足夠的溫暖陪伴。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "蕃新聞"
+    "蕃新聞",
+    "中央社 CNA"
    ]
   },
   {
@@ -1946,8 +1950,10 @@
    "topic": "心理健康",
    "summary": "調查顯示，有近四分之一的青少年即便在非防疫需求下，仍習慣長時間配戴口罩。這項現象反映出青少年在社交互動中可能存在心理壓力或對外貌的不安全感。",
    "takeaway": "家長應多關心孩子配戴口罩的動機，並留意其社交自信與心理狀態。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "民視健康長照網"
+   ]
   },
   {
    "date": "2026-10-20",
@@ -2261,6 +2267,196 @@
    "takeaway": "家長應密切關注特教生的校園適應狀況，並與校方保持良好溝通以確保學生權益。",
    "mentions": 1,
    "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "自由開講》別讓幼教專業化走回頭路：反對非營利幼兒園修法 - 自由評論網",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5dnhQVkNlbjMwLTR3Sm1OOGxBYy1WWlctSlM5SDdqV3VHVEZBRGJKNnZlWXVNQWxFSDFIc0Izb05ycFJCb1dpcjJrN05IZGxXUG1ZNUVudkZRamlvcXVWTGZTYW1vSlnSAWdBVV95cUxQeXZ4UFZDZW4zMC00d0ptTjhsQWMtVlpXLUpTOUg3ald1R1RGQURiSjZ2ZVl1TUFsRUgxSHNCM29OcnBSQm9XaXIyazdOSGRsV1BtWTVFbnZGUWppb3F1VkxmU2Ftb0pZ?oc=5",
+   "source": "自由評論網",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "本文針對非營利幼兒園的相關修法議題提出評論，呼籲應重視並維護幼教專業化的發展方向。",
+   "takeaway": "家長與教育工作者應持續關注幼教政策變動，以確保幼兒受教品質不受影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "桃園家庭教育跨域結合防災課程 親子共學提升家庭應變力 - 桃園電子報",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8yeUEwUGx2TUsxemtwSTZmdWE2eW01R3JkODRwT09DeGJmR3UySlV5N29jZXBYajRlR05CbllvUzQwLVFsX1doYk5HWlo?oc=5",
+   "source": "桃園電子報",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "桃園市推動家庭教育與防災課程結合，鼓勵親子共同參與學習。透過跨領域的課程設計，提升家庭面對災害時的應變能力。",
+   "takeaway": "家長可多留意地方政府舉辦的親子共學活動，提升家庭防災意識。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "別當直升機父母！放手教出好情緒 - 東森新聞",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FeWNCektJdmI0bHllcXpiN21BOXBnc1JId0swWktlOU9SOGlVb3gzRGEyV3BkcHdydU55MHJaajc1cE5tbU9DM29WeDBXYUhQSzdDXw?oc=5",
+   "source": "東森新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "過度介入的直升機式教養方式，可能會影響孩子的心理發展。家長應適度放手，培養孩子獨立處理情緒的能力。",
+   "takeaway": "家長應學習適時放手，給予孩子空間練習自我調節情緒。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "羅世宏／客語不能只是一門課：從實驗小學看母語教育的未來 - 客新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MMDFVRGs1STZaZ09nMVUybUZ2UUtMRjZ4ckVaQ01vaWVta2NMb1BxeHFBclZtdVRmNV91SEt2REhDYU5BbnJsejFxN3hMdDF3?oc=5",
+   "source": "客新聞",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "本文探討客語教育的推動現況，並以實驗小學的案例作為參考，思考母語教育在學校體制中的未來發展方向。",
+   "takeaway": "家長與老師應關注母語教育如何融入日常學習，而非僅限於單一課程。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "學生自傷通報8年增加17.5倍...醫師呼籲「親子共治」家庭共同篩檢治療 - 倡議家",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55Nm5NWFF4RW9yUlFrVG13VzgyTXJvNXpWZ2VINWF4VV9yOUk4UVY0R1hXVzRjdkk3Mmx5QnJBSi1Obm5ZV2FtcUd1ekk3ZlN2S1BqaHlTUGROdXpuZHJj0gFkQVVfeXFMUFdQNGUtSEJ1c19qM0dHdlNncmU3YzJvYk0xX2F2cXY2LWotRGFJUDUyeTJ4N3hCSno4cHVuZ3FQcjlQRHlfNWh0bXlzX3ZOdnNxb3NQRzFCVEV0dzZxOEF0b2hhMQ?oc=5",
+   "source": "倡議家",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "近年學生自傷通報案件數大幅攀升，顯示青少年心理健康問題日益嚴峻。醫師建議應採取「親子共治」模式，透過家庭成員共同參與篩檢與治療，以提升心理支持成效。",
+   "takeaway": "家長應主動關注孩子情緒變化，若有異狀應與孩子共同尋求專業醫療協助。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "【投書】人口金字塔倒過來了，教育預算還站在原地：超高齡社會的教育思維也需要翻轉！｜謝旻憲／多元發聲．讀者投書 - 獨立評論@天下",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJNlhnN3M4YVdVV2paQ3lkMmZFV3VNNE5XbWs3OTFaZUJkQ2xFT0o1VG9BMkdMMU5KN2EzS1p2YTJ5dnpSaW03M0c3d3oyUm5yLUlFZHVUV0hJM2FsV1BFdHlHUlFwdw?oc=5",
+   "source": "獨立評論@天下",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "面對少子化與超高齡社會的趨勢，教育資源的分配與思維模式亟需進行結構性調整。文章呼籲教育政策應隨人口結構變化而轉型，以因應未來世代的學習需求。",
+   "takeaway": "家長與教育工作者應持續關注教育政策變革，並思考如何優化資源以提升孩子的競爭力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "考上正式教師反而減薪？教育部修幼教法規引發教團反彈：欠缺配套恐衝擊教保品質 - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aUzJfOWkwSjcwdGVfS0laSU84VGNrY2RLTVFacTY1ZFZZdWJtMjZJelg0NDNpcHA1MUhUZ0NxdUREX09RY19Mc3dLd0FOZFZWZTgteG9pU1VkcDQ?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "教育部擬修訂幼教法規，卻因考上正式教師反而減薪的爭議引發教育團體反彈。外界擔憂相關配套措施不足，將對幼兒園的教學品質造成負面影響。",
+   "takeaway": "家長應持續關注幼教政策變動，留意師資穩定性對孩子學習環境的影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "桃園辦理親子防災體驗 提升家庭應變力 - Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVVdTU1ZGTWZtdVpCbE1sX3BWTEFESF81TDh2eTdqTlhfWWUxRnA5UHRET1Vzd3otYzRJd3pseHVqSW0wRWVrdDY5M1hfY21rcl9Xa3kyME1xbk1vcHh0T3BmQThaemo1TnhMUGdHVGVfS0VLQ3RaRGdnWDNUR2FEZ1FXdWNMRHo3T0FkMFQ0SFRFUUM0OXZTbURTR3c2eXd6UFpxdzM1b2syZzlWaVVLYTZzbnZhbEw4SUZoWWMtX0lraHRCT0xfeUEzdW9ma3ZBcHNkNjdTSDNwZjVxZDhiaHNoMkdmQ2l0LWk1djdmOUhTZ2pnVm5Ic195VFM3WWtBVDNGZTEyU1JUU0FOSEJwNndNZXl1V05yU2t4WExLSEg?oc=5",
+   "source": "Yahoo新聞",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "桃園市舉辦親子防災體驗活動，旨在強化家庭成員面對災害時的應變能力。",
+   "takeaway": "家長可透過參與防災教育活動，與孩子共同建立正確的安全防護觀念。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "讓孩子自己綁鞋帶：精細動作決定寫字與專注力 - Sundaykiss",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZld3bHBHRlJZb0QydFFUR2hzQUY5ZHozblEwQldQVTJTdFFxWU50eHRJcW9QakNudzFNdWJ5ekdvVzhmMkNWRVFfMVlTRDFyX1pTdzdfS3lDN0NMYVlzWFB6STdKWmVBS3pHc0RxdHYtVkc0ZWhqOXZjZWZNWmJxXzRCWXFIVUlZRzhpeGJVYWtud1pyRDNjVW5FNkllbWdodlNnS0lDR1FWNFZUTjQteTczNW5JcnoxR19oUEhxMG1kMkRzVXZXdG0zb3dFUHc4Qzc2bmg4RUhxZFBOd0hEU1pTWG5maG1Hd2FLOEQtbUxyMVFfMDQtcA?oc=5",
+   "source": "Sundaykiss",
+   "ages": [
+    "3-6",
+    "6-12"
+   ],
+   "topic": "教養",
+   "summary": "訓練孩子練習綁鞋帶等精細動作，有助於提升手部肌肉發展。這些動作能力的培養，與未來書寫能力及專注力的表現息息相關。",
+   "takeaway": "鼓勵孩子多練習綁鞋帶等生活自理動作，能有效促進手部精細動作發展。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "新北19名雙語教師赴宿霧研習 提升英語教學力 - 引新聞",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNd0VsanNjR09zaV8xLXNSZ0JPa3Y2MTAzVXF6MlRnVWlZQVVuMlRFZzlDNWlZa0lickFoVjMzSk01UWR3eXhlUmM3aEt0MzBMVTRuLWk5ZURPSmcxNnYzUThLZVVPbV9Ydjc4dGhCSVNyNmtaYkVra2hQQU9uSWdMZmI3VG5tMWdFam1pV1dkc1lYcHpyOVNkSFcwUmNkdzNDZndPbTNtTEljWkVrVVp1UGVNaVNVMGRzMW5hSnlmS3RURVMyRUhMc29ZVXlKaUg0bVAzYTRDQlBxak9BdVYzTEFXeTJabXlfTmUtOWpMSkFSdnZiMFNUOFlKNkQzU0dUR05mMkExZEV0ekZRTUYyeGZoaGt4bUt1Y01OaGl1M1A3UFZJSTZzdjJhMjg0Zw?oc=5",
+   "source": "引新聞",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "新北市政府派遣19名雙語教師前往菲律賓宿霧進行專業研習，旨在強化教師的英語教學能力。此舉預計將提升新北市雙語教育的教學品質。",
+   "takeaway": "家長可關注學校雙語師資的專業成長，了解教學品質提升對孩子學習的影響。",
+   "mentions": 3,
+   "also_from": [
+    "民視健康長照網",
+    "民視財經網"
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "title": "全台9千名「疑似特教生」！家長拒鑑定卡關 教育部3招急因應 - Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPQnZnYlZSeE01aTgxVjF0MU4tZklsTVhOZGRISUtBbkZseUpBR1dZRENnSjJ3ZnZQTXRiZC0xN1QzQ3FjQTFlUDlDT2hxdmQzdFY1aGpRQU5hZks2NEJLOHFNVVhyUGhnOWszdjhKelEwN1RGVFZDTjJJS0VOVzVKMnEyclFPYVhzMzZzQVlBOVdFcVEzX00yTC1ZSXUtdnctOXJBcFBLOUhNOFo2QThOT0tvWUhoUjNjN3hrblFHNVBxTnB1X2s1VTVHdUx3Z1NnWDJLM2c2djlsZDdhcUVHTUlsTkFWTHZxZjJMajhWWkx5RzVDQVRMWllDWU9uVzhpdlZCUEstTjJWdHJwMkVYTU5LaVJBTldsaXFad2lDRmNVX2RnX0R4c3ZYbEltVGMzcjBDOUM0dXZkZHMyX2dTYW1rWGFWUzdSWnN2RlV1OWlrRTRWZWx2UmNPQkRDTFpUcHc3ZG5IV3czQU9SS3c?oc=5",
+   "source": "Yahoo新聞",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部針對全台約九千名疑似特教生，因家長拒絕鑑定導致輔導資源難以介入的問題，提出三項應對策略。此舉旨在突破現行鑑定機制的困境，以確保有需要的學生能獲得適當的教育支持。",
+   "takeaway": "家長應了解特教鑑定是為了爭取資源，而非標籤化，建議主動與校方溝通。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-21",
+   "title": "「我是不是不夠愛孩子？」教養專家揭真相：父母的愛不是天生，先從做好一件事開始 - 天下雜誌",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12cmR0RnRyTTZLN1RTMUt1WjI1NEl6OWV2Tk1pU1laRjJYWnIxZFBaaGNIOUhLM3VjVjgxUGZmMlhqN21iSkMyMTdBa3MtUQ?oc=5",
+   "source": "天下雜誌",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "父母對孩子的愛並非與生俱來，而是需要透過後天練習與培養的過程。專家指出，家長不必因為偶爾感到疲憊或挫折而自我懷疑，這並不代表愛得不夠。",
+   "takeaway": "接納自己身為父母的真實情緒，從日常的小事開始練習愛與陪伴。",
+   "mentions": 1,
+   "also_from": []
   }
  ],
  "rejected": [
@@ -2428,6 +2624,21 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zSkV4OWc0NjRxbm10RlM4Ry1Tb25VNzZGa1NDZlpLZFRXOXl0c2trRVVYQzdvYzBpM3JxM3B6N21MdDlQa2FmcGZpZVV4b3JoOW13bWJR?oc=5",
    "title": "才稱蔣萬安「什麼都不知道」 蘇傳臣錄影澄清：雙北慣例不同 | 上報",
    "date": "2026-10-20"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2dVBBMWJ3TmlGTXROVTNNMlhXTEl5eGFTdzBTY3daTlV6QndQMU9vR0lvX2QtVFhpeVNETjI0YXgtVnZTa09XSGd1X3ZzTWx1eXlLRXJocTZ3RWRPV2xhNnpaLVRvaW52YU1kWW11cTBTUHB3V19neV9YVFVlSWs?oc=5",
+   "title": "教育部全球資訊網",
+   "date": "2026-10-21"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xUWRwenotMWp3SHZmZkJJd2c1MTNwMUVrQ05wSzdfQ3doZFhQOXl0eVFCSi1yRkwtNklZaEUxVXRIX3VyaHpPMWsxMUZMZ0o2NW4xdlJWaGl4STVjSFE?oc=5",
+   "title": "財經 世界趨勢 ｜ 換日線 Crossing - 最貼近你的國際新視野",
+   "date": "2026-10-21"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45Nldtd1BUU0VwTThsRUwweWFqcThjenJFQjJyNnJXd2hIdmpxSVdRNDRIX1dXQmNyZ2hoWHdFTV9oeXBEWWdjNEdOYVRrcHliTUNiM1NRVVo3NW1oRWw5QXZ3SzAzODlkY0hGM3BQNA?oc=5",
+   "title": "理工男逆擊的棒球夢：用進階數據掀起台灣野球革命新浪潮",
+   "date": "2026-10-21"
   }
  ]
 }
