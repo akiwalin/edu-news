@@ -3559,8 +3559,10 @@
    "topic": "學習方法",
    "summary": "報導指出台積電工程師家庭移居美國後，孩子反映當地部分學科學習壓力較輕。家長對此現象感到驚訝，並開始擔憂孩子未來的學業競爭力。",
    "takeaway": "家長應關注跨文化教育差異，並思考如何平衡孩子的學習壓力與適應力。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "自由財經"
+   ]
   },
   {
    "date": "2026-10-24",
@@ -3709,8 +3711,10 @@
    "topic": "政策",
    "summary": "教育部計畫優化校園內的體育運動設施，旨在為學生建立更完善的學習與交流環境。",
    "takeaway": "家長與老師可留意學校設施更新進度，鼓勵孩子多利用校園空間進行運動。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "Yahoo新聞"
+   ]
   },
   {
    "date": "2026-10-24",
@@ -3820,6 +3824,144 @@
    "topic": "政策",
    "summary": "金門縣政府透過培訓計畫，成功培育出35名具備專業能力的托育人員。這些新血將投入在地育兒服務，為當地家庭提供更完善的照顧支持。",
    "takeaway": "家長可多加利用在地專業托育資源，減輕育兒負擔並提升照顧品質。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-25",
+   "title": "自由開講》幼托整合十四年，整慘了教保服務人員 - 自由評論網",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfbWU1XzVPZER3ejVvMllXMThTVnhQbzdfRF9SbnFMVGVyaUZKREx4Q3FVWnowSkYybmdxdnlLVlhJT2R4d2Jtc0RmR2U5aWpEb2pUOE5feDZRQ2VxZ2M0RE9VZVBxNzjSAWdBVV95cUxQX21lNV81T2REd3o1bzJZVzE4U1Z4UG83X0RfUm5xTFRlcmlGSkRMeENxVVp6MEpGMm5ncXZ5S1ZYSU9keHdibXNEZkdlOWlqRG9qVDhOX3g2UUNlcWdjNERPVWVQcTc4?oc=5",
+   "source": "自由評論網",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "本文探討幼托整合政策實施十四年後，對教保服務人員造成的負面影響與困境。",
+   "takeaway": "家長應關注幼教現場的師資穩定度，並給予第一線教保人員更多支持與理解。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-25",
+   "title": "國小體育班擬停新增 台東教師會轟「天龍思維」：會考5C就怪體育班？ - 中時新聞網",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyeGtiT1NxMkxPdTJUb1U4ZU1lakZoRjNSZ3N1dHQwZUFjWlJUOXh1cU4yRHZONk1YRjlRU2dha195eTdvYkluZGFRR1lEMThSYlhSazFGUWJFaHdGOURrNi1DQUJUelNNLXVUQ0dB?oc=5",
+   "source": "中時新聞網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "台東縣政府研擬停止增設國小體育班，引發教師會強烈反彈。教師會批評此舉缺乏在地考量，並質疑將學業成績不佳歸咎於體育班的邏輯。",
+   "takeaway": "家長與老師應持續關注體育班政策變動，並思考學業與體育發展的平衡。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-25",
+   "title": "馬祖高中親師座談會溫馨登場！校長、教師與家長面對面 共築孩子成長支持網 - 台灣新聞雲",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE13U0czVFQ0M0R1NldOaE1pZ1R2dXczR1NfTUp0XzZNQUpteEpsR1loYm1tZl8zRjBSbkpLbzJmOEl5N1U1U0o4?oc=5",
+   "source": "台灣新聞雲",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "馬祖高中舉辦親師座談會，透過校長、教師與家長的面對面交流，共同建立支持學生發展的網絡。",
+   "takeaway": "家長應積極參與學校親師活動，與教師建立良好溝通管道，共同支持孩子學習與成長。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-25",
+   "title": "國教署補助26所安全教育重點學校 推國中小交通安全課程 - 報新聞",
+   "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOaWF0OVJqN1V6OFl0TzB5bzZXSXZnMjlPX0ZVcnBUQ1NKMzNhc2QzZjdGSjRRZ3lnd29JTnd3UjRIOTZKOW1tbWQ2RnpjZUVZd0F3YkVReF9ielFnZFZySkNqR3k1WU9tN1l4bWQ0dFFaQXNQSmdtTlUzTlh4eHd6NDZiN1NydjEyaGpSZ2I5eDdqaDQ3WGgxZmtSR2U3NzZDRDkxa3BFZVpTV013ajVFSGtzaVh1ZTBOci1talFBZnBBTEpwMkpNRzhXOVg5Q3N5UGxMOXJXSWFDREd5cE95dDBSM0ctVzg1Z3g3Zk15cEozcmxyWUhVcWgxRjRkaWJHQjRWdHdLcU1weWdPWWtrV0dWbGVKYUs4NE5xc29jckFBMms0LXVaWld0M1gwUGo3Y21zbktBVEN4ZWdhU2t6OVhwTjU4OHRjc2xqYVZiYXNSYXhiYmdTUFBnRVc5S0k?oc=5",
+   "source": "報新聞",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "國教署選定26所學校作為安全教育重點學校，將推動國中小階段的交通安全課程。",
+   "takeaway": "家長可留意學校是否推動相關課程，並在日常生活中落實交通安全教育。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-25",
+   "title": "在科技孤島的世界，打造陪孩子迎戰未來的溫暖隊伍｜許芯瑋主講、廖雲章訪談、謝瑩整理／獨評真人圖書館 - 獨立評論@天下",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85cU5tZ1ZuZjl0UmphQTdld2lWY0RJM3JFRGRpWDZzR1ZQbEFqd3ZhZDBTMk1vX09NLVdFN2QwUmVXNkJsTnR2M05vUUtDR094UlAyQWZ5TWpLeGt0bGlyN1hzR0RGdGM?oc=5",
+   "source": "獨立評論@天下",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "本文探討在數位科技普及的時代，家長與教育者該如何建立支持系統，陪伴孩子面對未來的挑戰。透過溫暖的陪伴與連結，協助孩子在科技環境中成長。",
+   "takeaway": "家長應重視與孩子的連結，建立溫暖的支持網絡，共同面對數位時代的挑戰。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-25",
+   "title": "台中閱讀之森串聯百場活動親子共讀點亮城市角落– 生活 - 創新聞",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwY2pEZmg2TUVuN1p5VHUtTEZCU3BIblpmY00xN19LekJWbUhVbGZubWo3VWpxYmZIZG1wMktPUUs0UXVMSmU5d2NoOVBQQQ?oc=5",
+   "source": "創新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "台中市舉辦閱讀之森系列活動，透過百場親子共讀活動推廣閱讀風氣。此計畫旨在將閱讀資源深入城市各個角落，鼓勵家庭共同參與。",
+   "takeaway": "家長可留意台中市的閱讀活動資訊，善用資源陪伴孩子培養閱讀習慣。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-25",
+   "title": "校舍審圖堅持增設風雨廊道 國中校長打造「三喜校園」實踐無障礙理念 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CY2h1Qjd1RW5yWTdhbEh1UGM0R0ZZRHVSa0FZNVRaWGNDMnE1bnZNdi1vYnpoN01tdHBOTzFURl9aNy1tLWg2RXZqalQ4MXJ50gFWQVVfeXFMTlpKT1p6YTU1ci1jNXR2c3lKLXJldTRMV01DR1FIVnN5ZHRyMkJTckREdHNkZV9aS0VsNm1HdTZmOWdqNHdlOWJqaHpYYlY1S09CTlNkb1E?oc=5",
+   "source": "UDN",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "國中校長在校舍規劃階段堅持增設風雨廊道，旨在打造無障礙的友善校園環境。",
+   "takeaway": "校園環境規劃應優先考量無障礙需求，以提升學生的學習與生活便利性。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-25",
+   "title": "新北聚焦數位世代兒少心理健康！臺澳日星專家跨域交流共建兒少心理健康支持網絡 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JUElNQXBnNGtESTVXZVFILVB0YUxXZ1J3NkFhMXJOR1RvSVF2dDBrV1dVTnNHdnhxX2h5ZE1WUmUwaklDbkpabWR0aGNidTlTcnc?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "新北市政府邀請多國專家進行跨國交流，共同探討如何建立完善的兒少心理健康支持系統，以應對數位時代帶來的挑戰。",
+   "takeaway": "家長與老師應多關注數位環境對孩子心理健康的影響，並善用相關支持資源。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-25",
+   "title": "國小生92.4％用過AI 近4成把AI當朋友 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwd0gzcUFfX0N5cFI3TmYwdzgzTjBGQWJCdGZWdzI4akZRWDJ6bF9WWVlURnlFTDlRSElvdDc0bW1xbzVuUFJJRzI0X3ExbjBlLUZOc3dvTTg3dFBCNGw0MXJtVWXSAWpBVV95cUxPQmxmRng4NVpOMFJFVTFCd0JkSENYN01QS2xEbHIwR2xMV0tYdDNJdFJOUzJKejdkX19MVU50dUtwTl9NaTJ0OWtnLWpjWFVjV3RxTFdyWXRGY3piaTI4bmt3QWV2WEYwek9R?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "學習方法",
+   "summary": "調查顯示絕大多數國小學童曾使用過AI工具，且有相當比例的孩子將其視為互動對象。這反映出AI技術已深入兒童日常生活，成為他們探索世界與社交的新管道。",
+   "takeaway": "家長應主動了解孩子使用AI的情境，並引導正確的數位素養與互動界線。",
    "mentions": 1,
    "also_from": []
   }
@@ -4094,6 +4236,36 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TOEVWZm9WUEFNR3hDSE11dXJxcjN5Wk5WRU91RTdHamhyczFTMWlSemhHb29XUHloVXVOaHhueWo4VHVWQVQ2dG1TTnpGUFd0VGc?oc=5",
    "title": "烏克蘭之殤20:一個沒有新生兒、孩子在地下室長大、且青年男性大舉真空的烏克蘭- blackjack的blog 有著作權侵害必究",
    "date": "2026-10-24"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vXzJodmlrWERueFRvUmJsS2xzd0FQNkhHOWJTOEZITy1mSkhlZ3Fsc3hOX0M1Y1dRRkEzVnRreGk4dXlUc2pBRFJDR1F5QzJwOWFz0gFYQVVfeXFMTmlnSzFGMktaMExaQmotd1QxcWJiNjRyMFljNlp5Zm83WWtaTURQRnlkWnh0dHJmTzAwdFdXWmljbkdib0FHLUU3ME9XV19WbnBNVGpTRE5CTg?oc=5",
+   "title": "鄭朝方任內活動經費暴增？陳冠宇爆「預算膨脹術」最高追加191%",
+   "date": "2026-10-25"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53VkJKY2xMQmE1cS1kVjVIdVhkSWVFSnFRcC0zenhKWUFXcDlQYUpxeTNTcHR3WldOUW1VX2FqSGk2ZHZMTTIzMFZEZ3pGTC1vc3c?oc=5",
+   "title": "Netflix 人事大洗牌：曾顛覆好萊塢，如今卻向傳統片廠借將？矽谷與影視圈的跨界人才啟示｜Chill 爸媽／美國趣聊｜換日線",
+   "date": "2026-10-25"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBudkNadE5OaDFZNFZOX1lrRnhlU1IyMERLdXVPbE5aal90R1o4R1BZU04tVDNpQ2VzSXJTUHFqZXlFampnRWd5dWxIdGxiVkxheUZSMXZKYWpaemdIUlVfOWJIZFctUQ?oc=5",
+   "title": "宋瑛堂：在AI預言破滅的年代，做一個堅鋼臉皮海創意的譯者",
+   "date": "2026-10-25"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wU2JrMEMwNTFIVmlPV1ltbzBBNHFXeks1cnBtTnFUdU1aM09QOVBMYzFsRHIwWHZ3TE95RkZ6bHNnQQ?oc=5",
+   "title": "80萬神車變160萬？竹北15標案追加逾五成、最高191% 他怒轟鄭朝方財政紀律 - 墨新聞",
+   "date": "2026-10-25"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xMHAtTTRjNFBHNTM3Z0xFREk1Qjc0YXVDLWdxS1Nwd1V4dC01NHNmZmk0Zk12QmYwQS00bUVCa0ZaWE1haWlFSmtrS1BwczluRjhUVl84eEljckJUQzJ6RzlOSVY2VWs?oc=5",
+   "title": "台青：去中國化是暴力符號 一代人受誤導",
+   "date": "2026-10-25"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUYU0zX3c3dENwZXl6M2R3UVhBODBPLXlhdEI2WVVEM0s4UTNodHB5eTZuYlJ4ZEgxR0xoUFRybW8ySmZWVWdCdWV0bk9PNm9ScHloY0t4b0ZkMk5SdVBXblhHUzBkZw?oc=5",
+   "title": "【投書】《獨奏者之舞》：台灣前輩音樂學者李哲洋的熱情人生｜ 張心柔 ／ 多元發聲．讀者投書",
+   "date": "2026-10-25"
   }
  ]
 }
