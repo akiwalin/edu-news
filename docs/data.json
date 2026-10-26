@@ -3667,8 +3667,10 @@
    "topic": "學習方法",
    "summary": "南安國小校友捐贈十五萬元，支持母校發展機器人教育課程。",
    "takeaway": "關注學校推動的科技教育資源，鼓勵孩子參與機器人課程。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "LINE TODAY"
+   ]
   },
   {
    "date": "2026-10-24",
@@ -3684,8 +3686,10 @@
    "topic": "其他",
    "summary": "新竹市將於11月7日舉辦國際兒童日路跑活動，邀請家長與孩子共同參與，藉此推廣並重視兒童權益。",
    "takeaway": "家長可透過參與親子路跑活動，在休閒中引導孩子認識兒童權利。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "蕃新聞"
+   ]
   },
   {
    "date": "2026-10-24",
@@ -4328,6 +4332,191 @@
    "topic": "政策",
    "summary": "國教署推動充實國中小圖書計畫，並針對新生提供贈書活動，預計有約37萬名學生受惠。",
    "takeaway": "家長可留意學校圖書館資源更新，鼓勵孩子多利用贈書與館藏培養閱讀習慣。",
+   "mentions": 2,
+   "also_from": [
+    "蕃新聞"
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "title": "南大幼教生 課輔班傳遞溫暖 - 中華新聞雲／中華日報",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xbXV1U0dPSEhqNTh0M2tjZC1kMEdlWHByRFlTTWFqdHlkWVJKejN2bXN1QUJLbEdBbEJTcTZhVEFGMk5KVlIxSnpqYnZFb2J0aVE?oc=5",
+   "source": "中華新聞雲／中華日報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "台南大學幼教系學生透過課後輔導班，為孩子提供學習協助與溫暖關懷。",
+   "takeaway": "鼓勵孩子參與課輔資源，並關注大學生投入教育服務的社會影響力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-26",
+   "title": "讀懂孩子的獎賞密碼：從「條件交換」到「內在動機」的親子教養指南- 註冊慈善機構基督教聯合那打素社康服務 - healthyD",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOXzNBZFpXVHJCN1Fnc3VyWmlleFlPSFplUG0tZy0tSUtrSU1hWlVvRWU3OUtoTzd5TTZlcV8wM3YycUJzNDFILUVVU0ZrUVE5aXpHUzRaSHotZEpyMkFueHYwWVpvZ1U3dVR0SVI3R2JIX1g0T3I2QjFSYm9Eb19IaktaVUkzWWhrQnVRTlhlYVdwZmdsa2RLdGdFTjF5aU83RFFETWp6R0xnQlJUWm8tSHU2Z3JHZE82VlpWMklUMmVTYnAwbkM2MWN4SHVtWl9TMHNEMWVVRjZyUkRCSXRRVkFybEp0VG1RdEltYlIxUnY1RGQyenBnZFBLSnI?oc=5",
+   "source": "healthyD",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "本文探討如何透過調整獎勵方式，引導孩子從追求外在條件交換，轉向培養自主學習的內在動機。家長可藉此建立更有效的親子溝通與激勵機制。",
+   "takeaway": "家長應減少物質交換，多鼓勵孩子從活動中獲得成就感，培養內在動力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-26",
+   "title": "百年東園國小用藝術說故事 《漫話東園》獲教育推廣獎 - 墨新聞-MORE News",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5RWkFVUW9VbTNQZVJPR2JCczBfcTBtcmVucC1aa0RmamxVRkVvQ3AzN3NGeUVFUmlCM3JHRHdxWkdQUQ?oc=5",
+   "source": "墨新聞-MORE News",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "東園國小透過藝術創作方式呈現學校歷史與故事，並因此獲得教育推廣獎項的肯定。",
+   "takeaway": "可參考學校如何結合在地文化與藝術，引導孩子以多元方式認識校園歷史。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-26",
+   "title": "教育部助地方政府推廣閱讀 深耕校園翻轉未來 | 青年日報 - LINE TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MYTdZVFBISjQwVjJWVHhFUksyNlNTeUhUdFRuMGRYWnp1MFZXMVlWYkQxQVpXSjBIbUtIUFM2U2FSSXBLVGZUc3o2WUtFNVpNNmVOWG13?oc=5",
+   "source": "LINE TODAY",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部正積極協助各地方政府推動校園閱讀教育，期望透過深耕閱讀資源來提升學生的學習力與未來競爭力。",
+   "takeaway": "家長與老師可多關注學校推動的閱讀活動，鼓勵孩子培養自主閱讀習慣。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-26",
+   "title": "AI演算法如何影響孩子大腦？小兒外科醫師：真人陪伴是關鍵 - 親子天下",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUMi1OMzltM0hHa211Z0JsYVNoNmFqOC1fTk1SYXlFa21wbUcyUEctWkkxQ0JFTldTOHNLVDRaN2JTUFZ4cEtZSUZhYzFGcndoMzVPbU1uWQ?oc=5",
+   "source": "親子天下",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "AI演算法可能對兒童大腦發展產生影響。小兒外科醫師強調，真實的人際互動與陪伴才是孩子成長的關鍵。",
+   "takeaway": "減少孩子對數位演算法的依賴，增加與家人的真實互動時間。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-26",
+   "title": "美感融入食農 中市大安國小認識土地也體驗生活 - 國立教育廣播電台",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XTmpKN251QXhaTmJEWGhod3F3WUhpUy1UUHNzZUlBaVo3b0RMQk1zdV9qMmhrbk1xVmdwWUl3SUM5aUtMSktubmIzRGNsU1JxMllCbFZxb3c4RzJFSVVCbVNFTlJXaThz?oc=5",
+   "source": "國立教育廣播電台",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "學習方法",
+   "summary": "台中市大安國小透過食農教育結合美感課程，帶領學生深入認識土地並體驗生活。",
+   "takeaway": "鼓勵學校將食農教育與美感素養結合，讓孩子在實作中培養對土地的認同感。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-26",
+   "title": "109學測大補帖／化學科必考一次看 更多重點整理 - 三立新聞",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE01R0hCa2xoZUpscmZoQ2FJa01XWTlZaktZRUdzVW8teUo5NTdER2t4dzRfdDRuNGtzYVFpVzAwSm1RYVFITUd30gFLQVVfeXFMT3BQdTQ4TmljX2NnY3ltREtraXdaTmpLUmc2QWRCRHFlYnF6dGcxS3JRLUF5UlRPQkF1cEZxcnlfNXhuaUdzOUppYUdB?oc=5",
+   "source": "三立新聞",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "本文整理了學測化學科的考試重點與複習建議。提供考生針對考試方向進行準備。",
+   "takeaway": "考生可參考重點整理，針對化學科考試範圍進行系統性複習。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-26",
+   "title": "校事會議法律諮詢補助3萬元 國私校成制度孤兒？教育部回應了 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNOVdyYXhlWVBTYXpNdWRPbUppUC1obzAzQ0FCbXRPVDl0ZWZ2T2twb0RRa2RkbkQ0SUtybER5QWxGS2JsZjV0X1UtZFlIYk5PYXFuN1VR0gFWQVVfeXFMUE05V3JheGVZUFNhek11ZE9tSmlQLWhvMDNDQUJtdE9UOXRlZnZPa3BvRFFrZGRuRDRJS3JsRHlBbEZLYmxmNXRfVS1kWUhiTk9hcW43VVE?oc=5",
+   "source": "UDN",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部針對校事會議法律諮詢補助制度進行說明，釐清國私立學校在相關資源分配上的適用範圍與疑慮。",
+   "takeaway": "家長與教師應持續關注校事會議相關補助政策，以保障校園處理爭議時的法律權益。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-26",
+   "title": "提升親職教養與親子溝通能力 竹縣竹北社福中心「正向教養家長講座」開放報名 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BY2dSMzZfRHhNaG9ES0hNbmpZU2p3NjUtcURFR24tRjMzSXlObnpmaTFPQjlaVE5yM05IbE1pdnp1TTBuNVlGZXZYRzU1LXBqT3c?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "新竹縣竹北社福中心舉辦正向教養家長講座，旨在協助家長提升親職教養技巧與親子溝通品質。",
+   "takeaway": "家長可透過參與專業講座，學習正向溝通技巧以改善親子關係。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-26",
+   "title": "新竹縣攜手環宇電台11月4日開播 育兒指導系列節目 - 報新聞",
+   "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxORU9ld09lWVFmUWxZbWJFRFdnd2RCdWdBLUJreVBkQVk4akZMZU5XWllDYzVsVUExNV82TVVhOG12cDgyQldGeVVWSXNHNkllQmdHR1VmcEliT1pvMU9zb3ItYjlaWG5uR2NqZjQyM2pHbkhrWE5VVi1mRUY0ZENEaDVkLXpLZXBhMDg4YVdPS0JBNm9vRUxxQmhWYkFIZmtyY2E4SWg5dE1wdGZIX2QwQ0V5ZzZpTl9fV0UzRG1WNEljbzF5S1FkQ0VPZlNQSF9DRml4SkZ5YWZmNFIzd2lzbEFqV19pTkZaaFhRd2lBbDM0Z0kyYzJGeDBDMGtCZVpnYXNxRjh1bE41QWkyNjFLb3lucEo4NkJjSi1jVC1NYmFQTGN5TEJyS3N3Smo5SXlkcW93cHFUS3FtbUREMUpWYTdVOEFlY2tmdmNrei1PRUVwQkh5c3JlNTVEaW9fVnM?oc=5",
+   "source": "報新聞",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "新竹縣政府與環宇電台合作，將於11月4日推出專為家長設計的育兒指導廣播節目。",
+   "takeaway": "家長可透過收聽廣播節目，獲取專業的育兒指導與教養建議。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-26",
+   "title": "鐵花窗說百年校史 東園國小《漫話東園》奪公共藝術教育推廣獎 | 楊艾喬 | 地方新聞 - 風傳媒",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqbnYzN0JUQW5jMXh6Q2kzbUV3YTh2anhYQ0FSQ0lGSVNMNkw5V1B0NndObzdKT3lGblBWeUpBVlBKUmR6eWlQY25BV1lkUQ?oc=5",
+   "source": "風傳媒",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "學習方法",
+   "summary": "東園國小透過鐵花窗元素結合校史，創作《漫話東園》並榮獲公共藝術教育推廣獎。此舉展現了學校將在地文化與藝術教育融入課程的創新成果。",
+   "takeaway": "鼓勵學校結合在地文化與藝術，讓孩子透過多元媒介認識校史與社區。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-26",
+   "title": "谢立意：校园暴力日益严重 政府须制全面应对策略 - 国内 - 即时国内 - Sin Chew Daily",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sS1B6NjFuQmhMN2hDWVFhR0ZXNlpyNXpSUXJhRWFXRjRmWFJubXdibE9mZEVZT3RSdk5jZmYxbkRDNmJuOXNkTUhkUUFHQUZOaXF6bXNkT2diV3NQM0gyQTVuYktMSTA3a3k0ZkxzTXFCSlM3VmFUcUxmOA?oc=5",
+   "source": "Sin Chew Daily",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "針對校園霸凌問題日益嚴重的現象，相關人士呼籲政府應制定更全面的應對策略。",
+   "takeaway": "家長與老師應密切關注孩子的校園人際互動，並建立完善的通報與輔導機制。",
    "mentions": 1,
    "also_from": []
   }
@@ -4666,6 +4855,21 @@
   {
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RdEl6bm1GYjlVSnJCRXlkaDBDWGoydUMtY3FHUVAzUFZjTTRaaHRYaTlxaFBPbVpBMGo4MHF5aWJjdnZweElQamtkUmdFdnBHV3JyRlFIelU?oc=5",
    "title": "蘇清泉稱周春米「沒有小孩，可憐」 臉書道歉仍不忘推銷政見| 2026九合一選舉",
+   "date": "2026-10-26"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hbmZpODJzVlpwOTZ4Tms2YTRkcEVaVHRBdk0xOGJLb1BzQzJmQW5OX2UyT0lNRHNtU2s1RUxhc1pTSF9pUzlVNkdNYlRwYmU5SlN3UWJFbEE?oc=5",
+   "title": "高虹安連任幼教補教後援會成立大會前教育部長吳清基站台力薦| 2026九合一選舉",
+   "date": "2026-10-26"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wUGU3NHNUR0xjcDIyVWNEMi1VY0FBNlU1emhzbjc2OFB5M3NvX3JuWjZWTC1EbUtabGpyWkZuSlp1c09SUlVPZmdn?oc=5",
+   "title": "新聞與專題",
+   "date": "2026-10-26"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPN2RNeDdiVmJqaURQNEoycnk1OGloZEUtRjRYTWx4dXRobngzOERsWUl4T015ZldtYXZsaFlRd244RVVYLVNnNTdYWEx2NmR6cTVoeFoyLU1OWG5rdVROZXVVbDNiX1pIS3hNR3hUMWtSTG1HRE1ib0VZSURaenhXa2YzY2FaWXNMaVI3Wk9EcW9DTmVyOHRXY2ZFWE1CTVBMNlJ6OHJWWUsyejItQ2xkZE1RbWJWUU95cEh6UDlONEh2SjBiLXdaSlg3NjhvM2l6SXhzS0tuV3o3X0c1eTJEeHlLcE1JNUtxRlBlS1ZxcWFQc05kNmxWOFJPYUpGWU8wYUczOXJfRmREYkdJdVluVnB6UWJWdW03dzVQZFVmWUJDZjBKcGJkRjFsaXIxVE9fNUlSdzJKa0Y1TVU4cTdVVDUyUENaZExoM0t5VU84ZlZ5QmxjNzlvOEdRcG1oZ2l3T3ozRUtJc1E1bEJTaEF4SlhB?oc=5",
+   "title": "高虹安幼教補教後援會成立 前教育部長吳清基大力推薦",
    "date": "2026-10-26"
   }
  ]
