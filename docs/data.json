@@ -4334,9 +4334,10 @@
    "topic": "政策",
    "summary": "國教署推動充實國中小圖書計畫，並針對新生提供贈書活動，預計有約37萬名學生受惠。",
    "takeaway": "家長可留意學校圖書館資源更新，鼓勵孩子多利用贈書與館藏培養閱讀習慣。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "蕃新聞"
+    "蕃新聞",
+    "住展雜誌"
    ]
   },
   {
@@ -4733,8 +4734,10 @@
    "topic": "其他",
    "summary": "屏東某國小傳出特教老師兩度持刀進入校園，校長對此回應需待有實質傷害發生才會報警處理。此事件引發外界對於校園安全管理與師生人身保障的疑慮。",
    "takeaway": "家長應持續關注校園安全通報機制，並與校方保持溝通以確保孩子學習環境安全。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "Yahoo新聞"
+   ]
   },
   {
    "date": "2026-10-27",
@@ -4863,6 +4866,188 @@
    "topic": "學習方法",
    "summary": "教育部推動酷英平臺導入AI輔助教學，旨在提升學生的英語學習體驗。透過科技工具的應用，讓英語教學內容更加貼近日常生活。",
    "takeaway": "老師可善用酷英平臺的AI工具，引導學生在課堂中進行更生活化的英語練習。",
+   "mentions": 2,
+   "also_from": [
+    "教育部全球資訊網"
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "title": "伊甸林園據點推行動療育 攜手社福助慢飛天使 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWbk10d1QxSHJid3lHUzhwNE5oSWRXVjVNSE9HUTNUX2xIazctYjU1VnNTRC1fS3pYLTBvelY5X3o5clpielJ4d21WNTlZV2VGdkE?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "其他",
+   "summary": "伊甸基金會透過林園據點推動行動療育服務，協助發展遲緩的慢飛天使獲得適切的資源與支持。",
+   "takeaway": "家長可多留意社區提供的早期療育資源，及早為孩子尋求專業協助。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "攜刀入校還爬窗進教室！屏東某國小教師遭指控 教育處：已介入調查 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiSFJPa0h4QjFMUXUyT0NOcVI0dHoxSUVVYWVtdjVLTGdZS1hzOE1fTXhIbDNVb2VKRG9jQlBsdEtKNVdDTXlrdVMzX1FPYkRY0gFWQVVfeXFMTThTZU4zQk93RGgxbGc0MWZZWXg0aFNMNXBSVnR2aElETW1fYS04Ni1WbUFYU1RSSUFPa05xWEdiNGljV3ctT0Q0ZDl3ZTUxaExvUzN2QWc?oc=5",
+   "source": "UDN",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "屏東某國小教師遭指控攜帶刀械進入校園並爬窗進入教室，目前教育處已針對此事件介入調查。",
+   "takeaway": "家長應持續關注校園安全與教師行為，並留意孩子在校的身心狀況。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "校園綠化植樹 增加戶外空間 - Singtaousa",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHZ6SzFpNFF1dFBydTFEVDJQVHJlbzh4bDZVYVFzWWtkd19DN3p4cExjY0xpRlNjZVBRai1jZTNzT2pCcnZTYzhITUdKRkZ6ejJqN2tPM1R2VEk1OTZZSTlrb0VyYzhYdXNmREw5NXZKT0ZhY2xTb2U5WFFXSklTeDNBTQ?oc=5",
+   "source": "Singtaousa",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "學校透過綠化植樹計畫，旨在提升校園內的戶外活動空間品質。",
+   "takeaway": "家長與老師可鼓勵孩子多利用校園綠地，在自然環境中進行學習與休憩。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "教育部推動幼兒園本土語融入教保 分享教案供教學活用 - Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPWkJOM3ZiNlJIQmd0VkMtTVhLZm9fczF6WHE1WS1yNWJkcW8zcTI2QzhBWmE1X2pPdUMwN3RUVkExSS1JUUFWOFlyYU5ncjBsa0Z4VXVjZGhXZFBBaEdBYlVaOElDSkY3QTBLR0otS3ppVEtEUndCMkNGSWhkT1Ezbm9RYWlwOWV4d2ZRc29ISnIzQWhpMlA0cmRLQkNkMS1ES012U3hTMmduWFJ4eFVQYjNsVnQ0T3lHbUFaLWV3dDBSM2I2MDJmQUFfQ1lHaUowLW00b1ExSnhaQ2I1YTZGVjllS1RpMlZ2V0J1Rndha0U3OHlIYmhhWElnT2RBalZkWXo1M3R0c0ZBRG1paEJrRWIzYU0zTFdNamk5MzRqODBzZ1FnU3JiR2M1aTcteVB3SG1UMDdLQnB0aFhTRkQzNk1BZzFVdGg5OFMtYWJ6RGVKUkZvZ0IzcFNQbmpDUzVwOTh6b1Zaa0tfZDJ6MV9TYXhPQlo?oc=5",
+   "source": "Yahoo新聞",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "教育部推動將本土語言融入幼兒園的教保活動中。官方並提供相關教案資源，協助教師在教學現場靈活運用。",
+   "takeaway": "幼兒園教師可參考教育部提供的教案，將本土語自然融入日常教學。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "【族服篇】連結祖靈與土地的衣裳──手縫五片裙和家族圖騰，重現Fata'an - 少年報導者The Reporter for Kids",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUlRTbERNNkZESmFjTWpjSVJQUzNLMEFYUU9xa2JPbkl1V3pzcDg4VGJZVjJuWTU1M3B3Z0s2RXc5aUhEZkxJVTUzTjM1MmJYT1l6cm5zeFVkbjY2TUpfenJpUFJubzdJcVgzRnEwRi1pSWY1N3JqZ3FCMlBKdXlOenRuYzNrQQ?oc=5",
+   "source": "少年報導者The Reporter for Kids",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "本文介紹馬太鞍部落的傳統族服文化，透過手縫五片裙與家族圖騰的製作過程，帶領孩子認識原住民的文化傳承與土地連結。",
+   "takeaway": "家長可引導孩子透過傳統服飾了解文化脈絡，培養對多元族群文化的尊重與認同。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "自由開講》「外包市長」漠視幼教 連任卡重要？ - 自由評論網",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42U0xfbjdDclRzZ2tOTHpqeURXeGQ0RVVydmZvd09HeGcwdTNVR21oLXZKaEd1MDVMcVZ0WW8yTjZiOEZ3aTRINS15cTBIR2N0QmtSUGpacWlFX1otTmlURW5n0gFnQVVfeXFMUEhIYlBzTU9VQ0hXUmdMbjRKTTJVYlQ5LVZ5UUg4U1BCcjdIQWJFc3Vab01jZGE3N2RReGhPNXc0am5hVG1ORFdfUFk5N3lQSFlJb2NsUERYdTBwQlJfWDJBZkR0dXkzUQ?oc=5",
+   "source": "自由評論網",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "本文針對地方首長在幼兒教育政策上的執行態度提出質疑與批評。",
+   "takeaway": "家長應持續關注地方政府的幼教政策執行情形，以維護幼兒受教權益。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "私立國中小家長也受惠！花蓮擴大免費教育政策−教科書、簿本等6項費用獲支持 - ETtoday新聞雲",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FOHpIVmpheENNSC1qSThxZHhuUWpGbFgwM1h1eFM1U2hoNlNkYkFSYnR2dzN4alR4Zlptdmlvb0ZPTzRqeHhBU2ZMRGNHNnZJYVA2QUcyRHRha19INEHSAUtBVV95cUxObEg2dV91eGZPNXdmdlJSM2lDVlBXT1h4dDd4NURfMjF6ZXFsYUFiTzE2Q1RRNFRQVHkwak9faHF6MWgzWUpGclZWeFk?oc=5",
+   "source": "ETtoday新聞雲",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "花蓮縣政府宣布擴大教育補助範圍，私立國中小學生的教科書及簿本等六項費用將納入免費補助。此舉旨在減輕家長負擔，落實教育平權。",
+   "takeaway": "家長可留意縣府公告，確認子女就讀學校是否符合補助資格並善用資源。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "110會考／自然科54題補教名師詳解、解答全出爐 - 三立新聞",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5JazZxSDRqVTBQX3l1RGZGRVdhUDM1c280TWhUZmJsX3hFV1Q2QzNBSG5WekZhbnRUMHh3b29vZ1JCN2ViZWdZ0gFLQVVfeXFMTVBfWGo5dlJlbkR6aGhpSWh1YXFEX0FPQU14R1h3QUdzTzRrbzZKcW9PcWl1VWJ5YVpxVzJXVy1YaUNET0RydlhhNEIw?oc=5",
+   "source": "三立新聞",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "本文提供110年國中教育會考自然科的完整試題解析與解答。考生可透過補教名師的詳解，檢視自己的答題狀況並釐清觀念。",
+   "takeaway": "建議考生利用詳解檢討錯題，釐清自然科的觀念盲點。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "台通李毅誠的直白育兒學：不怕拒絕孩子，也不忘為夫妻留約會時間 - 親子天下",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HQWhXbmpQc3pnNnlpamdrVGZRQ3ZsaGwxZWc4Q2JHbzdyQUtTSEtJN2VKWG9nb2Z2VUZ2LWxUX2xmZkV4VVNYTnUtbU5PQnJqckJ0VUkyOA?oc=5",
+   "source": "親子天下",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "李毅誠分享其直率的育兒觀點，強調在教養過程中不必害怕拒絕孩子，同時也重視維繫夫妻間的相處時光。",
+   "takeaway": "在堅持教養原則的同時，也別忘了經營夫妻關係，為彼此保留專屬的約會時間。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "調查：幼教親師溝通學習期待不同是主要盲點| 生活 - 中央社 CNA",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyVE9hRjhuYlp2ZHM4cEh4dF9MQzZpMXpBODljNzJtX0tTajQyQXNFeUtSaTF0b1F1MzNvcFQ2Zl85N01rX1VxWGIwcFppUlF3TURhMHNVdFVraEpfU0pJ?oc=5",
+   "source": "中央社 CNA",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "調查指出，幼兒園教師與家長在教學期待上的落差，是目前親師溝通的主要盲點。",
+   "takeaway": "家長應主動與老師溝通對孩子的學習期待，建立共識以利教學合作。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "屏東一國小師2度帶刀進校 校長：「有學生受傷再報警」 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3WV9obGtRdVZ5bTUtY3ZwLUFNbFRRQkpwWlFocDdHYVhzbUppZ01nUnJpQTlBRWtERmFkOGctbC1YWEkzdmJLS08wSEJJR2dsQXJLdW5jbHZIcE3SAWBBVV95cUxOVHFmbjlBSndtcGJhcm5jY0RqMUx0TGFfMXotVjFaeEhLdHE3UmN6clpQLUwxaHBpTUxzd3c1QnhoMU1SOWlnbmgzaXNGZXRhYlZpSTdIeFVmTW9qNFE1QlQ?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "屏東某國小教師被爆料兩度攜帶刀械進入校園，校長對此回應稱需等到有學生受傷才會報警處理。",
+   "takeaway": "家長應密切關注校園安全管理機制，並適時向校方反映對師生安全之疑慮。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "【UNICEF觀點】關掉噪音，開啟對話：聆聽新一代的真實心聲- 機構號 - 大公文匯網",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qRHJpWEFFZEVKZWloR3BwSnJlcXpWSUhqWU91bUJJWTc0VmJzVnhHODdSaThNZjhwRkc1RVZYaS0wbGpfOElKZWo4X3JtdThBVzY2eW9oU0E2ei1CTFpUYVQxdVVIR1JmX25lMDE3UkQ?oc=5",
+   "source": "大公文匯網",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "聯合國兒童基金會呼籲成人應減少干擾，專注於傾聽兒童與青少年的真實想法。透過建立良好的溝通管道，能更深入理解新一代的內心需求。",
+   "takeaway": "家長與老師應放下成見，主動創造安靜的空間，耐心傾聽孩子的真實心聲。",
    "mentions": 1,
    "also_from": []
   }
@@ -5252,6 +5437,21 @@
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVZMNklBVDM4NEtoTFdGMVdhaE5KQ2o2QkNfeVhzejFrUVRrcG1DMjJxMzAzM1RMc19vLTlQcWhMcGlERG9mVEhiN2kxanRqNkhsX2laNUhTQkdPSnR4anBPWXdsUjVRcE94YzM2cFBEdC1pNnRmRTc3bUI5VGxXNWdQTHN0UQ?oc=5",
    "title": "蘇清泉批「沒生小孩可憐」道歉卻頻看稿 周春米：歧視言論有必要鄭重道歉",
    "date": "2026-10-27"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CN0xfOEJXdzN6MFdDNFFTSnBVSGRQdTVyVzQ3TFV1azNVYnBDOVpMRUVhM1dGTUdtV1FpMmtFXzUtV3daMTM2c2N3RmY3REtnaEQyZUVSZjF1S2JZOFJDcVZ5dk9sZHkwdzNRdlFlb2LSAXBBVV95cUxNQjdMXzhCV3czejBXQzRRU0pwVUhkUHU1clc0N0xVdWszVWJwQzlaTEVFYTNXRk1HbVdRaTJrRV81LVd3WjEzNnNjd0ZmN0RLZ2hEMmVFUmYxdUtiWThSQ3FWeXZPbGR5MHczUXZRZW9i?oc=5",
+   "title": "龜山A7機能再躍進！ 桃市府砸5億建三合一場館",
+   "date": "2026-10-28"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DVEVyVFAtVmhlZHBzWjk3eXFJeE10UWZNcktoN0RpLXBGYXAyWHowMEMwMFhlRURoQUxlNVVGYWJyQzZJTEhxcTA3X1NwNzdNR3N1TDVNRWI2MDjSAWBBVV95cUxPWWFJcFBvMzFIZXltYWl1RlFnM2dzYlBKLWs5aWlxTDBxbG5fRjRpbDdDZWlDYm10dWZmY05Pc3V1NUI3QmlYX2pyVTZCdmM0Y2x4TUJXbXZXYjRpZFJYS3I?oc=5",
+   "title": "凱特王妃密會「比爾蓋茲前妻」！低調合照曝光 兩大女強人要聯手了",
+   "date": "2026-10-28"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56UHZWcEROWXRKTHo5UTFuNEd0Q2dJSVFaUlNMM0c2bEZ3OVV3eGpwaU5rQmlrbUJxUVNRUkhJSzdHdi1wdktWc2dlazU2UFI3NGc?oc=5",
+   "title": "大學不只選科系，還能「自創」專屬學位？我的臺大「校學士」跨領域學習實驗",
+   "date": "2026-10-28"
   }
  ]
 }
