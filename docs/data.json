@@ -4382,8 +4382,10 @@
    "topic": "其他",
    "summary": "東園國小透過藝術創作方式呈現學校歷史與故事，並因此獲得教育推廣獎項的肯定。",
    "takeaway": "可參考學校如何結合在地文化與藝術，引導孩子以多元方式認識校園歷史。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "台灣新聞雲報"
+   ]
   },
   {
    "date": "2026-10-26",
@@ -4866,9 +4868,10 @@
    "topic": "學習方法",
    "summary": "教育部推動酷英平臺導入AI輔助教學，旨在提升學生的英語學習體驗。透過科技工具的應用，讓英語教學內容更加貼近日常生活。",
    "takeaway": "老師可善用酷英平臺的AI工具，引導學生在課堂中進行更生活化的英語練習。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "教育部全球資訊網"
+    "教育部全球資訊網",
+    "教育廣播電台"
    ]
   },
   {
@@ -5017,8 +5020,10 @@
    "topic": "教養",
    "summary": "調查指出，幼兒園教師與家長在教學期待上的落差，是目前親師溝通的主要盲點。",
    "takeaway": "家長應主動與老師溝通對孩子的學習期待，建立共識以利教學合作。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "UDN"
+   ]
   },
   {
    "date": "2026-10-28",
@@ -5048,6 +5053,167 @@
    "topic": "心理健康",
    "summary": "聯合國兒童基金會呼籲成人應減少干擾，專注於傾聽兒童與青少年的真實想法。透過建立良好的溝通管道，能更深入理解新一代的內心需求。",
    "takeaway": "家長與老師應放下成見，主動創造安靜的空間，耐心傾聽孩子的真實心聲。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "幼兒園親師關係調查 幼兒發展評估成親師難題 - 國立教育廣播電台",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83eHViU3M0M0dvUjZXYTJFWVJDLXp0TS1QVjFXVFRIcWFkNldIeDk5YVl1MEplazVKQmJKdzBPa1pKM3NfX0l3YWFfdVBwWWFUeGZrdDNUbzd5c2laMFdCUHYxZWVTaWpvM2pDVGV3?oc=5",
+   "source": "國立教育廣播電台",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "這項調查指出，幼兒園在進行幼兒發展評估時，容易在親師溝通上產生困難。家長與教師對於評估結果的認知落差，成為建立良好合作關係的挑戰。",
+   "takeaway": "家長應主動與老師溝通評估細節，建立互信以利孩子發展。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "市府新聞稿-本市115年度國民小學品德教育自製教材成果分享暨頒獎活動 - 臺北市政府全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2ZnU1dTdk1WTmJULXZlTURHeWJmXzl6cEFjbUdBTVJLaHdvNEs1RzNzOVI0OE9lVnIxWUVCdENWX0lJYWRuSks5Z3RKb1V5SWQteDVmV1VGQjFhcGRnRlJLSG5rdnhzeTM1UU1La1F3Mjl5c1llNHRuNHNwYlJMQ3VsdWJiVFVmbWpOVXpEQXlOT2Vqd0FqSFNHT3o4TV9G?oc=5",
+   "source": "臺北市政府全球資訊網",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "政策",
+   "summary": "臺北市政府舉辦國民小學品德教育自製教材成果分享與頒獎活動。",
+   "takeaway": "家長與老師可關注教育局推廣的品德教材，作為引導孩子品格發展的參考資源。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "會考高分，不等於愛閱讀：PISA全球第三照不到的台灣教育盲點 - TNL The News Lens 關鍵評論網",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLMGJrYU9WeW9HdW9iV3F0cTZxa0hfYjdkSF9aUmJkRHZ5MTZkQnpVYUd5R243YnZWUlhVUUdsQmpCZUxvV3hocjI5MmltU1pPaGNjMw?oc=5",
+   "source": "TNL The News Lens 關鍵評論網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "台灣學生在國際評比中雖有優異成績，但高分表現並不等同於具備真正的閱讀熱忱。教育體系應反思如何引導學生從應付考試轉向培養深度的閱讀素養。",
+   "takeaway": "家長與老師應鼓勵孩子進行非功利性的閱讀，培養真正的閱讀興趣與習慣。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "族服、家徽、祈福式──Fata'an部落災後的文化新生 - 少年報導者The Reporter for Kids",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fc0NfbXVWaHpjTUwwNFlGeGRSbC1walBsU3VySE5fVHpvS3N2R1JDSE5GTk82V2ZlTjZtanFmbzI1SS1feDUtbWk0NDdlRlVZcUdlUDdQWkVsb2Jr?oc=5",
+   "source": "少年報導者The Reporter for Kids",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "本文探討馬太鞍部落在災後如何透過族服、家徽與祈福儀式，展現文化傳承與新生。這是一篇關於部落文化認同與災後重建的報導。",
+   "takeaway": "家長可引導孩子認識多元文化，並討論文化傳承在面對困境時的力量。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "廚餘不是垃圾！台南用蚯蚓、黑水虻教孩子變廢為寶 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45RmR6WFlQMTBEUWRKcHF5V1VncWZSSFEtRzNZam94bjhrclpiMFVKVFJWSVBUazk5YUE0QlJXM3k5TTg5TGd4U1d6OFJ1a2Q0cW1LUnNURXJMSVgzQ1BrcDV3VVHSAWpBVV95cUxOXzhLeGJKLXhKakJOZW5QdXREWmx4aXRNbWNNMkVWNzdSWFA2anFnMm8zWjFnUklrYkVETzB5MmNnYVBqeGVWRHFWYUZibHVXZVcteHlwNG1PclJKZ2lpUE5yRy1nV3RsWTB3?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "台南市透過蚯蚓與黑水虻等生物，引導孩子認識廚餘處理與資源循環的過程。這項教學活動讓學生能親身體驗廢棄物再利用的環保價值。",
+   "takeaway": "家長與老師可利用生物分解廚餘的特性，帶領孩子實踐環境教育。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "當「愛孩子」變成親師壓力：信誼調查揭幼教現場「談發展」的溝通困境 | 唐可欣 | 品味生活 - 風傳媒",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lU05jblZxdzgxZDBSaXZfNEVCd2pDSHYxdE1SZHdIVDJIcjU2NHhBUk43S1pwQmlTci1KLUw0WERvWTF1LVV6d2NFbEpfUQ?oc=5",
+   "source": "風傳媒",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "這項調查探討了幼兒園教師在與家長溝通孩子發展狀況時所面臨的壓力與挑戰。當家長對孩子的愛轉化為溝通上的期待落差時，親師之間容易產生互動困境。",
+   "takeaway": "家長應保持開放心態，與老師建立互信，共同關注孩子的成長需求。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "盧秀燕啟動和平專案 全國最高親子館免費服務深入原鄉 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yZFRLTmpDQkllTjk2UjhkSG5HNkpucWVQSjVsNWlISFdUdHVZdHhWNk9zUVVfYmdYMHctX3o3MzJtQWhVT1dwSkxMcmtFOTVzR3c?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "台中市推動和平專案，將全國海拔最高的親子館資源帶入原鄉地區，提供免費的育兒與親子服務。",
+   "takeaway": "家長可留意當地政府提供的巡迴資源，善用免費親子館服務。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "屏東國小師帶刀入校為了削水果 醫：若無傷人疑慮則醫療介入空間有限 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UVUVSNk9YRGI3TV9ONlJpS2c0dkF3NEQ5YWtTNE1sai1RTnMxTlJtN21UTEp2dzl0WXJ0UkhwbXhscHIxXzRCUkR0eDRDSXhDdHZQSjBR0gFWQVVfeXFMTlRVRVI2T1hEYjdNX042UmlLZzR2QXc0RDlha1M0TWxqLVFOczFOUm03bVRMSnZ3OXRZcnRSSHBteGxwcjFfNEJSRHR4NENJeEN0dlBKMFE?oc=5",
+   "source": "UDN",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "屏東有國小教師攜帶刀具進入校園，該教師表示是為了削水果使用。針對此類事件，醫師認為若未產生傷人疑慮，醫療介入的空間相對有限。",
+   "takeaway": "學校應加強校園安全規範，並留意教師的情緒與行為是否符合校園安全準則。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "文青善捷多功能館舍動土 張市長：整合警政、幼教及社區服務，完善A7生活機能 - 桃園市政府",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GUUEtQ0VFOVNyLUd1bjdmMmZGZk96SnppV1dRelpyd3d5MzRUOVZTWWhiSTVXMmRKdHBQcUQ5VE1JajVUUEpvaHZNVjJqWFdJMl9wb3hFenFsVTVjNXNyRkJiWmRtckJiXzQ1Zg?oc=5",
+   "source": "桃園市政府",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "桃園市文青善捷多功能館舍正式動土，該設施將整合警政、幼教與社區服務功能。此建設旨在提升A7重劃區的生活機能，為當地家庭提供更完善的幼兒教育與公共服務資源。",
+   "takeaway": "家長可持續關注該館舍進度，未來將能就近利用其中的幼教與社區資源。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "推動生活數學 桃園市教育局讓數學走進生活學習更好玩 - 大紀元",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lelh1VWwyQU9RWHJVLVJZa2NwcUNnVGVZRmNoVlBFZkdwT3pvVnFDNmJhVjVnWS1RT3dhREVkd2EyQ2ZoWWJZaEFwWTZDQWhiaVcxZVhFUFRSX1JhR3JXLXdDZGFzcEXSAWdBVV95cUxPZXpYdVVsMkFPUVhyVS1SWWtjcHFDZ1RlWUZjaFZQRWZHcE96b1ZxQzZiYVY1Z1ktUU93YURFZHdhMkNmaFliWWhBcFk2Q0FoYmlXMWVYRVBUUl9SYUdyVy13Q2Rhc3BF?oc=5",
+   "source": "大紀元",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "桃園市教育局致力於推動生活數學，旨在透過將數學融入日常生活，提升學生的學習興趣與成效。",
+   "takeaway": "家長可多引導孩子觀察生活中的數學應用，讓學習變得更具趣味性。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-28",
+   "title": "成績可擇優採計！新店高中考場遇停電今下午重考國數| 生活 - 三立新聞",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VSFJrMUJkQkhUUHNkbktuLXBMV292TUkzWWlWQXFkSmw4dkZHSXY4bkhiRzQySlZUVEsxR0RBSXBiVUZRUVIw?oc=5",
+   "source": "三立新聞",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "新店高中考場因停電影響考試，校方宣布國文與數學科將於今日下午進行重考。受影響考生可選擇較優的成績作為最終計分依據。",
+   "takeaway": "家長與考生應留意考場突發狀況的應變機制，並確認相關補救措施以維護權益。",
    "mentions": 1,
    "also_from": []
   }
@@ -5451,6 +5617,26 @@
   {
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56UHZWcEROWXRKTHo5UTFuNEd0Q2dJSVFaUlNMM0c2bEZ3OVV3eGpwaU5rQmlrbUJxUVNRUkhJSzdHdi1wdktWc2dlazU2UFI3NGc?oc=5",
    "title": "大學不只選科系，還能「自創」專屬學位？我的臺大「校學士」跨領域學習實驗",
+   "date": "2026-10-28"
+  },
+  {
+   "url": "https://www.twreporter.org/a/controversy-over-vsed-in-taiwan-interview-liu-ing-bih",
+   "title": "面對「病人自主界線」爭議，醫師畢柳鶯：我不是倡議斷食，而是善終",
+   "date": "2026-10-28"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ONENwcDlkV2N3clUtTFF4a0JPZjJFYVBQcldxVVhRc0RJVS1xVUNpVmF6RW1YRlpWVWhDc25zMkYyMXJ5NUx4X2ZR?oc=5",
+   "title": "【高虹安領軍5-4】 李玫關注師生親子權益趙若芸強化原民長輩醫療福利",
+   "date": "2026-10-28"
+  },
+  {
+   "url": "https://www.twreporter.org/a/controversy-over-vsed-in-taiwan-end-of-life-conversations",
+   "title": "那一天來臨前，我該怎麼做──善終對話，持續進行",
+   "date": "2026-10-28"
+  },
+  {
+   "url": "https://www.twreporter.org/a/controversy-over-vsed-in-taiwan-translator",
+   "title": "翻譯美國「自主斷食」專書的醫師，為何對台灣現行「斷食善終」有疑慮？",
    "date": "2026-10-28"
   }
  ]
