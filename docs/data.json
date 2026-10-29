@@ -4705,9 +4705,10 @@
    "topic": "其他",
    "summary": "桃園新屋兩所幼兒園透過結合在地海風與日曬特色，深入探究客家文化，獲得KDP幼教組特優肯定。",
    "takeaway": "可參考此案例，將在地文化特色融入幼兒園的教學課程中。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "Life 生活網"
+    "Life 生活網",
+    "LINE TODAY"
    ]
   },
   {
@@ -4780,8 +4781,10 @@
    "topic": "學習方法",
    "summary": "新北市Impact Star首獎團隊的6位青年，透過前往新加坡進行跨國交流，拓展社會創新的國際視野。",
    "takeaway": "鼓勵青少年參與社會創新競賽，透過國際交流提升視野與實踐力。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "天下雜誌"
+   ]
   },
   {
    "date": "2026-10-27",
@@ -4930,8 +4933,10 @@
    "topic": "政策",
    "summary": "教育部推動將本土語言融入幼兒園的教保活動中。官方並提供相關教案資源，協助教師在教學現場靈活運用。",
    "takeaway": "幼兒園教師可參考教育部提供的教案，將本土語自然融入日常教學。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "國立教育廣播電台"
+   ]
   },
   {
    "date": "2026-10-28",
@@ -5417,6 +5422,181 @@
    "takeaway": "老師與家長應給予孩子犯錯與重來的機會，培養其面對困難的韌性。",
    "mentions": 1,
    "also_from": []
+  },
+  {
+   "date": "2026-10-29",
+   "title": "臺東4親子館11月推出35場免費活動 從創意手作到多元文化陪伴親子共玩共學 - 睿傳媒 Rightmedia",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKLVdNdGs0WlBGWU5RVkExZDJBUmJ2U18tSWwxUjdkUTV2Nk84X0FrQ1pCVVJHSGxndElLYVYwaHIwZGljOVBfcDR2YkF1djc3eUNOS1FBTQ?oc=5",
+   "source": "睿傳媒 Rightmedia",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "其他",
+   "summary": "臺東縣內四間親子館於十一月規劃了三十五場免費活動，內容涵蓋創意手作與多元文化體驗，鼓勵家長與孩子共同參與學習。",
+   "takeaway": "家長可多留意在地親子館資訊，善用免費資源陪伴孩子共玩共學。",
+   "mentions": 2,
+   "also_from": [
+    "Life 生活網"
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "title": "2026戶外教育年會「全民共學，走讀生活」 共創教育永續新願景 - 教育部全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZWGZxX0FfeGVsVm90di1FUnJXZ0NDRTBIUUVnZmtsbHNYZ2o5U0t1eVdHbjVuc0VOR3FNZW1XZ1lhMm4yYTVMVU55bzBMZUtGYkRpUVJ6aGYxV0xQbzFUWVhkY00za2psREhHSDNMdG9YdjRXN1d4c0djNXZ3Ync?oc=5",
+   "source": "教育部全球資訊網",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部宣布舉辦2026戶外教育年會，以「全民共學，走讀生活」為核心，旨在推動教育永續發展的新願景。",
+   "takeaway": "家長與老師可關注後續活動資訊，鼓勵孩子透過走讀方式探索在地生活與環境。",
+   "mentions": 2,
+   "also_from": [
+    "NOWnews今日新聞"
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "title": "家長缺乏認知、拒絕鑑定！全台有9千名「特教疑似生」卡關 難獲得正式特教服務 - 倡議家",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14dERVVWlKWWpzQU5keHljVC12R2FlQ3VwQ0FrUDkzbFY3LW82dTd3Q2Rlb0FGS1RCUy1sTkJFQXpFZXIwdnlrWU5NdkxYYTVQcGhNTkt6ZVQxYXEyZk9n0gFkQVVfeXFMTnBJVTdqbExvZ1ZQZHZmdEZsSEZlWGE3UTFMWDBrSEprbEw5ZUtmQUNlSmI4WDRscmhDZzJ5R2l0TzlQUzVzenpreFMtWFZWdGN5cEg3b2lSU3o5ZVlxZTVZXzB0aw?oc=5",
+   "source": "倡議家",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "全台目前有約九千名疑似需要特殊教育的學生，因家長缺乏相關認知或排斥鑑定，導致孩子無法順利取得正式的特教資源與協助。",
+   "takeaway": "家長應正視特教鑑定，及早評估能讓孩子獲得適切的教育支持與輔導資源。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-29",
+   "title": "臺東4親子館11月推出35場免費活動 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44MHJEV1NJUjdjOC1sdFhPelF0aUZUMnhod3dJRGF4SWFaNzRaSWlDZ19BV29MNTNKeDU1ZzNuYlVrc2ZkV1IwNVo5SEo1SWdzaHc?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "其他",
+   "summary": "臺東縣境內四間親子館於11月份規劃了35場免費活動，提供在地家庭參與。",
+   "takeaway": "家長可留意臺東親子館活動資訊，善用免費資源陪伴幼兒成長。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-29",
+   "title": "新北中輟預防獲9獎 跨網絡合作接住每個孩子 - 教育廣播電台",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QX3hrZ2lBTzRUM0JFdk1yNml6eXlDWm1SMVEtZXI5SkNvQ01manhuSWlTNjVGOHFYRmxSWXRJVmF5ckFxT2JRM2k0VmRjeS1oQlZyOWF4UHVEV3pteGZicEdzbGROVVgwVkM1UXln?oc=5",
+   "source": "教育廣播電台",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "新北市政府透過跨單位網絡合作，成功推動中輟預防工作並獲得多項肯定。此舉旨在強化輔導機制，確保每位學生都能獲得適當的教育支持與關懷。",
+   "takeaway": "家長與老師應留意校園輔導資源，並與相關單位保持聯繫以協助學生穩定就學。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-29",
+   "title": "新北兒少心理健康國際研討會 邀權威專家學者深度交流 - Life 生活網",
+   "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNR2g3N2FLSDY2ZmMtVjBkVmltN1R6U2FUMDhmVUVxTWZ0QUVsS2dQM0p6RFB5Z0NfNWpEV1V6cjBMSGJFSHBvVllnbTBSNGlLNTc2Y0MyWjVLVlpjZkhLZE1Kbk9nQXpwY0NzbDlvVmdvMm56eFRBQXVwYk9kcWs1RVNsSHViTzM5RXVDcV80d2wtWUxlQm1YbmFzRktvTUI4d0pyV0JXd1JMUTU1TXlrcEJLUDlpQ2Jpcm9oQWQtVzZtX3ZWYjdsWW10dktYTklJazBiOU9hNWw4aURxRk5wQTgyUkhNV2QwdGtuNE95UUhoa1h6aGNIWkE3cjZQc2RiQ0IzSmJGYXZ2bzEzb3RlSmRYaUE3dDVyRHAzbUZNVTZxdEtOOG1GckxuVmN4VG5UNHNoc2lWTnpiODVua3lFYUFYMTlmX1ZEOWpEMW5aWGxyaWdkWDVuU2NURXFRLUM1N05hUW1XZVM?oc=5",
+   "source": "Life 生活網",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "新北市舉辦兒少心理健康國際研討會，邀請國內外專家學者共同探討相關議題。",
+   "takeaway": "家長與老師可持續關注研討會後續發布的專業建議，以提升對兒少心理健康的重視。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-29",
+   "title": "走出教室學更多！教育部表揚30組戶外教育典範 補助1.22億元推動山海探索 | 徐炳文 | 地方新聞 - 風傳媒",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjSVpadnljdndhZk9Ea3RVUGJIX1UzdnNfbXJqREJTazhVaHpwRGdoWmIySmlhSXNrUnp1VFRveEhSbEpuY0w5My10ckNMZw?oc=5",
+   "source": "風傳媒",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部透過表揚戶外教育典範並投入逾億元經費，鼓勵學校帶領學生走出教室進行山海探索。此舉旨在推動多元化的戶外學習體驗，提升學生的實地觀察與探索能力。",
+   "takeaway": "家長可留意學校是否提供戶外探索課程，鼓勵孩子參與實地學習。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-29",
+   "title": "特教教師問題頻傳 教部：調降師生比、增聘特教助理員 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XTWVuLXY5VkJCMmFadFZfOVpPLTBmaTQ4QjB4SmR3eWprWVNVczJXSnRJaEtxeFBhSU9JTXlhXy1pa1JjcEFCbFVvb2FGVVVpNlQwRFcydmQ3ZDjSAWBBVV95cUxPLXFIUVlRZ0kxTjVMZGw3c3VCWmY5aXhlVURxQU1CbzJzaVIySG9nYUVUN2JfN1JJX2d0UXAwQUFqOHNSWm41ZS1vLVlaakR1UW1JQnhzNmViNG1seXRBUU4?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部針對特教教師面臨的挑戰，計畫透過降低師生比例以及增加特教助理員的人力配置來改善現況。",
+   "takeaway": "家長可持續關注相關政策落實，以確保特教學生獲得更充足的教學支持。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-29",
+   "title": "戶外教育年會 南市獲頒4獎項 - 中華新聞雲／中華日報",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxY0lKUzVCUGhFRnBOdE5PWmptYnd2R1R3bFBkSWMyeHlhVTJHRU5ZbHRJczdDQl9mNmNWTkQ0U2JoMkRBa1diV19RbEw5cVV2aUE?oc=5",
+   "source": "中華新聞雲／中華日報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "台南市在全國戶外教育年會中表現優異，共獲得四項獎項肯定。",
+   "takeaway": "家長可關注學校推動戶外教育的成果，鼓勵孩子參與多元實地學習。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-29",
+   "title": "新北中輟預防獲9項獎全國第一 社工師以「2.5公里上學約定」陪伴學生 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VVmNVS1JfaFAtSVR3ZXFGckxoQmV5TTR6dFhRa1pBcEppS0p3LUxZcUE2WV9fRVY5YXNlX1pMZmttZGxSYkxTcERmZEswbkFQb2c?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "新北市在推動中輟生預防工作上表現卓越，榮獲全國九項大獎肯定。社工師透過建立具體的上學約定，成功陪伴並協助學生重返校園。",
+   "takeaway": "家長與老師可參考社工的陪伴模式，透過建立具體約定來支持中輟或拒學的孩子。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-29",
+   "title": "從協尋到復學追蹤 新北少年隊中輟防治連8年獲獎 - Life 生活網",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOM1Jfd2VIRE9DZzhzQTEyVGhTUWdCNFo4RnAtQWJCTmFFWWx0dHByZ0Ntc2dHZ0lkMFZZT2tfaWhaZTNIcTZzR0lxQS16MVRucWFzc2tzVEQtTHBpUnVjcXRrM08wVnppYzJlYnZ6Z1lPNWpQdWloaEZteEtpOVFEOUthWDUxX1B0OUhSUDM0ZVZPc0xMSlkwZzUyUFFTbzJVUm03OHN1QXM3dzctMFBQNU9kWE52TTRqeXQ3TUZNWUQ4Umx0TnFzZ3I3SkR0b2RhbzkyTGhtOC1PaTRldXQwVGdaREhNcGF2TXhZV2lGVzFabjFSd3BOR21oZEpRMS1RMmhPTHA3bTJ0UkREYmlJNVNBQW83SEdUVXBXcDdmSTFUczgyRktMZE95NHBtTDBLamZNd2VFR0JmbHN2WHhmZGV5WlJEdw?oc=5",
+   "source": "Life 生活網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "新北市少年隊透過積極的協尋與復學追蹤機制，連續八年獲得中輟防治相關獎項肯定。",
+   "takeaway": "家長與老師應多留意孩子的出缺席狀況，並善用政府提供的輔導資源協助復學。",
+   "mentions": 1,
+   "also_from": []
   }
  ],
  "rejected": [
@@ -5848,6 +6028,26 @@
   {
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jR2JUZXJmTFZVQm96OXd4eWNuVzRsWHluMEpnYU5MQThzS21JMTV5YjU1TDJaQ2l1ZmRtMC1teU9MZzdSbFNKaEVOTFhicDh3b1JJ?oc=5",
    "title": "社會進步組得獎案例｜2026天下城市治理卓越獎 - 未來城市＠天下 - 進步城市的新想像",
+   "date": "2026-10-29"
+  },
+  {
+   "url": "https://www.twreporter.org/a/controversy-over-vsed-in-taiwan",
+   "title": "當病人與家屬開始尋求「斷食」，他們真正想停止的是什麼？",
+   "date": "2026-10-29"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03VUh3OGxyY282VkdGOC1sTE1UMm9pay1qcm1UYVVPVFdnd0R2bHRERXZPUkk0aUFUUEhsRk14MDlROE5wOXV2ZjV0YUtpTGpuS3c?oc=5",
+   "title": "「按摩」也能拿下全國金牌？從香港移居小琉球，Sheila 靠一雙手闖出自己的路",
+   "date": "2026-10-29"
+  },
+  {
+   "url": "https://www.twreporter.org/a/podcast-2026-10-28",
+   "title": "AI假語音、假影音能影響選舉嗎？當生成式AI對各國選舉造成負面效應，我們如何健全法制及守住民主防線？",
+   "date": "2026-10-29"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oankwMEJVSTdkOHhJaVlrMDg3N0JVYXBLMVBwajNWSzRHaUlsOFdPV2t4eGQycjg4eDA5TVdrYWVZeEVxaWlSa2wzVTBiT3ZCNXJDX2djMUpISW5NYmRlUDhVSFZYWGRtRVEwWXFR?oc=5",
+   "title": "空巢期後，戀愛才真正開始！新居不留孩子房間、與老公牽手約會…她60後擁抱「華麗老年」 | 幸福熟齡X 今周刊",
    "date": "2026-10-29"
   }
  ]
