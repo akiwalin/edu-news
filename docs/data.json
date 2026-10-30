@@ -5435,9 +5435,11 @@
    "topic": "其他",
    "summary": "臺東縣內四間親子館於十一月規劃了三十五場免費活動，內容涵蓋創意手作與多元文化體驗，鼓勵家長與孩子共同參與學習。",
    "takeaway": "家長可多留意在地親子館資訊，善用免費資源陪伴孩子共玩共學。",
-   "mentions": 2,
+   "mentions": 4,
    "also_from": [
-    "Life 生活網"
+    "Life 生活網",
+    "住展雜誌",
+    "PChome Online 新聞"
    ]
   },
   {
@@ -5502,8 +5504,10 @@
    "topic": "政策",
    "summary": "新北市政府透過跨單位網絡合作，成功推動中輟預防工作並獲得多項肯定。此舉旨在強化輔導機制，確保每位學生都能獲得適當的教育支持與關懷。",
    "takeaway": "家長與老師應留意校園輔導資源，並與相關單位保持聯繫以協助學生穩定就學。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "蕃新聞"
+   ]
   },
   {
    "date": "2026-10-29",
@@ -5595,6 +5599,227 @@
    "topic": "政策",
    "summary": "新北市少年隊透過積極的協尋與復學追蹤機制，連續八年獲得中輟防治相關獎項肯定。",
    "takeaway": "家長與老師應多留意孩子的出缺席狀況，並善用政府提供的輔導資源協助復學。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-30",
+   "title": "讓孩子用平板學習！矽谷科技菁英反而不讓孩子碰3C 背後原因值得家長深思 - 自由財經",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pLWxIV2N1V0dxOHRDVDRvaVR3Rll4ZWlqMWRjMXc0M0tMZDBzQV9iYWNhMjJNTTJoanVBcjdfcHhDMjJKU0kxZ3pzcms3bmREbllyazRtUkdfUWR4S3hNLTZOWXPSAWRBVV95cUxPaS1sSFdjdVdHcTh0Q1Q0b2lUd0ZZeGVpajFkYzF3NDNLTGQwc0FfYmFjYTIyTU0yaGp1QXI3X3B4QzIySlNJMWd6c3JrN25kRG5Zcms0bVJHX1FkeEt4TS02Tllz?oc=5",
+   "source": "自由財經",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "矽谷科技圈的家長傾向限制孩子使用3C產品，此現象值得家長反思數位工具對兒童發展的影響。",
+   "takeaway": "家長應審慎評估數位產品對孩子成長的影響，並建立適當的使用規範。",
+   "mentions": 2,
+   "also_from": [
+    "自由時報"
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "title": "石化聚落空氣驗出微塑膠、有機磷酸酯 專家：恐影響生育和兒童發展 | 聯合新聞網 - LINE TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ic2t4OG40ZTM0Q0NrejJ2ejFUVzRuRlBOYWwwcmZyNFdYQ1NXSEw2TFNzMmZud294eS1odjJ3RlNxdFRRai1xZVJXV2FuOVdyNnNLMWxB?oc=5",
+   "source": "LINE TODAY",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "研究指出石化工業區周邊空氣中含有微塑膠與有機磷酸酯等物質。專家提醒這些環境污染物可能對兒童的生長發育造成潛在風險。",
+   "takeaway": "家長應留意居住環境空氣品質，並關注孩子發育狀況，必要時諮詢專業醫師。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-30",
+   "title": "國中小交通安全教育融入AI與情境演練 培養學生安全用路觀念 - 新住民全球新聞網",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaHZ5UkU4NHVhS3hGLXlSUlNKMkVPT0xaU25GWGZfbGRfTUtjcTY5aWhTanJNdV9xc3NEQ1pQYnFZem5zai14SVZURDNjZFJNVUxLTVZzZ0tDcmNwMkJ6cnRuNVBkZGc3SndCWWtkekJjYnd6blp0NWtVMG9JdHNqTGZoSnRycWNHZTFWLWNUbmp1bnk3THp4R2xUUQ?oc=5",
+   "source": "新住民全球新聞網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "教育部推動國中小交通安全教育，結合AI科技與情境演練，強化學生的用路安全觀念。",
+   "takeaway": "家長可多鼓勵孩子參與學校的交通安全情境演練，提升實際道路應變能力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-30",
+   "title": "學習歷程檔案資料庫缺乏彈性 學生團體籲：建立重製機制、簡化分類 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IVGdWWlllUkRSeWJ0T1pUX09jYXdhNFh2X0xvbGZvajIwcDNBcFVtTnB3UHNfb0FBN2RSZW5xcWcxZl9DdnBXRjFJRHU4allpQmlGTl930gFWQVVfeXFMTkhUZ1ZaWWVSRFJ5YnRPWlRfT2Nhd2E0WHZfTG9sZm9qMjBwM0FwVW1OcHdQc19vQUE3ZFJlbnFxZzFmX0N2cFdGMUlEdThqWWlCaUZOX3c?oc=5",
+   "source": "UDN",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "學生團體針對學習歷程檔案資料庫提出訴求，認為現行系統缺乏彈性。建議教育部應建立檔案重製機制，並簡化現有的分類方式以利學生操作。",
+   "takeaway": "家長與老師應關注學習歷程檔案的政策變動，協助學生適應系統操作與檔案整理。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-30",
+   "title": "AI一鍵給答案，孩子真的學會了嗎？ 2026國際閱讀教育論壇聚焦「深思慢讀」關鍵學習力 - 天下雜誌教育基金會",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44SUozRmdVaDBpYTBCRmkwWFk5YTFPTWl1NkZ6NnpDaExEOUcwU3FzejBGWGVxUlRmYkdTdEpZNkVadE9EaHJ2ZzYzTjRudWsxc2Rhcg?oc=5",
+   "source": "天下雜誌教育基金會",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "面對AI能快速提供答案的時代，教育界開始重視培養孩子「深思慢讀」的關鍵能力。2026國際閱讀教育論壇將探討如何引導學生在數位環境中，依然能保有深度思考與學習的素養。",
+   "takeaway": "家長與老師應引導孩子在數位學習中，練習放慢腳步進行深度閱讀與思考。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-30",
+   "title": "【Pengrajin Anyaman Rotan】Chen Meilan yang menghidupkan kembali teknik anyaman rotan yang hampir hilang di sukunya - 少年報導者The Reporter for Kids",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcDJGVG9TNURhUlhGbUFPWmZaRHRob3VsZ3NGWEk3LXZQNVJRVEJMZnFMdmZWbU5GdEZ6MzFrYzBSRWw2VGx4ZzNHTERjNkRyWUc1TXhKU0l5aEY0SVpYWlJNZWY3ZFJpUGNVWi11ZGw1VE5GdzVHWW85bkdFakZTeXl1M2txZw?oc=5",
+   "source": "少年報導者The Reporter for Kids",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "報導介紹陳美蘭致力於復興部落瀕臨失傳的藤編技藝。透過這項傳統工藝的傳承，展現文化保存的重要性。",
+   "takeaway": "鼓勵孩子認識並尊重多元文化與傳統工藝的價值。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-30",
+   "title": "數位時代教養超焦慮？專家教父母減壓招數 - 草根影響力新視野",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85YmFFS2VOb0ktaU92X1M1NnRDa01aaXdTRk0tMThRdVlpWlVWc05aZ1RmWVdVUjRJa3JhVFFHWXNqVXhkb3NiNTd3?oc=5",
+   "source": "草根影響力新視野",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "面對數位時代帶來的育兒壓力，專家提供家長有效的減壓策略與建議。",
+   "takeaway": "家長應學習適當的減壓技巧，以更穩定的情緒面對數位時代的教養挑戰。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-30",
+   "title": "石化聚落空氣驗出微塑膠、有機磷酸酯專家：恐影響生育和兒童發展- 股市爆料同學會 - CMoney",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0eTZfWDdEYlJnWUNEYmpIYmNZYnBaMTlXRzB2dGYycE5lRXVYZDNucVZ3SWM0dGwzdV95aml3SzZ5WEd3T1paSUFoVjloX241Z3JWa1VHSkc?oc=5",
+   "source": "CMoney",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "石化工業區周邊空氣中檢測出微塑膠與有機磷酸酯等有害物質。專家指出這些污染物可能對兒童的生長發育及生育能力造成潛在風險。",
+   "takeaway": "家長應留意居住環境空氣品質，並關注相關化學物質對孩子發育的潛在影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-30",
+   "title": "讓孩子回到完整的教育：支持國小體育班轉型，公共照顧更要到位 - Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOcG5HTkZERVVPZ2VKVXQyeTQ2cWlfZW1kelJIRHdEYThwV0JJalUyTEk5Q3RtcDA3SlpReUpSZmdXRmNRWjVzWUJlUnA3TmluR1Jub3NKUlp0X0swclFYekRyOHZQM1pUVGJ0QnpJQnRlSnhuRFBfUXNMaWVvRGo1OFZ1WFJSWG0tWjJfT282YWdtbFR4UFNTaUtDQ0lUQkQ1Q0hLaEJYWDBZUm1VN21mSThCOTFfdzdjdnc0RnBIbS1Kck4wZnMxX1MyeTFmTXNFWGRyT01XSXNHcHYySE0zdjFwMkJ6a1Z3cThEc0NOY1A5SHFFYWhveHVBaWp5bGIyLW12Xzkzamc5TEtJczNjX01fU1ptZFloZWJmM0w5OVQ2TDFYRkdPY0NEeWJzRDRySWhjTl9yWU1kdmEtbkMwSWZhZzVxVDRZdDJxWG5xNFlhakw0alR0b1VlLVR3LXdfSjVsejNQaDFzRkdUSnVjWVo1NXBxcmk1NVVpX282TmFxZ3lMUVFlNFhLSkdXejVXajF1X00tY2lLUQ?oc=5",
+   "source": "Yahoo新聞",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "政策",
+   "summary": "文章探討國小體育班的轉型議題，強調在調整教育模式的同時，必須確保公共照顧資源能同步到位。這項政策調整旨在讓孩子回歸更完整的教育環境。",
+   "takeaway": "家長應持續關注體育班轉型政策，並留意學校配套的公共照顧資源是否充足。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-30",
+   "title": "四年愛班校園日記2 我的麻吉是女生- 社會新聞 - PChome Online 新聞",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTTNvZHU4TWFsc2dheGZ3dkxWQ0k2R0phMjVObG1uU2lmQ29fT0RGRXpEZnkyZk5KTEl6VXRxVnQ2TUpEbnc5TER0Xzc1VXRvdjhpdHNhX0QtSERiZ0dBUllSUWtGWlpJWnUzb09OVHNPVnVscC0zTnlXRDNnbm9pRmYxZnU2OTc2?oc=5",
+   "source": "PChome Online 新聞",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "教養",
+   "summary": "本書記錄了四年級班級內的校園生活點滴，探討孩子在同儕互動中與異性建立友誼的過程。",
+   "takeaway": "家長可透過此類校園故事，引導孩子學習如何與不同性別的同學健康互動。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-30",
+   "title": "「2026新北兒少心理健康國際研討會」啟動國際經驗交流 以韌性城市守護兒少心理健康 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jOFItaHpwNndTQlRlampSZXZoNlFULXRBN2QxVmFzQTA4REkxMlpOS0Z0aDNjaEs2OVRFaWUwcTc2VXFLWGkwZUg5b0xsRnRiQkE?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "新北市將舉辦國際研討會，旨在透過交流國際經驗，探討如何打造韌性城市以守護兒少心理健康。",
+   "takeaway": "家長與老師可持續關注研討會資訊，了解如何提升兒少心理韌性。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-30",
+   "title": "追星、迷因到AI假訊息 校園教學生辨真假 - 新住民全球新聞網",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTTFIelpTRks0OVN5cFZWUlBqbS1qMUZvS2ZxbWowSFB6aUI3ZjlleTBVbkFaTFVyVk40ZlNXaWphQjRJdW1mcm52cElzZ1hpRDlJZDA3TXBYak1MVk4xOUZvVHBUSEZTZVJWNEFadnNNUngwNWtLakxpNlV4UUdzWjNsaGF0THRTb2dLQmVFMVI?oc=5",
+   "source": "新住民全球新聞網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "面對網路資訊氾濫與AI假訊息的挑戰，校園教育應引導學生提升媒體識讀能力。透過課程協助孩子辨別網路內容的真實性，培養正確的資訊判斷力。",
+   "takeaway": "家長與老師應多與孩子討論網路資訊，培養其查證與批判性思考習慣。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-30",
+   "title": "AI 時代當好父母，需要更多支持——選舉季，把親職教養寫進政見 - 親子天下",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzV3VWaWVTZWF3aUpwTEZWX1R3NW14MlpjU2s4ejFZU0dkWV80ZUt1N2VaZWN3V3F3a05TalltU1BMMl9QYUJTQXVYdGpiMW5zU0JfWjlLUQ?oc=5",
+   "source": "親子天下",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "在人工智慧快速發展的時代，家長面臨更多教養挑戰，需要政府提供更完善的支持系統。本文呼籲將親職教養議題納入選舉政見，以改善家庭育兒環境。",
+   "takeaway": "家長應關注候選人的育兒政策，並積極表達對親職支持系統的需求。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-30",
+   "title": "Rattan Artisan：Muling binubuhay ni Chen Mei-lan ang unti-unti nang nawawalang tradisyon ng paggawa ng mga produktong rattan sa kanilang tribo - 少年報導者The Reporter for Kids",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wNFJ4bU44Mk9BQm1xeUZsRmdZUkt6V0h1aV9PRGNJeFp5T2FFNElWSEVlaFRRZWJZdEJ4TnNZb09mOVQzaUZqMF9ncjRLUXBseEFnU1dDVE92QnRiTWpiX05mOE9OT18wUXpGeDZzb1BIbWdDeHNrd3U2dw?oc=5",
+   "source": "少年報導者The Reporter for Kids",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "陳美蘭致力於傳承部落傳統的藤編工藝，讓瀕臨失傳的文化技藝得以延續。",
+   "takeaway": "鼓勵孩子認識並尊重多元文化與傳統工藝的價值。",
    "mentions": 1,
    "also_from": []
   }
@@ -6049,6 +6274,11 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oankwMEJVSTdkOHhJaVlrMDg3N0JVYXBLMVBwajNWSzRHaUlsOFdPV2t4eGQycjg4eDA5TVdrYWVZeEVxaWlSa2wzVTBiT3ZCNXJDX2djMUpISW5NYmRlUDhVSFZYWGRtRVEwWXFR?oc=5",
    "title": "空巢期後，戀愛才真正開始！新居不留孩子房間、與老公牽手約會…她60後擁抱「華麗老年」 | 幸福熟齡X 今周刊",
    "date": "2026-10-29"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xQUtnMFlTLUpQSnpkdkpzRTBtekdWc1E2TDlQMXlCbU1mZFpBU3prUEowenBWQzE5aEdqZ1Rjclh1YWltRUNxRkhIcGREVkFWS0E?oc=5",
+   "title": "我是大學老師，也是 Mr Gay Japan 首位獲獎外國人：為何赴日參加同志選美？",
+   "date": "2026-10-30"
   }
  ]
 }
