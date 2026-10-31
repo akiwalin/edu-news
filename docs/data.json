@@ -5491,10 +5491,12 @@
    "topic": "其他",
    "summary": "臺東縣境內四間親子館於11月份規劃了35場免費活動，提供在地家庭參與。",
    "takeaway": "家長可留意臺東親子館活動資訊，善用免費資源陪伴幼兒成長。",
-   "mentions": 3,
+   "mentions": 5,
    "also_from": [
     "國立教育廣播電台",
-    "PChome Online 新聞"
+    "PChome Online 新聞",
+    "Yahoo新聞",
+    "中央社 CNA"
    ]
   },
   {
@@ -5640,8 +5642,10 @@
    "topic": "心理健康",
    "summary": "研究指出石化工業區周邊空氣中含有微塑膠與有機磷酸酯等物質。專家提醒這些環境污染物可能對兒童的生長發育造成潛在風險。",
    "takeaway": "家長應留意居住環境空氣品質，並關注孩子發育狀況，必要時諮詢專業醫師。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "UDN"
+   ]
   },
   {
    "date": "2026-10-30",
@@ -5915,8 +5919,10 @@
    "topic": "其他",
    "summary": "台東縣內四間親子館於十一月規劃了三十五場免費活動，提供零至六歲幼兒與家長共同參與的學習與互動空間。",
    "takeaway": "家長可多利用在地親子館資源，帶領幼兒參與免費的共學活動。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "報新聞 Mega News"
+   ]
   },
   {
    "date": "2026-10-30",
@@ -5960,8 +5966,10 @@
    "topic": "心理健康",
    "summary": "新北市政府致力於建立心理健康韌性城市，並透過整合跨領域資源來加強對兒童與青少年的保護與支持。",
    "takeaway": "家長與老師可多加留意政府提供的心理健康資源，適時尋求專業協助。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "Yahoo新聞"
+   ]
   },
   {
    "date": "2026-10-30",
@@ -6037,6 +6045,178 @@
    "topic": "學習方法",
    "summary": "新北市政府舉辦學力提升頒獎典禮，表揚在國中教育會考中展現顯著進步的學校與學生。數據顯示多數國中成功提升學力表現，更有體育班學生透過有效學習策略取得優異成績。",
    "takeaway": "鼓勵學生透過科學化的學習策略，即使是體育專長也能兼顧學業表現。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-31",
+   "title": "孩子需要「發展評估」怎麼開口？逾4成教師坦言親師溝通有壓力- 健康新聞 - PChome Online 新聞",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3dHVFotbTVtYmI5UTNjS1BNaFBuUUpDVFNmOTRnMl9BTm0yV3ktTnBGdVVHblQ2clVUTzFlWnJGNVVMUlFEcTMycUdyTWktRHFMZEcyaHMtTkNBNEpGSlZSMDZtTnZVNHlpU0FsNDJRYUg5Z25xdkxNOThEM0s0NUhvTFl2eFVtcVZFc0NfdkppR1k?oc=5",
+   "source": "PChome Online 新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12"
+   ],
+   "topic": "教養",
+   "summary": "教師在向家長建議孩子進行發展評估時，常面臨溝通上的心理壓力。此現象顯示親師在面對兒童發展議題時，需要更有效的溝通策略與支持。",
+   "takeaway": "教師與家長應建立互信，以客觀觀察為基礎，共同為孩子的發展需求尋求專業協助。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-31",
+   "title": "教育部擴大補助高中本土語文 地方教材研編最高可拿90萬 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82UDJJNUhfajkwNDF6OFpLVmpUZklRbVVHaWRwSDJ3d1puTzNNTGcwTTgwTVJPamU1UFVyRDNaTG4tcTRoLXlQZjhseXlUUE5ldEIxS29JdEdQRUt3dmg5d0doeFnSAWpBVV95cUxOS0FtQVFTdGItXzdYWkpVTzg2WHJsRlFrczhoZGE5Nm53OE91c2NXX0dXSmh6Q05JTGNRRENLQ21UbjBoZUpjZjZzUXE2RzVNb1NXSHQ2Tkp5cXVXR08xU1Yzb0pOU1B2eVNn?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部宣布擴大補助高中階段的本土語文教學，針對地方教材的研發與編撰提供最高90萬元的經費支持。",
+   "takeaway": "高中師長可留意相關補助資訊，善用資源提升本土語文教學品質。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-31",
+   "title": "畢旅永遠只有369+1？從「學校旅行」開始開拓國旅新藍海｜ 郭瓊瑩 ／ 郭瓊瑩 - 獨立評論@天下",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zTHg4T1JwV0hSR01yRHpDTUZvb081ZVZ0N3hFa3JaQk54MU11ZWNpa0NxcjJwcEk4VEwwSHJuRDdPaTFwME9udVo2ZnB5alhvaTZpVU1HakpEU0JiT3lremJOVE82ZFk?oc=5",
+   "source": "獨立評論@天下",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "本文探討學校畢業旅行行程過於單一化的現象。建議透過重新規劃學校旅行，開發更多元的國內旅遊價值。",
+   "takeaway": "家長與老師可鼓勵學校規劃更具在地特色與教育意義的畢業旅行。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-31",
+   "title": "吃得營養、學得舒適、游得安心！台中多元教育政策陪伴孩子成長| 綜合 | 要聞 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UdmFsRWVCaVZpWkZKQTdmQlU4Wk9lVnhWaW1SYjlVZ3VVR2lqSFZoZkEyR0hudlU1Y2Uwc0p0OC1OTEpVamEtWi0zdVBZY0U3?oc=5",
+   "source": "UDN",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "台中市政府推動多元教育政策，致力於提升學童的飲食營養、學習環境品質及游泳教學安全。透過多面向的資源投入，全面陪伴在地兒少健康成長。",
+   "takeaway": "家長可留意台中市各項教育資源與校園環境改善措施，以確保孩子享有優質的學習與成長環境。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-31",
+   "title": "矽谷科技菁英不讓自己孩子碰3C 背後原因值得家長深思 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uMWxxYnpZMlNKc21sSEF0VEdqY2wyaEhhd0t6RmJ1aFVGanlWQndnaFdYQnBPNkZORndVcnM1QkxIdDY2NU0zUXhsbm9NSFRpXzNIellhMEY?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "矽谷科技圈的專業人士傾向限制子女接觸數位產品。此現象反映出科技界對過度使用3C產品可能帶來的負面影響存有疑慮，值得家長深入思考。",
+   "takeaway": "家長應審慎評估數位產品對孩子發展的影響，並建立適度的使用規範。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-31",
+   "title": "花蓮市幼萬聖節變身馬戲嘉年華魏嘉彥與親子同樂體驗藝術魅力 - 墨新聞-MORE News",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBjeU1UUG9jUkZkWDFZVXFaWW9MQ2ZXTm13anZISEd6cEx5T3ZEUW9BcmdIU3dVdUFzajBwODRrbW01dw?oc=5",
+   "source": "墨新聞-MORE News",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "其他",
+   "summary": "花蓮市幼兒園舉辦萬聖節馬戲嘉年華活動，邀請家長與孩子共同參與，透過節慶體驗感受藝術魅力。",
+   "takeaway": "家長可多參與幼兒園舉辦的節慶活動，增進親子互動並豐富孩子的感官體驗。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-31",
+   "title": "親子彩繪風車轉出幸福！臺東縱谷線社福中心推動親職教育 陪伴家庭共學正向教養 - 台灣新聞雲報",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2QnpVYkx4M24xZ2Ffb0F1aFhYVHpUZGdjLWNTTlNhTUtfcW9ndEtBaEg0dHJSNEVEMExiQm1hOF9sZnA4LXc?oc=5",
+   "source": "台灣新聞雲報",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "臺東縱谷線社福中心透過親子彩繪風車活動，推廣正向教養觀念，促進家庭成員間的互動與陪伴。",
+   "takeaway": "家長可多參與社福中心舉辦的親子活動，在共學中增進親子關係並學習正向教養技巧。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-31",
+   "title": "盧秀燕視察最高和平親子館 外展資源入部落 - 原住民族文化事業基金會",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9XYmZaVmtPQURuUzFvTWFOdl9RWWRQTHg2Sl9NN2lHWXdybUVLMjQwWldfdXJLTTFRMDU5RmJtRlVYd0xycnc?oc=5",
+   "source": "原住民族文化事業基金會",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "其他",
+   "summary": "台中市和平區設立了最高海拔的親子館，並透過外展服務將教育與育兒資源深入原鄉部落。此舉旨在縮短城鄉差距，提供偏鄉幼兒更完善的成長環境。",
+   "takeaway": "家長可多利用政府提供的外展育兒資源，提升偏鄉幼兒的學習與發展機會。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-31",
+   "title": "學童健康｜體育納呈分試有助學童做運動？學者與校長初研報告出爐六大建議助孩子建立健康習慣 - 香港經濟日報HKET",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wcjlwdDlMMXlwNzdHUVJINWh5S05BMW56OFQ5VHRheWs1ZW1Kd1dPN0RyRXZkLV9VdmxvdkJzR3FpNHIwakhZSmEwQXhETXo2WkE?oc=5",
+   "source": "香港經濟日報HKET",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "針對將體育納入呈分試的政策，學者與校長共同發表初步研究報告，並提出六項建議以協助學童養成規律運動的習慣。",
+   "takeaway": "家長可關注體育評核對孩子運動習慣的正面引導，並鼓勵孩子在校外維持規律運動。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-31",
+   "title": "放學後的 AI 自由時間： 從馬祖社區到內科園區，我們看見的家庭 AI 對話解方 - 親子天下",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiQWZXaktxeFVjWFlHeld3dEhhaWpJTFdkTVQzQXBfUUhKNDYwVy15M0llbnNXVnlPNGg1QTF3YkhOZEp2TzVJUFhXeEVLazFwRjdLdWdKYw?oc=5",
+   "source": "親子天下",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "本文探討如何透過家庭對話，引導孩子在課後時間有效運用 AI 工具。從不同地區的案例中，分享將 AI 融入生活與學習的實踐經驗。",
+   "takeaway": "家長應主動參與孩子的 AI 使用過程，透過對話引導正確的科技應用觀念。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-10-31",
+   "title": "閱讀新趨勢 - 天下雜誌教育基金會",
+   "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPZXZqNDJZb2FVa09mNXdET0Y2V3EzYjUwYlVvZEpYZ3Vka2NUSXdTSGZySkNzb0EtWU9kWHB2NnR6cERBM3ZQTGpUX3hsc25WNWtXUGp3czNPMDJZYmRUck9vZW94UHREZUs2aU5vODQzQVdJc0FHNHlfb0REVWNmVnBodlIyOEVjdHliUHFGUGhsR2dyYkRINVlibktWSDB3TGpROUtEZC1mZHlCaEp1UG9CN3BhY3ZRRWVWQVlDRGFQeGtPNUVoRExIWDFKSEVoQlVmcmxTQ0hUZ2xqREpqdjcxOFVMODUyQmNLUkg0RnpjY2h1QmdoaFBzWmZDU2ljUXJmTkx2N0dlSUZTVm9QVWhGZzI2Q0p0b04zempYdVdYb0FBWG5sLTV5RnlQWFliNzBCbGQyRG5oaUhYVU9Wd05CZ3ZGdS1FUzJSNUVZX1IxUnowX3dmdHJfTDZPUlUtVHAyNFQzN1dPUkdGSlVaVFEzUVZBbUd2QUhWS2hxZzhwdW9TUG1kTHJUQ2c3SlJYWFR6dg?oc=5",
+   "source": "天下雜誌教育基金會",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "天下雜誌教育基金會探討當前的閱讀教育趨勢。",
+   "takeaway": "家長與老師可關注閱讀教育的新動向，以調整引導孩子閱讀的策略。",
    "mentions": 1,
    "also_from": []
   }
@@ -6501,6 +6681,26 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CUTJSamY3a0FSazIxY1hFVTZreXQ2Smp5elR6Y1E0RjRwbVdRSWVtNnB3aXI1M1ZUT1drRzBYMVhqcnpUVGlEbm1fanFBeDA?oc=5",
    "title": "蔣萬安政績牌能擋沈伯洋兒虐追問？台北市長辯論41%看好沈、蔣僅30%！松機遷建41%反對成攻防關鍵",
    "date": "2026-10-30"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQNFZ6T3Q1anh6SUw3cHRjdGhIdmIxbEt5dnRvbUp6RlFfOWtRWEIwd0UtT2YxTkZYc1RYdEhxV1Q2WEw1UVZ0TFV2M3FUSHlneXVHcnBKbFZxUTYtNEpWUWd4Z2F2TTJfTUszSG4tMldvTXBiYnBJTG1sdFJoVXZyM3BIV0FnaFVfYUJrVjVzRkNJVEhFVEpZcU9XVzVCM2Q5YVN2cXpwTnpSakF1cmxMUTR1TWwwY1RVNGwyaW1mTXdNM2w3SlNUUHpwQjJfRFdmLTdmSHdMdF9qV0ZDRDRfT2c1ZF92X1lVWjR1cDUtdDdxRE9PQXc5dEVjS3l4RmxKaVBqY3BfY0lKQWFIX1UzeTh6dEJ0MEpUUHNJZTlLYWFiOU93ZUF6Y0lZX3l4WHZ1NnZfMFQwWEl0NnNpa2RqQ2xPa3VRZ05ERUg2eGFZUjJ5Z0tSRXU0X3FycTFEY1UtWVVrbTROdG9GRGs2aE5xc2FKeXJGQQ?oc=5",
+   "title": "高雄國小教師校內身亡 家屬盼保有隱私、教育局關懷協助",
+   "date": "2026-10-31"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWjRhalBOaFhXSVl2SGZVc252dlZvcmNoaDZLWHFQeFpnY0RCRWd3elpwZ2xkYWpfeWs0WUVXbkNRdGYwY1ZpcE1uYjR6RHZ1cVFjUUhQeVpycHRkUTBPcjdENEVkMWdsRVBkQWRpUmZ1Y3JFVTBCRGFUSzJiX1pMaWw3WnZaV242M3dtWg?oc=5",
+   "title": "2026高雄市長候選人電視辯論：賴瑞隆打《財劃法》、柯志恩攻弊案，兩人互批「只有黨意」及「只有派系」",
+   "date": "2026-10-31"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zV2tmUVJ3SGZVQWVQM3M1ZjlkU245dGo1cHNPa3FCUzdQUEVkQW02RVZVQm9VYy1fZTQ1ZnhWVGx5NG1rbG4zRUhZMHNYU0h5VFE?oc=5",
+   "title": "沒有邦交也能合作？從一艘退役海巡艦，看台灣如何與日本、菲律賓深化連結｜Manoj Kumar Panigrahi, Ph.D.｜換日線",
+   "date": "2026-10-31"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHNpUjJkelFsN01paWJEU2JNVm1nVFQyY0MxMG9CTzNfbzFLTFhNcEhCa21fLTc1R3M1Y2NPcVVET2g5S0szbDBZRlpPbW1DQ3U3R1ZteGNXc2lENmhMclVVVS1SYlZSSVM5b0lYbjhjT3RYRTRrNWdIVVE3ZFNGYTJkNkhqN0g2cGEwcDk5VlJleWJDMGpPUmZYOFE?oc=5",
+   "title": "【Long Game】陳子軒／飛呀！終於飛出去了──敬一杯逝去的，以及一直都在的釀酒人們",
+   "date": "2026-10-31"
   }
  ]
 }
