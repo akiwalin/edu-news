@@ -4447,8 +4447,10 @@
    "topic": "學習方法",
    "summary": "本文整理了學測化學科的考試重點與複習建議。提供考生針對考試方向進行準備。",
    "takeaway": "考生可參考重點整理，針對化學科考試範圍進行系統性複習。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "三立新聞網SETN.com"
+   ]
   },
   {
    "date": "2026-10-26",
@@ -7171,9 +7173,10 @@
    "topic": "其他",
    "summary": "吉東國小教師江慧專因長期投入偏鄉教育，獲得師鐸獎肯定。",
    "takeaway": "肯定教師在偏鄉教育的付出，並關注教育資源分配與教學熱忱。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "蕃新聞"
+    "蕃新聞",
+    "LINE TODAY"
    ]
   },
   {
@@ -7236,8 +7239,10 @@
    "topic": "政策",
    "summary": "鄭朝方提議整合縣級資源，旨在為早療家庭提供更完善的支援與協助。此舉期望能透過系統性的資源串聯，更有效地接住每個需要幫助的早療兒童與家庭。",
    "takeaway": "家長可持續關注地方政府的早療資源整合政策，以獲取更即時的協助。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "LINE TODAY"
+   ]
   },
   {
    "date": "2026-11-03",
@@ -7613,8 +7618,10 @@
    "topic": "政策",
    "summary": "澳門舉辦教師命題大賽，期望藉此推動智慧教學的發展。",
    "takeaway": "教師可留意智慧教學與命題競賽相關資訊，精進數位教學能力。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "TDM"
+   ]
   },
   {
    "date": "2026-11-03",
@@ -7643,8 +7650,10 @@
    "topic": "政策",
    "summary": "北斗國小投入兩億元資金進行校舍重建工程，共建造二十二間教室來改善教育環境。",
    "takeaway": "家長可關注在地學校的校舍改建與教育資源投入狀況。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "Yahoo新聞"
+   ]
   },
   {
    "date": "2026-11-03",
@@ -7720,6 +7729,174 @@
    "topic": "其他",
    "summary": "道家人文協會前往高雄那瑪夏國中，為當地學子送上溫暖祝福，陪伴孩子安心學習。",
    "takeaway": "家長與老師可關注社會各界對偏鄉學校的愛心資源與支持。",
+   "mentions": 2,
+   "also_from": [
+    "PChome Online 新聞"
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "title": "寶寶爬行暨搬搬樂22日舉行 即起線上報名 - 馬祖日報",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FbzBHX2FUaU5HZnFVNWpnaWh3al8zQW4tRE13bm5BOVF6TTR2QzVoY2M3Q0xEWmwzVkd5eWRmMjA1Z01wQUlmOUlRUUFpd1BBdDYyQUdNQ3FoM3Exd1E?oc=5",
+   "source": "馬祖日報",
+   "ages": [
+    "0-3"
+   ],
+   "topic": "其他",
+   "summary": "馬祖日報舉辦寶寶爬行與搬搬樂活動，目前已開放線上報名。",
+   "takeaway": "家長可留意地方親子活動資訊，鼓勵幼兒參與互動體驗。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-04",
+   "title": "國中會考最後衝刺／國文「這2類題型」出現機率大降師籲別再死背了| 生活 - 三立新聞網SETN.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12S3pHVG1DV2NOeFZGcVNIYUNienBLUy1vS1VkUE5oRG5zM0FFaXlZNHJkLXd6cUh0NzluYUFVei1BUzQ2ckJfMw?oc=5",
+   "source": "三立新聞網SETN.com",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "國中會考國文科命題趨勢改變，特定兩類題型出現機率大幅降低。專家建議考生應調整準備方向，避免採取死背硬記的學習方式。",
+   "takeaway": "考生應調整備考策略，減少死背，改以理解與靈活運用為主。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-04",
+   "title": "理財教育校園巡演首進橫琴 傳遞正向消費觀 - TDM",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1poR0cyZTV2YjZEWEVtN0pVLWtFSGxqVXRiYXNnNFRWeTVvR2JiMlhCVVlzSy1QWGxhM2UzdE9YNEtfSGdQZFhubEM4a1liRkNBRVhsd3IyZDQ3V2xmNDdaa01DZHZ1MnA0SjIzNXFsVjlZQzZoVTdINlQzWXVmbXhVb3o3T3NjUTJKNEM1dTJKSnRydWVvWXNFZnQ?oc=5",
+   "source": "TDM",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "理財教育巡演活動首次進入橫琴校園，旨在向學生傳遞正確的消費觀念。",
+   "takeaway": "家長可藉此機會與孩子討論金錢價值，建立正確的消費與理財觀念。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-04",
+   "title": "當全球爭搶半導體戰力：世界需要的不是「賣肝」，而是具備「職場轉譯力」的人才？｜Lisa Lin／錨定你的世界藍圖｜換日線 - 換日線 Crossing",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12X2xXdEw0NUg0VVN6WnF4Vlo0MmZCMm42QUtRRnpHTG5jaFNRUG1nRWxMOE53bVJvdFZSYXhGYnY1MXpMczFfSTQyaGFnV21FTVE?oc=5",
+   "source": "換日線 Crossing",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "面對全球半導體產業的競爭，未來人才更需要具備跨領域的職場轉譯能力，而非僅是單一技術的付出。這項趨勢提醒家長與教育者，應重視培養孩子整合不同專業知識的溝通與應用能力。",
+   "takeaway": "鼓勵青少年培養跨領域整合與溝通的轉譯能力，以應對未來職場需求。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-04",
+   "title": "孩子衣服洗乾淨就夠了？百位家長親測，揭開爸媽最重視的洗衣關鍵 - 親子天下",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NWkRpZHI2aTlQRTNCQ0EtT2xGbTdKY1N2LWVDZEYwZnZ1U0VyQXZqRS1DNzJDemR5ekFqaFA5RXNQQl9nWE9QVjVidEw2aVdTY1B4RkZSUQ?oc=5",
+   "source": "親子天下",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "本文探討家長在為孩子挑選與清洗衣物時，除了清潔度之外更在意的關鍵細節。",
+   "takeaway": "家長應留意衣物清潔對孩子肌膚健康與舒適度的影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-04",
+   "title": "凱基金控「英文100」走入偏鄉 點燃孩子探索世界的熱情 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SSVgtZkwtTFVPYnF5UkVBMlRBVlZZTFUydzJJbmlHNElvc19POG5VR1U2TlVCem9qTW5kZzRyQm1DcDJuNXpJVk5xOTJOTlB40gFWQVVfeXFMTm1uUTZGb2FNSzFyRnBjSk0tRDgzRVFMUDNSb1d1NlB4R2tpOFU4Q2c1eGhibFQyYnJlalZfeUtYRE01alJqUjQ1cF9kcVpBQmNIeENWVmc?oc=5",
+   "source": "UDN",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "凱基金控推動「英文100」計畫深入偏鄉，藉此點燃孩童探索世界的熱情。",
+   "takeaway": "家長與老師可善用外界資源，引導偏鄉孩子拓展國際視野與英文學習興趣。",
+   "mentions": 2,
+   "also_from": [
+    "經濟日報"
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "title": "孩子偷拿東西還說謊是學壞了？醫生拆解背後心理 教3招正確引導 - 香港01",
+   "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQLXBjMHlnYldBXzBXczFoeVh6ZlBCdzdoM3BTbnpyY1NTRm5ueDlTQm1FN1k3S2NmaWNvZTdlVHRDWjVkQzV5QzY5RGpLZ3ZBMEFZbjN4aDJqUWtMY2xNZlJEWEtMdk5sTm9iMVVVaEJjNXF4TmxqRkQxaEptd3d0RktpbzVOR0twNFFjYnRvOS1YZ0cxZGpVQzV4ZUF3Sm9hVkFVT0FzM2dpOWIxdUMxdjdIdG5LUXFzb3dIV3hTSUlacm41ZzBnU1phMVVKOXVxbjhFTEZUU2I3OHFSU2JCVk5JQ1c4X3Bma0lDTjFGZGZNOXlMTVNUZWR2b3VYbFBBVjhWWnJ2bEY0RnEyQmR4OGYwUlNJQWtETlpRb0pSRk5Rd3NNN3BBTmxfV0VGbDBlSDdZZkVuTXJhd1M0WWxCVGZWLVpjeHN4MmQ2MjVWU3N1Z1RhcTFYYlpIVzMzalpuRHBOa0tQd1lSQXEtYU5SZnpHS00wbmg3OGdfQWctMEdlVDlxZ0ZGTm8wYVV4M0VCeUZXTDhWNm1BQWMtc082OGlfZlc0QQ?oc=5",
+   "source": "香港01",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "當孩子出現偷拿物品與說謊的行為時，不一定是學壞了，背後可能藏有特定的心理原因。醫生針對這種狀況拆解了背後的心理機制，並提供了三個正確的引導方法供成人參考。",
+   "takeaway": "面對孩子偷竊與說謊，家長應先理解心理動機再正確引導。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-04",
+   "title": "幼兒園代理資格鬆綁千人反對 國教署：有疑慮不推行 教團籲撤案 - 中時新聞網",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51dGZwSlNJcVYwRFc2c1FOeWdDeG83VGM2Y2h4a0NTTkg0bHdVSlA5YkFsV2lERldNaE56RlE5eXJmb3pJYi0zNm9Ga0E0cVV4eXNOOGpiMU4xN1BTVkpxRE13VFFfSkJlSVk4RmNB?oc=5",
+   "source": "中時新聞網",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "教育部國教署研擬放寬幼兒園代理教師資格，引發外界強烈反對。官方回應若各界有疑慮將不會推行，教團則呼籲應直接撤回此案。",
+   "takeaway": "家長可持續關注幼兒園師資政策變動，確保幼教品質不受影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-04",
+   "title": "米特動物樂園《Do Re Mi 喜咧兜？》｜85折購票優惠 - 親子天下Premium",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZb295V3dnd1lIRmNtaDJnUWN5TlYtWURCQXdfLWZoMTlMTVZhUS1TQm9jY3NMNFRVYmJHcy1oVHZnanNrWW80Z29SZTEycnZaanZfNw?oc=5",
+   "source": "親子天下Premium",
+   "ages": [
+    "3-6",
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "米特動物樂園推出音樂劇場《Do Re Mi 喜咧兜？》，目前提供親子天下會員購票優惠。",
+   "takeaway": "家長可把握購票優惠，帶孩子參與音樂藝文活動。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-04",
+   "title": "【小記者作品】拍出時間、平靜與無常——顯影江賢二的抽象之中與《畫布之外》 - 少年報導者The Reporter for Kids",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVzdhWHB0WFNOUEpuUG9wWXY1Wkp3cmx6dmg2Umtwa2FiS2F1NjVJY3JSSmhkVDMwbkdpYzdTLXFDUFlqdFEtZjZBYWwxTDZmQ2Q1YjdOYk01LWlXaVBYZjFsVGhLS1N3a3lQQU40bTZmQ1FnOVh0RnhvRUNWMGhBY3Fsc1lUQQ?oc=5",
+   "source": "少年報導者The Reporter for Kids",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "本篇文章為小記者作品，報導藝術家江賢二的抽象創作與相關紀錄片。",
+   "takeaway": "家長與老師可引導孩子欣賞藝術作品，並鼓勵他們透過文字或創作記錄觀點。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-04",
+   "title": "鄭朝方支持竹縣孩子逐夢 拋建立3級支持機制 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85OVZQWU9YVWFiWXV3NEM3WWVPcmNMaEZ5S2ludnFjeDdZMEdQVnpuQTFOMGE3SGdnV1NwVDFkZ1lWc3JMUWxTcVVjNTB5c1M0emt1QVB3d0VPZHdjVVNSZFBJQjJ0SV9MaXfSAW9BVV95cUxQRjVxS2FBSmQyS3FqbUZfekdBQWFxbUQ0Zy1DRU1Yc2Z3Qm9oU3JrVEVBTFNMajF2WmVQaDIyazgwQTFBS2lvUUlpWG1qWjl4SG13R2JZSnZvZHpYQndxblY1S2F1aUh3bFhrQVhFVDg?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "政治人物鄭朝方提出建立三級支持機制，以實際行動支持新竹縣的孩子勇敢追逐夢想。",
+   "takeaway": "家長與老師可關注地方教育政策與資源，以支持孩子追求夢想。",
    "mentions": 1,
    "also_from": []
   }
@@ -8249,6 +8426,26 @@
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUW8wUnRYVElQVWlKb2dPWjF3d1h2RW1HeEFLaEY5Y1h1V1NXNGhiRFZCU3ZWUTFXVTNYMmpfNVJHWlZhZE9VY1BOM001M3Y2bDNMTzg2NEdGMEpDc1hSN3Q4WExUbEhndlNJMzNMWklUY1B5NXZiS0hJOERiR0gzQm1XRDhLQQ?oc=5",
    "title": "中共紅色教育教孩子什麼? 小學生聽國歌站路中央敬禮｜20261103 自由短影音｜#sho",
    "date": "2026-11-03"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIeWNSejlQSmJjTG1GbXBuZVRYTUJETEgzcE9Wa3VrTVgxSGQwN2MzdC0wRUJBRXJSWVV1djRnTWNtNHhJTG9ob0M1VmRRU294R050Mw?oc=5",
+   "title": "高虹安補教後援會 前教育部長吳清基站台",
+   "date": "2026-11-04"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM1dwT3Ryc2ZGX2V6Q0VLNk04NEtDMHlhaHJGOFFKY3RkVEl0OWRzczdiNlI3U2Zwa3BiSGxXY2htVHp1OVJIeDZFUWs0c0cxSHktYVV2Z1dpSEtnR0FwSDNpZkUyMmJ1eFNOZk1mamlaak1YdHN6Rks3a2wzVWhWa2pSdVg4UjBWOHN0RUVTZzg0dEQweXNjeVBvRFZfQzdjTDVLT293MF9qa2xFMEdnQkV2d3NnMHFGdUFXM1UzZmZPQk1IcmY2S1NZNFM4MXl4N1cxOGRXMGQycmZ6V2VEVDU0Y3pqa3pv?oc=5",
+   "title": "翁虹學霸女兒美貌兼具神級學歷！19歲劉蒔高中全科奪A獲8大美國知名學府招攬",
+   "date": "2026-11-04"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yVmo2YnNTR3ZZNXRjckh2Zl9xRTcxbm5qX3lZbFZQRWgyREhxdkpLdktRTHpzZmYwU2hvbElLYUJLaW5TREJpZXFVR09IY2lWQkE?oc=5",
+   "title": "教堂也能開演唱會？酒吧、音樂場館接連關閉，英國年輕世代如何重新定義「夜生活」？｜冼翰宇／地下倫敦呼喚｜換日線",
+   "date": "2026-11-04"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0taDJlLVFBX1lad2N1TmdOcTZRNTM2Q2NpQkxPX1hrcnJqUjMtMXZzRnVPdlZlZExEQ25BWXdqRDQ1X0MxWGtNdWgwU24zNXdxV2wweUVBR3ZUeFJCcFJacnZKMkZqZw?oc=5",
+   "title": "【投書】學校老師「學期中不能出國」合理嗎？ ｜ 歐弘堡／ 多元發聲．讀者投書",
+   "date": "2026-11-04"
   }
  ]
 }
