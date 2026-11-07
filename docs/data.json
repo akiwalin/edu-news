@@ -8239,11 +8239,12 @@
    "topic": "其他",
    "summary": "桃園市成功國小因建立完善的家庭關懷機制，獲得績優學校的肯定。",
    "takeaway": "學校與家庭的緊密連結能為孩子提供更穩定的成長支持。",
-   "mentions": 4,
+   "mentions": 5,
    "also_from": [
     "PChome Online 新聞",
     "蕃新聞",
-    "墨新聞-MORE News"
+    "墨新聞-MORE News",
+    "Yahoo新聞"
    ]
   },
   {
@@ -8701,8 +8702,10 @@
    "topic": "政策",
    "summary": "教育部計畫放寬幼兒園代理教師的任用資格，此舉引發教育團體對於師資品質與專業性的不同意見。",
    "takeaway": "家長應持續關注政策變動，並留意幼兒園師資結構對教學品質的潛在影響。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "中央社 CNA"
+   ]
   },
   {
    "date": "2026-11-06",
@@ -8793,8 +8796,10 @@
    "topic": "其他",
    "summary": "雲林縣舉辦全國品德教育博覽會，推廣品德教育的重要性。",
    "takeaway": "家長與老師可關注品德教育資源，將相關理念融入日常教導中。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "PChome Online 新聞"
+   ]
   },
   {
    "date": "2026-11-06",
@@ -8852,8 +8857,10 @@
    "topic": "其他",
    "summary": "照南國中新建置的光電球場已正式啟用。此設施能為學生提供更完善的運動環境。",
    "takeaway": "家長可留意學校硬體設施更新，鼓勵孩子多利用校內空間參與體育活動。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "PChome Online 新聞"
+   ]
   },
   {
    "date": "2026-11-06",
@@ -8881,6 +8888,187 @@
    "topic": "學習方法",
    "summary": "本文提及關注兒童AI教育的重要性，並支持相關節目探討未來科技趨勢。透過此類節目，家長與教育者能更深入了解AI對孩子學習的影響。",
    "takeaway": "家長可透過教育節目獲取資訊，引導孩子正確接觸與運用AI工具。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-07",
+   "title": "幼兒園代理資格擬放寬 民團不同調 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iV2xyWW81OG1XaFZyZHVfNUlFYzZXZUl0NmlnRVB1aDV0NUFrei1iYVh4dk5CcklRVEFLZXBmNE9CYThLWjNzRU4yZzl1bzdqZHJnWmJB0gFWQVVfeXFMTmJXbHJZbzU4bVdoVnJkdV81SUVjNldlSXQ2aWdFUHVoNXQ1QWt6LWJhWHh2TkJySVFUQUtlcGY0T0JhOEtaM3NFTjJnOXVvN2pkcmdaYkE?oc=5",
+   "source": "UDN",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "針對幼兒園代理教師資格擬放寬的政策，民間團體對此持有不同意見與立場。",
+   "takeaway": "家長與老師應持續關注幼教政策變動，以了解對教學品質的潛在影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-07",
+   "title": "新北推婚姻教育課程 助家長成為育兒神隊友 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JRUZNd0RqQlBfZXc0bU5XUDJGMUdZS3NtUjlSVXc3QjdnSHEwcnBaYzRoejZjWmFoMmJ4UVozejRyRVJaaFR2d1pQdXJMZUNodEE?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "新北市政府推動婚姻教育課程，旨在協助家長提升親職合作能力，共同成為育兒路上的神隊友。",
+   "takeaway": "家長可關注相關課程資訊，透過學習增進伴侶間的育兒默契與合作。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-07",
+   "title": "祖孫三代作夥來玩！光復親子館三週年 跨世代童玩熱鬧登場 - 更生新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HOWRqN1R4c3FfcG9qSG8xQlVILVkzdWhFYWVZWFdjZXNGNGJZUDNUcFlHbklvOGZ2UVc0VmQxeF9IMzZubkdySlN3?oc=5",
+   "source": "更生新聞網",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "光復親子館舉辦三週年慶祝活動，透過跨世代的童玩體驗，促進祖孫三代間的互動與情感交流。",
+   "takeaway": "家長可多帶孩子參與親子館活動，藉由跨世代互動增進家庭情感連結。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-07",
+   "title": "苗栗國際教育週5天5活動11/9登場 從在地出發接軌世界 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oMm1Bci1QcExXXzRoWndTUFpHaW5EU2dTS2NJdmJmdWVwbFd1NWczZzN4VUprdERHWnlhMmI0QUdzQjhkRTFYWW9DcWNBLWJJNWlNaVB6dE1SRDhMTHhZREkxcW92Q0FYbUHSAWpBVV95cUxNaDJtQXItUHBMV180aFp3U1BaR2luRFNnU0tjSXZiZnVlcGxXdTVnM2czeFVKa3RER1p5YTJiNEFHc0I4ZEUxWFlvQ3FjQS1iSTVpTWlQenRNUkQ4TEx4WURJMXFvdkNBWG1B?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "苗栗縣將於11月9日起舉辦為期五天的國際教育週活動。透過一系列在地連結世界的課程與體驗，協助學生拓展國際視野。",
+   "takeaway": "家長可留意活動資訊，鼓勵孩子參與以提升國際素養與在地認同。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-07",
+   "title": "手機當手遊刷題！經國國中學生自主學習創佳績，會考勇奪5A8+ - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TTTl4WTVlZ1A2bHFRWFNzQ0t6UndMMmp1Ylpod3l2d2YwVEkxY21ndWZwZHpRd2Z3NHhCUjh1bHd5TDlHY0QzblN4bWoyQ2QzaDBIQmFR0gFWQVVfeXFMTVNNOXhZNWVnUDZscVFYU3NDS3pSd0wyanViWmh3eXZ3ZjBUSTFjbWd1ZnBkelF3Znc0eEJSOHVsd3lMOUdjRDNuU3htajJDZDNoMEhCYVE?oc=5",
+   "source": "UDN",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "經國國中學生透過手機應用程式進行自主學習與刷題，成功提升學習成效。該校學生在會考中取得優異成績，展現數位工具輔助學習的潛力。",
+   "takeaway": "鼓勵學生善用數位工具進行自主學習，能有效提升學業表現。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-07",
+   "title": "「空中美語」正式宣布旗下「空中家教」推出「真人教× AI 練」雙軌學習系統- 生活新聞 - PChome Online 新聞",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcDhlV1pxOWRfNEQ5ZV9SY0x0Mzh0bnFlTGh4ZE1YQ3RCUF9ONFhWdmdTQllGcWt5UzU5dnFnVjZ6bEVJZ2dJWFUtYk85Uk1SZGVuNUhkLTk4QjM2VXdkOF9VRFpuQWZpOHBTR0Q4MDRSeWJDS3pHdjNINGo0U3lJcVNRcF93YkE0NGJFQVlB?oc=5",
+   "source": "PChome Online 新聞",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "空中美語旗下的空中家教平台，正式導入結合真人教學與 AI 輔助練習的雙軌學習系統。此舉旨在透過科技與人力的結合，提升學生的英語學習效率。",
+   "takeaway": "家長可評估此類結合 AI 與真人教學的系統，作為孩子提升英語口說與練習頻率的輔助工具。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-07",
+   "title": "【小學生最愛的讀本】神奇柑仔店新系列登場｜《吉凶街道》帶你重新進入奇幻魔法世界 - 親子天下Premium",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WT01QdGpuamdtaXJvbk9xV2NlSUFkTkgzUHpFOURrRVNDbVNyTFYyVGFVemJsbkhTN1A1Wi1GTDk5YzdLb0tuM2dyX2U5ZHZubWNBLTNmT3UtNXd0bGc?oc=5",
+   "source": "親子天下Premium",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "廣受小學生喜愛的《神奇柑仔店》系列推出全新作品《吉凶街道》。這部作品將帶領讀者再次進入充滿奇幻色彩的魔法世界。",
+   "takeaway": "可將此系列讀本作為培養孩子閱讀興趣與想像力的課外讀物。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-07",
+   "title": "青春期教養│孩子態度惡劣頂撞？校長媽媽：事後復盤5步法 讓衝突變親子信任契機 - 星島頭條",
+   "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNemlmM2pHbTRpWHNWSnJ0UmRnbnI0QnRLSTUtN3ZaWlBXZ0REMWxXcWtISXo0VVp5R0I2YW41a21Qc0FHb1hNWk8yN0NHaGVpVHdFUHI5WTB3aXV2X01QbWhEOXNxSTRRNWRCeXFJN2c0YWtfaHBTcmJ1TXVGdzJXajRTS01tV1dtTzBKbHBzb0RpeFhHNm5tRk5KN254Z2NRSmhob0dHZ1pSTl83OTFGNUVVbVhqbzdZNWdEaXFKYlhMNUJ5UUZtUVdOa2FneDNUalVEZWZmXzUwaGpnNFdEMDc3LUdIcThGU2VqcnVtTDhmU2I0MVl4UXR0a0I4UVkwRzJ1dU01WERveGVIR21GMUZIaFdzWkx3Wl9BdXJjdmlHeUNSUDFrZEUzYnZyWDk5MHR4MDlTLTNJVTRZcGl1UVZfSmhORFVpUzlPUlFmTUg3bzN5T1dMNkdNdWFxTk5QU2k3WVZoLU02VEJkak9TNGd6RTR2eHZMSGhBaEpZYjdlSzEydzhBWjNWWmk3WHo1dzVBaVZZWURkb01DaExfaFlqeUdoQllpZV9VaklrUklrSXdFT2hrQUhfZkNya1BiZVpnd29UakNLYWhWemltYVUzZllkSk1xX3BKNTd0UGFHeVU?oc=5",
+   "source": "星島頭條",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "面對青春期孩子出現頂撞或態度惡劣的行為，家長可透過事後復盤的五個步驟，將衝突轉化為建立親子信任的機會。",
+   "takeaway": "當孩子情緒平復後，運用復盤法引導溝通，取代當下的情緒對抗。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-07",
+   "title": "澎湖醫院志工赴苗栗取經 汲取早療與身障兒童照護 - 澎湖日報",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByYzJLdWJxXy13R0YwZkZERjhudm1WM2l4Rmdzc25fNHRMNUlUNjFhdFZDRGtmOUpJMTd2Rno5bDZmUnZrRzlnTkJmdFZaX1FTR0lYZk9hWmVnNjdvdlhMMlowN2hvdzZMbUE?oc=5",
+   "source": "澎湖日報",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "澎湖醫院志工前往苗栗參訪，旨在學習當地在早期療育及身心障礙兒童照護方面的專業經驗。",
+   "takeaway": "關注在地醫療資源對早療與身障兒童提供的照護服務與專業支持。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-07",
+   "title": "中市「給孩子一個禮堂」計畫再添成果 烏日區九德國小活動中心「九德館」盛大落成啟用 - 臺中市政府全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjYVR1eUM2aW5taktXT0o5NHl1eFpLNGYzVlJXZlpsYWFUaXROVUdTbnRyQldsY0Y1TGkxVkFaZzczYjJiYXpvbGxJX1hLOThWcmc?oc=5",
+   "source": "臺中市政府全球資訊網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "台中市推動「給孩子一個禮堂」計畫，烏日區九德國小的活動中心「九德館」已正式落成啟用。",
+   "takeaway": "家長可留意學校硬體設施更新，了解校園環境改善對孩子學習與活動空間的影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-07",
+   "title": "用牙籤上色手工細膩逼真永靖高工獲日高校鐵道模型大賽雙獎| 時事 - 聯合影音",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzM1ltbnNTR2lNRWhXWVBFQ1pzYWpOaDFhajA0TVJaLWx6WEtJeHhVNm5WNjg0XzZLSjNFdUEybjFkeDhlcVZtRTFR?oc=5",
+   "source": "聯合影音",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "永靖高工學生運用牙籤進行精細的上色工藝，製作出逼真的鐵道模型。這項作品在國際性的日本高校鐵道模型大賽中獲得雙重獎項肯定。",
+   "takeaway": "鼓勵孩子培養專注力與手作興趣，透過實作將創意轉化為具體成果。",
+   "mentions": 2,
+   "also_from": [
+    "UDN"
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "title": "劃出親師生溝通界線，老師就能安心教學？教育部新指引3大難題待解 - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93TVRkYmNCd01GOTNJTW5BTFNQaGdQVE1tM203T2NPc2xDRnVoVEJQckVHTTNPeWJTVFBwQ1NyZTY3c3BQYmFzSzAxN2JQOUxPcndFeXdtdlNaSlE?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部針對親師生溝通發布新指引，旨在釐清互動界線以提升教學品質。然而，該指引在實際執行層面仍面臨三大挑戰待解決。",
+   "takeaway": "家長與老師應關注新指引內容，建立理性且合宜的溝通模式。",
    "mentions": 1,
    "also_from": []
   }
@@ -9490,6 +9678,21 @@
    "url": "https://www.twreporter.org/a/interview-empire-of-ai-karen-hao",
    "title": "從美中科技競逐到台灣晶片籌碼，郝珂靈談「AI帝國」的擴張與抵抗",
    "date": "2026-11-06"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxQR3NPaWRLV3lfZTZjTHpubzJHVS1MaHJBTXdUd0o1NWpwRUM1d0t2TUR1dC1NbkFQazFHZWFBUVR6aG42RDRSaVVEb0p6Zm80SnNEbEpYUXZod0E3WXhOT0xMM2dYeGNPLXBNd1ZVR2ZsY3NiZXlRVm9HNXphN0J6UmdEd1NFRDlPeERIdzA3Nzh2UHRmOUNCQlJBOWE3bU5fWnNtLWp5UGhYQ19SQVBXUlBMZmtBN1AwZmNIM3hKYll0VjJRbXJNR3MtVDZ2d0FCQ05hZ0xGOENRbUt1LVJ1eWMtQ0Fnb2NpZWc5SWxhLWlCODNnSktraDhpV05uRmV6N1RhRU1Dc1p4bE5RbkRFU3Q2bDJySXU1SVpmbkpXaldVaGUxN2hUU1ppM2pwZGZ4ZHZXNzkxOU1RRFllaEl4aFFkMS1QXzFYbjZ2VnJpUEdKYWtBNldaM0hpVUNPYXBmXzNNOFVHdHFwV29lMXE5eTBtX3BsZkJNT0ZtTm05NHN6YkNBal9GcjdaUnFRb25ObE84THdUNEwtUUlMdHlmQWFGN0Q3UlFaajh5TTRQQjMtQTEzNi1yRzZxcFNJVUJUekJGQmJxbFlmaVRtMlE3MnJtS3o1SXVSRHdUSU9ONXFDZW1uQWZzTTJiQVhodlpVN29ONU9ud3M1SjlnaEZqWWdnMGcwRXZDcjBxU2lwZ0M5SmpCVWR1RGYtY0F2Rzltd0JkNWRwT0NnMVNY?oc=5",
+   "title": "葉玉如獲教科文組織國際生命科學研究獎 表揚神經科學領域傑出貢獻",
+   "date": "2026-11-07"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQZmxpSW8zbnJvY3l6bkdadWtkc3R5STlpeDd6cDAweFpkV1VoUWl5SlVRQUdwRjk2Z0lYZlJ0MHZ6UWFhc09Ic2Nic0dLUXRiOXc?oc=5",
+   "title": "親訪費城唐人街，看看當地的「都更」、「縫合」怎麼做？｜Mark Lin／五道口男子職業技術學校｜換日線",
+   "date": "2026-11-07"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOajYyNnM3YTREX3RjT2ZnWW53V2wzRWpZVlNvd3pYZDRWWXk2dkl2T3NvQ1kyLWVPbTNWQ3lqSWJmRmlkdkZVS2pXdWYyazhtOXVXcUVLNGhRTnVJWjZweFNheGMxV2JNek82cnhnM1VFRWkwTnBpUE1jeWc1NTdISWpSY05odw?oc=5",
+   "title": "【書摘】經歷中共「指居」的恐懼控制，李翹楚：如果不能勇敢的講，就不能自由的行動",
+   "date": "2026-11-07"
   }
  ]
 }
