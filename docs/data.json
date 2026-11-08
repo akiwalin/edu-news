@@ -2795,8 +2795,10 @@
    "topic": "政策",
    "summary": "國中教育會考英語聽力測驗發生提早收卷的重大疏失，導致考生感到錯愕並情緒崩潰。此事件引發外界對於考試程序公平性與執行品質的關注。",
    "takeaway": "家長與老師應留意考場突發狀況對學生心理的衝擊，並關注後續補救措施。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "三立新聞網SETN.com"
+   ]
   },
   {
    "date": "2026-10-22",
@@ -8799,9 +8801,10 @@
    "topic": "其他",
    "summary": "雲林縣舉辦全國品德教育博覽會，推廣品德教育的重要性。",
    "takeaway": "家長與老師可關注品德教育資源，將相關理念融入日常教導中。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "PChome Online 新聞"
+    "PChome Online 新聞",
+    "蕃新聞"
    ]
   },
   {
@@ -9180,8 +9183,10 @@
    "topic": "學習方法",
    "summary": "深美國小與八斗高中透過跨校合作，共同規劃並體驗彈性課程。此舉旨在結合社區資源，發展具備在地特色的教學內容。",
    "takeaway": "家長可關注學校如何結合在地資源，為孩子規劃多元的跨階段學習課程。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "很角色時報"
+   ]
   },
   {
    "date": "2026-11-07",
@@ -9456,6 +9461,206 @@
    "topic": "政策",
    "summary": "科技巨頭因將人工智慧技術導入校園，面臨兒童安全相關的法律訴訟與聲譽危機。此事件凸顯了教育環境中導入新科技時，對學生隱私與安全保障的疑慮。",
    "takeaway": "家長與老師應關注校園導入AI工具的安全性，並留意相關政策對學生隱私的影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-08",
+   "title": "瀛海國際高中舵手 周碧盈視野宏觀 - 中華新聞雲／中華日報",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qRlNnOGNtWHZCNW1GejlrblhpdF9RbDdHd3lFRUFPbVpkS1BEOEFlNTgtRkhXM0FVSFA3SWtLM1h0TW5KbExBLXFvY2NnYjBYY3c?oc=5",
+   "source": "中華新聞雲／中華日報",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "本文介紹瀛海國際高中校長周碧盈的辦學理念與宏觀視野。",
+   "takeaway": "家長可關注該校辦學特色，作為升學選擇的參考。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-08",
+   "title": "關心家人卻被嫌嘮叨？ 基隆社區心衛中心教新住民家庭換個方式表達關心 - 報新聞 Mega News",
+   "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOUFRabWhwcV8tb2otdlg3UHV5cHpHU2hIN0lrZ0YyYmxQczk5N1J4X3JOOHJiRFRkb2g5UFZZUlI4ZG9oNnVBUkFHVW55MnRpYjVxT1B6MTBILTJza0U5WW1oVWpNdTZEeVI3M1M0QWNKeVBxUHRtZGx3bENPTHVyNkVWY0trcGtHZlV1SFlLTzBaMThvZXVTdXE2Rnllb045T0lHRWM2WFpaV1M1cXFtNEg5clFpTDdqRG9DTG1aN0xjNkhwSHdyTGQxTHQwT2ttaW9RbGpyLWhQUWkyQ1p6MVYtbVhXWTdSMnF5RXJRN2NtVExYU0V6bHE4eDRfaDVMbHFGVlUzNGZWd1E5bUlkcWdsUlQ0WFQwbnQtdU9ON2NGaXhCcUQ0UTY0Y3FFdy12NlNWTGdHUmxsUVhVaDhXLUp3ZktPWXB6VFVuVVlBdUs1Vkd2LTZLOTI2UUtqbmswMkJjM0twSQ?oc=5",
+   "source": "報新聞 Mega News",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "基隆社區心衛中心針對新住民家庭提供溝通技巧指導，協助家長改善表達關心的方式，避免因過度嘮叨而造成親子間的誤解與衝突。",
+   "takeaway": "學習運用正向溝通技巧，以傾聽取代嘮叨，建立更緊密的親子關係。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-08",
+   "title": "忠義基金會串聯親子競賽與義賣 募集失依兒醫療照護資源 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02alZkZ0NQMTZSWnZMWnFISlhuNXJ5d0VKZG5ieU5pWU5URHRhMXhhZ0cwM2xmaFBfWXNOZDM0MmduSFhZUDhRUUhsT2V6cmZvV0E?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "忠義基金會透過舉辦親子競賽與義賣活動，為失依兒童募集醫療照護所需的經費。",
+   "takeaway": "家長可透過參與公益活動，帶領孩子認識社會服務並培養同理心。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-08",
+   "title": "深耕國中小媒體素養教育 績優學校展現數位公民力 - 教育部全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzbzdVZnB2WUZEY25JNkpkQnprVHBlNVNTUGFHOFJoWWdjejEtYkx6TVdVQ2tTQTkwLW5VcVAwbkdMYnI0U3dscEF4RjJKRU9lOXltWDQ2MVRLYlR0ZTdLSHFDSHcyUVVCazhaeG9mMnF2aHZWZUo5aTU4cDlpdms?oc=5",
+   "source": "教育部全球資訊網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "教育部推動國中小媒體素養教育，並表揚在數位公民能力培養上有卓越表現的學校。此計畫旨在提升學生對數位資訊的辨識與應用能力。",
+   "takeaway": "家長與老師可關注學校推動的媒體素養課程，引導孩子建立正確的數位資訊判讀觀念。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-08",
+   "title": "PISA最新報告揭「用AI寫作業恐落後1年學業」 專家曝關鍵 - 台視新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0aEtlclVkYXVNWF9tMzctLWZYVlZJLXJiYjBVODJtX2w1WTZjYXBCQ2hUcmhLYVpIc1NWVEdNcGxIcG8wWXQzYS1ZSWpUWWw1N0k3LWk0VQ?oc=5",
+   "source": "台視新聞網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "PISA最新報告指出，過度依賴AI輔助完成作業，可能會對學生的學業表現產生負面影響，導致學習進度落後。",
+   "takeaway": "家長與老師應引導孩子正確使用AI，避免過度依賴而喪失獨立思考與學習能力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-08",
+   "title": "鶴岡國小勇奪原民學生語言競賽花蓮初賽冠軍 - 更生新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE45b0tldG15ZXAyQkFscExZV0xYUnktc3BweDdfV3U1TFlfLUU4WGxyOVpvZmNZUEQxTzZlSkpMX0ZlOFpuSTJjWGp3?oc=5",
+   "source": "更生新聞網",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "鶴岡國小在原住民族語言競賽的花蓮初賽中獲得冠軍。",
+   "takeaway": "鼓勵孩子參與母語競賽，有助於傳承文化並提升語言自信。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-08",
+   "title": "蔣萬安兒靠市長獎「免試入建中」？免試真不用考試？升高中制度一次看 - 三立新聞網SETN.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ET3h1T0pBSFMwZVIyalpKWHkxT1lBdU1CZ292SGJtdkthX1BvdE1JczVNU2E3bVUxYTdlSVVybG5KSDZnZjE0NdIBTEFVX3lxTE5qck1yNzg3VUcxZW5pTUxYdGRXMk9NZDdKWE1TT1pwcnhhUWZRT2NLR3pKLVNveVBBT3h3MVUyZWt3U011b00zUjdYUUg?oc=5",
+   "source": "三立新聞網SETN.com",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "本文探討升高中免試入學制度的運作方式，並針對市長獎是否能作為免試入學依據進行說明。家長可透過此資訊釐清現行升學管道的相關規定。",
+   "takeaway": "家長應主動了解升學制度細節，以協助孩子規劃適性的學習路徑。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-08",
+   "title": "侯友宜李四川連袂站台劉美芳競總成立發布挺教育三支箭| 2026九合一選舉 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OTFBYc3lfMEZ6SzhzN0FnV2N6Z3BDMGNfblMyOWpLRXkyam90RGs1V3pNQXFxZVBZNno4X1BsT1BwWEJFaElvc0Q2Q244ekV1SnZ5SnQya08?oc=5",
+   "source": "UDN",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "新北市議員劉美芳在競選總部成立大會上，由侯友宜與李四川站台支持，並提出針對教育議題的「三支箭」政見。",
+   "takeaway": "家長可持續關注地方議員提出的教育政見，評估其對孩子學習環境的影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-08",
+   "title": "傳承原民文化 國教署補助民間團體辦理原住民族教育活動 - 教育部全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2NlNUeTFKWWF5Sm9aa1NrM1dRMXFFQWNvOUJHOHZ0U2I5N0ctcl9xOW05elNVMXNqcHU3UlR1Y292dGhPU2F6eDd1OGdFOGMzWWMtMUNqWlY1ekRTWWgtQlRmdGpqYzVTSk1aMXhxb0Q0MHhBQ0NJOE9mUU9ON0E?oc=5",
+   "source": "教育部全球資訊網",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "國教署透過補助民間團體，積極推動原住民族教育相關活動，以落實文化傳承。此舉旨在鼓勵更多教育資源投入，讓學童有機會接觸並認識原民文化。",
+   "takeaway": "家長與老師可留意相關補助活動，鼓勵孩子參與以增進文化素養。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-08",
+   "title": "不用崩潰！資深老師帶你看懂聯絡簿紅字背後的合作邀請 - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5T0tMZGNTZ3NGSEN6MW9Wc1ZDeVVmYzQ1VURBRkxNRWJxTjJwWXhYT0UxMklvOVlCMENoTE9PM3lfS21vSVZXN1lZdXc1bFg0LVZkdC13ZGJ1RFU?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "本文探討如何解讀聯絡簿上的老師評語，將其視為親師合作的溝通契機而非負面指責。家長應調整心態，透過正向互動共同協助孩子成長。",
+   "takeaway": "將聯絡簿紅字視為親師合作的邀請，保持冷靜並與老師溝通。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-08",
+   "title": "滑手機不是休息！用「短跑式工作」模式找回生產力巔峰｜塔爾．班夏哈（Tal Ben-Shahar）／獨評讀好書 - 獨立評論@天下",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhVlFYWnAybURMR3RIV2RyYXlIbjQ3c1BiX2lWRnBaTG4tcFY3X3MteFJIa3Y2M1pCZ0RKOFNxTU9pV0pZTFF4YmpMYUFaVVNCaXpZWlJwclJIaFNSNEg5ekRYSERQd2c?oc=5",
+   "source": "獨立評論@天下",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "本文探討透過短跑式的工作模式來提升生產力，並強調滑手機並非有效的休息方式。建議學習者應在專注工作後安排適當的休息，以維持長期的學習效率。",
+   "takeaway": "引導孩子在學習時採取專注與休息交替的節奏，避免以滑手機作為休息手段。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-08",
+   "title": "看陳幸妤苦心有感！律師給兒200萬買股賺教育基金：簽贈與契約防偷領 - 橘世代",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03anVPYVZpOW5QaWtIYmVrUk9fUkpHZ1BiTzdNcEFHTHV1dFpkUjJEeG0tUXJucFhmOGdIbnBoSGtZWlZxbkdmOUt1VjM2cWp0dHc5TzJiaHY4OVprY3pV0gFkQVVfeXFMTXNWTEFHOGp0c3BiTXJVUk1EVEFINE9RMTRWOEtUZGt1TUhuamZKbmhxQkd5M2Q3M2I1YS1kYUs3WVNXUGNTcFFxdlFSNVRfWjZMZ3dMMmE0UnRRRzhSTXlnekdzSA?oc=5",
+   "source": "橘世代",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "律師建議家長可透過贈與股票的方式，為孩子提早規劃教育基金。同時提醒應簽訂贈與契約，以確保資產管理符合預期並保障雙方權益。",
+   "takeaway": "運用贈與契約規劃子女教育基金，兼顧資產傳承與管理。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-08",
+   "title": "沙灘拔河對手是漁網！幼兒園親子漁光島淨灘 40分鐘挖出356公斤 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zSldFaERmSHRJbURIYWRkYTJqV282U1RxMDdIUXVoRXZkTHNybmE1N2M1ZFdDcmFaVUQwOWNtZXlqckxFUFVQMXZ5d2N1dkFITE9GSGRkRkZnYXRVc19nN1E3ZmVkajDSAWxBVV95cUxORndWb0ZXN1pkVjVTb21ubS1VN25oS2xBVmF6Rlc0MGdRUkNaUjR1MEZuQ3c1YzlESjI5V3lWekhJRVJnY0JhVW92UGN0a2tTa1RzbFBMY2xDZHp1M2Q5cmZMOUVXQXlQbDlxeWk?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "3-6",
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "幼兒園舉辦親子淨灘活動，帶領孩子前往漁光島清理海灘。透過實際行動，讓孩子參與環境保護並體驗生態教育。",
+   "takeaway": "透過親子共同參與淨灘，能讓孩子從小建立環境保護的觀念與責任感。",
    "mentions": 1,
    "also_from": []
   }
@@ -10104,6 +10309,16 @@
   {
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcThWODZCaU1NZEN6bzVNbGdiMXpuTXJuc3o2emROSEZMcV9PbXZpbS1vdlA2RkVjQ0JnMk5BSFc5bFZZVkNHeWU3bGJsUC1jb3dOZkNLZGUwRkVxNzNNZktpZ09wdTRjWW1VVTRESTF5Rmdld2FUTXZESWFMb2dKWTdGQjZiT2RXaFNzdm9fYlpZdEktQVFoak0tVjM4MHVj?oc=5",
    "title": "關愛 書推薦",
+   "date": "2026-11-08"
+  },
+  {
+   "url": "https://www.twreporter.org/a/photo-backrooms-art-liminal-space-mark-fisher",
+   "title": "詹育杰／在資本主義的無盡「後室」，尋找文化理論家馬克．費雪的藍色幽靈",
+   "date": "2026-11-08"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQMlUtZlVTbFVGSXhIdnFZVGpQNVVPX3c4VHJkcEdsZ1JxRHJmWTRQZmQ4OHE4NC1PZERKS2xkRnN2UnJyYmFtQWd2NGYzWWN0RTdUV0FRbU1LMC12R1BNUjM2RVU1eE8zV2JqX2hwYmxXdlhkRUphLUVzcF9ic2Z1d1JoV3d2c05oaER4c0ppQnlTRFQ0X1pUM21Mb1MtY1RlUWgyT2hKTjczbzR2SXZBN0xZdU9IZ2xUc0JzdFJmSzdPVmUyV25pM1VWZi1xTV9wVFlKLTRreFRycGFmM003eFJrNVN4cWVzS1hfWU5JSW13bHFIWFNISEVNT0k2QndqVmFldnFYb2dhLWl6NmxrZGh5cDV2Ql9zVlRBc0YzcExueXZWUVRhZDc1WG5kdEpLOEYzUHByb2Y0VDhvV3FOZzUza0Z2dEVkVk50azNtYk9lN2d0cnhPZ0FZWVFtcEVoYmVETjNDS3JLTzY1R1RYbzZGTHdBcU9IOUlvOFQ5S3J6dnZyQnozWHV4dFJ6UGc?oc=5",
+   "title": "Sulli 受盡病痛折磨 上吊自殺有跡可尋",
    "date": "2026-11-08"
   }
  ]
