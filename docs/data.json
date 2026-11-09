@@ -4559,8 +4559,10 @@
    "topic": "政策",
    "summary": "針對國中會考期間發生停電影響考試的狀況，教育部宣布將於22日安排受影響考生進行數學與國文科重考。考生最終成績將採計重考與原考試成績中較優者，以保障學生權益。",
    "takeaway": "家長與考生應留意官方公告的重考資訊，並確保學生能以最佳狀態應對補考。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "三立新聞網SETN.com"
+   ]
   },
   {
    "date": "2026-10-27",
@@ -8863,9 +8865,10 @@
    "topic": "其他",
    "summary": "照南國中新建置的光電球場已正式啟用。此設施能為學生提供更完善的運動環境。",
    "takeaway": "家長可留意學校硬體設施更新，鼓勵孩子多利用校內空間參與體育活動。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "PChome Online 新聞"
+    "PChome Online 新聞",
+    "苗栗縣政府全球資訊網"
    ]
   },
   {
@@ -9356,8 +9359,10 @@
    "topic": "其他",
    "summary": "慈大附小透過開啟時空膠囊的活動，連結了相隔十八年的師生情誼。此舉展現了教育過程中情感傳承與長期師生關係的價值。",
    "takeaway": "教育不僅是知識傳遞，師生間的情感連結與回憶經營同樣深具意義。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "PChome Online新聞"
+   ]
   },
   {
    "date": "2026-11-08",
@@ -9661,6 +9666,176 @@
    "topic": "其他",
    "summary": "幼兒園舉辦親子淨灘活動，帶領孩子前往漁光島清理海灘。透過實際行動，讓孩子參與環境保護並體驗生態教育。",
    "takeaway": "透過親子共同參與淨灘，能讓孩子從小建立環境保護的觀念與責任感。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-09",
+   "title": "臺中幼教創新成果閃耀全國！2026 KDP教學創新獎勇奪11件獎項 - 勁報",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGcEpnV0sxSDVoc2FzclEtRlo1MHhiSTN5dXlqemVTUTJuX2RGdlZrcDl0N1JnZUt5ZXZYZ0I3azdxRUxnZE90UEc4Nnd0SFQ5OU02czlVN2p2N1otX0pkQ013SGRpVHZzX2JUTkthbw?oc=5",
+   "source": "勁報",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "其他",
+   "summary": "臺中市幼兒園在2026年KDP教學創新獎中表現優異，共獲得11個獎項。此成果展現了該市在幼兒教育領域的創新與教學品質。",
+   "takeaway": "家長可關注獲獎幼兒園的教學特色，作為未來選擇幼兒教育資源的參考。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-09",
+   "title": "圖解》台灣小一新生恐減半！教育部預測16學年後只剩8.8萬人，國小教室將出現什麼變化？ - 風傳媒",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DZ3FfX1Y5MXZnYlVJcjRua01yTzNQYS1vMDlnbVFlOTJGUXdoSFh0dkxDeC05UTFORGZKQ2dCRzY4THhSYVdySEp0azJsRlVW?oc=5",
+   "source": "風傳媒",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12"
+   ],
+   "topic": "政策",
+   "summary": "教育部預測台灣小一新生人數將大幅下滑，預計十六年後入學人數將減半至八點八萬人。此人口結構變遷將對國小校園環境與教學現場產生深遠影響。",
+   "takeaway": "家長應關注少子化帶來的教育資源調整，並提早規劃孩子的學習環境。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-09",
+   "title": "新竹「張老師」與新竹救國團攜手舉辦「青少年心理健康校園巡迴講座」 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xSkVUb09xSUlmeV9ucWFpQUhHOGQwaEJnNEFYRllWVXRncUtrTkkxaW81ZWw1NlRqZTd2V3Y5WmJqeUV0bGFpVzNucEpEWHpELWc?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "新竹「張老師」與救國團合作，共同推動針對青少年的校園心理健康巡迴講座。",
+   "takeaway": "家長與老師可留意校園心理健康資源，適時協助青少年尋求專業支持。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-09",
+   "title": "串聯民間資源走進校園 國教署鹿樂平臺拓展孩子學習新視野 - 教育部全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyZGlxR2JwX3UxeXh2SmdmYlhMMFpIclJyV1RIMWtzOEhiUGZGaU5mMWV4OE1UWm95ZHdJY2RDT0F6eU9jakwyQ2g1MW1CcG15Z2k0em9tdEc4VEU0ekFuNmJYUkN6bTBIYjdGUjJOamZGU0JpaEFLLWNaTU5HOHM?oc=5",
+   "source": "教育部全球資訊網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "教育部國教署透過鹿樂平臺，積極整合民間資源並引入校園。此舉旨在為學生開拓更多元的學習視野與體驗。",
+   "takeaway": "家長與老師可關注鹿樂平臺，善用民間資源豐富孩子的學習機會。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-09",
+   "title": "讀不下《哈利波特》，不代表孩子不擅閱讀！讀寫專家解答6大疑問 - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FQUFUd2JtQ3oxWEJmMGdic1ZmbF9nOGhBOGdEWU1BLVZzMktGU1VkYS1xaV9CU3RQcTkzVHdHV3U1Wmo4b0lvLXRmWjNuaXNlVVZZVUFTdGo5Vm8?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "孩子讀不下去特定經典文學，並不等同於閱讀能力不足。專家針對閱讀困境提出六大關鍵解答，協助家長與老師釐清孩子的閱讀狀況。",
+   "takeaway": "尊重孩子的閱讀興趣與節奏，透過多元選書引導，避免過早否定孩子的閱讀能力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-09",
+   "title": "【投書】幼教師與教保員調薪爭議：從加州經驗看台灣幼教人力制度的缺口｜Chu Hsi Tseng／多元發聲．讀者投書 - 獨立評論@天下",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OakJKUWNZSkxWeWNick1ZVUUtVDRFV0FCLVI2X0tHaUVZTk0wNkd3cXliZDV5TE9xTzRTMm1TOVRXSzRNTFdBSUJzOW9VSWx0SUFpTHVUOEY5d0hBdnBqWEVHVXpRQQ?oc=5",
+   "source": "獨立評論@天下",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "本文探討台灣幼教人員薪資制度的現況與挑戰，並透過借鏡加州經驗來分析國內幼教人力政策的不足之處。",
+   "takeaway": "家長應關注幼教政策對師資穩定度的影響，以確保幼兒獲得優質的照顧品質。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-09",
+   "title": "從閱讀到美學體驗 精銳建設邀10校師生「藝起趣・綠美圖」 - 經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yMWc2Y1hIbkVnR0d2bEM2NGlqd0lsZ0RKSGlUNEpBOW1mdzhtdkJwa3BWbldBdXhKdGhBT29YUXdfdFhSaDFtcTB6ZVJ4dlhoZ1VjQ3hkWUZMOGJITlVv0gFfQVVfeXFMTzIxZzZjWEhuRWdHR3ZsQzY0aWp3SWxnREpIaVQ0SkE5bWZ3OG12QnBrcFZuV0F1eEp0aEFPb1hRd190WFJoMW1xMHplUnh2WGhnVWNDeGRZRkw4YkhOVW8?oc=5",
+   "source": "經濟日報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "精銳建設邀請十所學校的師生，透過參與藝文活動提升美學素養。此活動旨在讓學生從閱讀延伸至實地的美學體驗。",
+   "takeaway": "家長與老師可多留意校外藝文資源，鼓勵孩子參與美學體驗活動。",
+   "mentions": 2,
+   "also_from": [
+    "UDN"
+   ]
+  },
+  {
+   "date": "2026-11-09",
+   "title": "台南特教才藝賽登場 161位學生自信綻放舞台光芒 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wa2tQeldDNTVFUTIzQkQwcFBfMVJpNVRKbFV3cmlWR0w0MUpwQkVvU3ZCdzVNOHFGeW9MLVNPN3dzSHh0OUxKcG5HTUxvd3Z1cG5Mcm1PYnptTlZsdm05b1JwUlPSAWpBVV95cUxNSmFyZWFUcHFhcmxhd0NtNDVQMFNjWHV4aGc5LXdOZW1vWERNbWJfMzZtWGNwRVRMVUJpVVJoRVhkalpuTXhWM180aXZjZm81UjJKQlBXV3pqYWpjbUljbEl2bkN0STl5ZWV3?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "台南市舉辦特教學生才藝競賽，共有161位學生參與展現自我。透過舞台表演，讓特殊教育學生能展現自信與才華。",
+   "takeaway": "鼓勵特教孩子參與多元活動，給予舞台展現自信。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-09",
+   "title": "提升教保服務人員情緒覺察及自我照顧能力的研習活動 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SYWU1M1F4SnhlaXhqT0lHRGJOUVhWc211a1E3aWlHdkRYd1V5Y0VEVGg4TTJDUU9lNmJJUDRKckNxSDVMcGg5SjdjbWxMNEFZc2c?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "此研習活動旨在協助教保服務人員提升情緒覺察能力，並學習如何進行自我照顧。",
+   "takeaway": "教保人員應重視自身心理健康，以維持良好的教學品質與互動。",
+   "mentions": 2,
+   "also_from": [
+    "Life 生活網"
+   ]
+  },
+  {
+   "date": "2026-11-09",
+   "title": "史上頭一遭！村民打贏廢小校官司，彰化潭墘國小須復校 - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWTJ2aFBPY2tfYnliWGJOOHFYcU9SSFoydmM4MXdQUExrR1J6cFNmeFBGa3gyYmJjQlVYcTJHMDNhLV9FdDg2MG94V3Z6VjZPa2c5WGhuVTRZZjctZnpWSmlWYWhFYkpXNXF2UXluUDlKMGtib1lXemZ5cEJXSkdiVURsTjF5Ymk3MDdB?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "政策",
+   "summary": "彰化縣潭墘國小因廢校爭議引發法律訴訟，最終法院判決村民勝訴，校方必須恢復辦學。此案創下台灣首例由村民透過司法途徑成功爭取學校復校的紀錄。",
+   "takeaway": "關注在地教育資源變動，並了解社區參與對學校存續的影響力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-09",
+   "title": "孩子睡前一直拖：是「睡不著」，還是「不想睡」？ - 親子天下",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sU1dQenFYOXZjZjdodkZsMmFwMjR5X056YXQxelhIbFFwZGxhYmpXcU41ZXRCR0huQjFuRTNfZFV5OWt1UGMwUWVyQ0V1QlZ5ZndLV1NEcw?oc=5",
+   "source": "親子天下",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "孩子在睡前出現拖延行為，家長需釐清背後原因是生理上的難以入眠，還是心理上抗拒結束一天的活動。",
+   "takeaway": "觀察孩子拖延的動機，透過調整作息或睡前儀式來改善睡眠品質。",
    "mentions": 1,
    "also_from": []
   }
@@ -10320,6 +10495,26 @@
    "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQMlUtZlVTbFVGSXhIdnFZVGpQNVVPX3c4VHJkcEdsZ1JxRHJmWTRQZmQ4OHE4NC1PZERKS2xkRnN2UnJyYmFtQWd2NGYzWWN0RTdUV0FRbU1LMC12R1BNUjM2RVU1eE8zV2JqX2hwYmxXdlhkRUphLUVzcF9ic2Z1d1JoV3d2c05oaER4c0ppQnlTRFQ0X1pUM21Mb1MtY1RlUWgyT2hKTjczbzR2SXZBN0xZdU9IZ2xUc0JzdFJmSzdPVmUyV25pM1VWZi1xTV9wVFlKLTRreFRycGFmM003eFJrNVN4cWVzS1hfWU5JSW13bHFIWFNISEVNT0k2QndqVmFldnFYb2dhLWl6NmxrZGh5cDV2Ql9zVlRBc0YzcExueXZWUVRhZDc1WG5kdEpLOEYzUHByb2Y0VDhvV3FOZzUza0Z2dEVkVk50azNtYk9lN2d0cnhPZ0FZWVFtcEVoYmVETjNDS3JLTzY1R1RYbzZGTHdBcU9IOUlvOFQ5S3J6dnZyQnozWHV4dFJ6UGc?oc=5",
    "title": "Sulli 受盡病痛折磨 上吊自殺有跡可尋",
    "date": "2026-11-08"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52OGY3WGhnRnIwb0gza0tZQThCZkZSUnJMdFhiRFpIZ1J4Y2o0aC1XcF80NEFzNlIyTnR6SEd6SGV1aTBuZU8zVQ?oc=5",
+   "title": "115分科／化學科試題與解答| 生活",
+   "date": "2026-11-09"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16OVFoV1lDRTh0bFpKOU00VHVxZkxCTjJoT3lnaXRaOWQ2eVM2RkY4NGJMUjh3N2lPRDc2RElLX2dSUmVwcUdRVnowR3RXbFdzaGc?oc=5",
+   "title": "資訊管理，不就兩邊各學一點？打造爆紅「吸血鬼地圖」後，我才發現資管系不只有程式",
+   "date": "2026-11-09"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lM2UtQ1F1c19OZTkxbFByaEF6Z0ZkZ2dnN09JWlZZRjk1SEJGVTJGYmVHSlFVa1UzSTE2bE5FeFE2enVSRDY3MtIBTEFVX3lxTFBzb1BuOUoxMk5vTC1HUy1RckNjT0R3cEIycDV1ZHRFV1pEQW1SdnNvMllkOVdJU215ckdHWnpvUzJkWU16d2w1cHdHWXc?oc=5",
+   "title": "國教署「否認查蔣得立」 蔣萬安嗆：有事衝我來！不要衝著未成年孩子",
+   "date": "2026-11-09"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KQmNUVzZfRUppY1g1Y1hCck9ZLWVNa1ppcldoVVEtU3RUNzhHQkw5VWU4YlRHN3RDMWU1a05ITmVqb01RZ3NPNkVLQUhDd2Z2MUVzSEZ1SkpHaUVnREdsZ240a1Qxdw?oc=5",
+   "title": "【投書】30萬元與助人者的界線｜ 吳文炎 ／ 多元發聲．讀者投書",
+   "date": "2026-11-09"
   }
  ]
 }
