@@ -4549,8 +4549,10 @@
    "topic": "學習方法",
    "summary": "桃園廣興國小透過規劃192節閱讀課程，致力於提升學生的深度思考能力。",
    "takeaway": "家長可鼓勵孩子參與學校閱讀計畫，培養深度的閱讀與思考習慣。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "三立新聞網SETN.com"
+   ]
   },
   {
    "date": "2026-10-27",
@@ -9751,8 +9753,10 @@
    "topic": "學習方法",
    "summary": "孩子讀不下去特定經典文學，並不等同於閱讀能力不足。專家針對閱讀困境提出六大關鍵解答，協助家長與老師釐清孩子的閱讀狀況。",
    "takeaway": "尊重孩子的閱讀興趣與節奏，透過多元選書引導，避免過早否定孩子的閱讀能力。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "親子天下"
+   ]
   },
   {
    "date": "2026-11-09",
@@ -10262,8 +10266,10 @@
    "topic": "其他",
    "summary": "一名南投學霸在國中會考取得滿分佳績，最終選擇就讀暨大附中並獲得獎學金。此舉反映出學生在升學選擇上，開始考量在地就學與獎勵措施等多元因素。",
    "takeaway": "升學選擇不一定要追逐名校，可評估在地資源與獎勵方案，為孩子規劃最適合的學習路徑。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "CMoney"
+   ]
   },
   {
    "date": "2026-11-10",
@@ -10355,9 +10361,10 @@
    "topic": "其他",
    "summary": "大園菓林國小舉辦教育體驗活動，旨在為特教學生提供陪伴與支持。",
    "takeaway": "學校透過舉辦體驗活動，能有效促進特教生的社會參與與學習支持。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "LINE TODAY"
+    "LINE TODAY",
+    "蕃新聞"
    ]
   },
   {
@@ -10478,9 +10485,10 @@
    "topic": "教養",
    "summary": "慈大附中國小部舉辦親職講座，邀請家長共同學習SEL情緒教養相關知識。此活動旨在協助家長提升對孩子情緒發展的理解與引導能力。",
    "takeaway": "家長可透過學習SEL情緒教養，提升與孩子的情緒溝通品質。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "Life 生活網"
+    "Life 生活網",
+    "Yahoo新聞"
    ]
   },
   {
@@ -10590,8 +10598,10 @@
    "topic": "政策",
    "summary": "教育部舉辦職業安全衛生研習，旨在提升校園對於不法侵害的預防與應對機制。",
    "takeaway": "家長與老師可留意校園安全政策，確保孩子在受保護的環境中學習。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "Yahoo新聞"
+   ]
   },
   {
    "date": "2026-11-11",
@@ -10640,6 +10650,144 @@
    "takeaway": "家長可留意在地社區活動資訊，帶領孩子參與遊戲車的互動體驗。",
    "mentions": 1,
    "also_from": []
+  },
+  {
+   "date": "2026-11-11",
+   "title": "由面向歷史到回應現實──當代博物館對國家敘事的角色與責任",
+   "url": "https://www.twreporter.org/a/beyond-borders-on-an-island-the-role-of-contemporary-museums",
+   "source": "報導者",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "當代博物館的角色已從單純展示國家歷史，轉向積極回應社會現實與多元群體的生命經驗。透過蒐集與災難、社會運動及疫情相關的物件，博物館能記錄正在發生的歷史並協助保存集體記憶。此外，博物館也開始關注移民與離散者的故事，呈現更具包容性的歷史敘事。",
+   "takeaway": "家長與老師可引導孩子觀察博物館如何記錄當代生活，並鼓勵孩子思考自身經驗在歷史中的意義。",
+   "mentions": 2,
+   "also_from": [
+    "報導者The Reporter"
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "title": "「給孩子一個禮堂」逐步圓夢 大雅區文雅國小活動中心今落成啟用 - 臺中市政府全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUTlhGRjBaelEtMVkzNU5qMnRZZ3FvUnA2ckNOVm9iTFJmcjJwSFE4Y04wSTFNVjU2S0hxV1oteERKNVdteHNFRy14UEJzNmYwX2c?oc=5",
+   "source": "臺中市政府全球資訊網",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "臺中市大雅區文雅國小新建活動中心正式落成啟用，為校園師生提供更完善的學習與活動空間。",
+   "takeaway": "家長可留意學校硬體設施更新，了解校園環境對孩子學習活動的影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-11",
+   "title": "AI 時代師生攻防戰：老師設陷阱抓作弊、學生叫ChatGPT「裝笨」，教育的新解在哪？｜劉沐恩／轉角的光影沙龍｜換日線 - 換日線 Crossing",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3endvZ3dHTm9yd3czTWdqcWtZUkVxVXF4Z1FBZ0lkNU5QaWpMa0lrbkRKdjZrYXVNdE4xemhVdGZQZFhSTXNKZHhiUzRYOXRWQmc?oc=5",
+   "source": "換日線 Crossing",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "AI工具的普及改變了師生間的互動模式，引發了關於學術誠信與教學評量方式的討論。教育現場正面臨如何因應科技變革，重新定義學習價值與評估標準的挑戰。",
+   "takeaway": "家長與老師應引導學生正確使用AI，並思考如何調整教學以培養AI無法取代的思辨能力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-11",
+   "title": "流感季報到！兒童必備的抗菌&營養指南 - 天才領袖",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01cjI0V1VBdHpvWHRnV1BES0FoMlZiR2hRak9STEhBa1lheUxVYk5qSkliczlvZk1mX1FFT2tGLVJ2U0Q0RDRtd016bXA3UE1rQzlqUkdfbUlIOFk?oc=5",
+   "source": "天才領袖",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "進入流感高峰期，家長需特別留意兒童的衛生防護與營養補充。透過正確的抗菌措施與均衡飲食，能有效提升孩子的免疫力以對抗病毒。",
+   "takeaway": "家長應落實日常清潔習慣，並透過飲食調整增強孩子的免疫防護力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-11",
+   "title": "偽造畢業證書！國小師「造假學歷」騙13年 教育局提告 - Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNZTd3cmd0TnMzZTBWOGYxcVFCMi12QVhlZEJTYXZUMlgwbGdCZjNLZUF4cnhpR0JlcWpzNWtjaW5ScjFDLWtlbmNwbDVrSXBjQ25JdE9Kbk9OT0tuUGNieTJocXFpdDVsSjE1TWl3VUNhdi1veE9qT2J2MnNFaGQtbGhVVFdudmlkQ3NVUlY2aXJTb1BWSWY0YWxPXzRwRkJlUGh4cEFKUWxIV1pEVGpKWGlQUWpyMG1NeDYtaGZlLUUzRkdUTDhKS1N1dmh1dGhZZEdQZVJ0LXZnM3ZZc0RKeFkxTEpxQU1DT193cy1yMTd3d2J6dkxUOWNLR3VrcnB2LWhpY215Vm5hRUU2QmtZc1JkWXVQY0xEZjZseU9BcnFLVG9HaVZ6dC1IR3lmV2Z0WksxMllla3F6NkxucHFybVpYNkZKOEFwMUhj?oc=5",
+   "source": "Yahoo新聞",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "政策",
+   "summary": "一名國小教師因偽造學歷任教長達十三年，目前已被教育局發現並提出告訴。",
+   "takeaway": "家長應留意學校師資背景，若對教學品質有疑慮可向教育局查詢。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-11",
+   "title": "南投縣府表揚45位在地升學優秀學子 頒發164萬元獎勵金 - 報新聞 Mega News",
+   "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOMVIwck9NVzU2bVhFMWtPT2ZrZEpUQ0JVeVE2V2VKY3FTcWRtXzA2VkR2TDVaM2ZWY3FkSUpPMmNkY3V0NGRyZEpsV05JOXdLTnBuajlOTjhJallVUHdrclZaRnBtYzBlQl80a0lGNWlGZVRTN1BFNWg0a25MSXJHanpzT1hMOVNJR0FBX0RpT0tfblIwRGI0LUVKT0dkSDJxWGJNR25uU3BETTQtTXRFTWJHdm8wY2p3dVVrekdpbzkyS0V2cnJwMHJZV0plLWtUV0s0ZUFSbmZRWkUwWnRmcVZGS3Z0TUhwYzNDX1dyejNLazlZQTdJTVRkdnNQcFcxZnZDeDBSV19tN3lpa3poR1VHYWRTRHVrMnlkSnpNbEtRLTBuWmZZWUU4aFNBY09RZVZvbzNhbDB1YnZiNU1Wc2JMNm5EMlo5NnhwSFBKV0hmM3FraUxXSUJGemRMUnZobUE?oc=5",
+   "source": "報新聞 Mega News",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "南投縣政府公開表揚45位在地升學表現優異的學生，並發放總計164萬元的獎勵金以示鼓勵。",
+   "takeaway": "家長可留意縣市政府提供的升學獎勵資訊，適時鼓勵孩子爭取榮譽。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-11",
+   "title": "技高教師跨科介聘 教團憂衝擊專業、受教權 - 原住民族文化事業基金會",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBYaUFmbnNDUkdLbXhJajY1WTVqUnRqbmNzZldQSFB5RmlYeXNPN0NvN0l6TzV1dWNLb1BtRmZBUWhuMlhHWUE?oc=5",
+   "source": "原住民族文化事業基金會",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "技職高中教師跨科介聘政策引發教育團體擔憂，認為可能影響教學專業度與學生的受教權益。",
+   "takeaway": "家長與老師應持續關注此政策對技高教學品質及學生學習資源的潛在影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-11",
+   "title": "卸任前的教育成績單侯友宜：新北投入5360億推動近300項創新措施| 大台北| 地方 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvRDR2TTdqbjZ1V28tTGpfZzF0UWlOZlYtNHJDalNIVUxuU2lvalFWMXl3QzNnUC04QzBJNU9aTEt2VWk1U25sNWhuR3FiSGFz?oc=5",
+   "source": "UDN",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "新北市政府在教育領域投入大量資源，並推動多項創新措施以提升教育品質。",
+   "takeaway": "家長與老師可持續關注地方政府的教育政策，以掌握相關資源與學習機會。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-11",
+   "title": "「技職永續破風者」北中南三館所同步開玩 帶孩子玩出未來新方向 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56dy1FZElKRFl2M01sekhLSE5MV1o1S0twdVBhU2lma1p5RUR2cWtIZ3pfVzc4SXBQVjZtZXNHdFU4c3ZpdWplYUFRX2o3NjhT?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "北中南三地同步舉辦技職體驗活動，透過互動遊戲引導孩子探索未來職涯方向。這項活動旨在讓學童在玩樂中接觸多元職業，發掘個人興趣與潛能。",
+   "takeaway": "家長可帶孩子參與技職體驗活動，透過實作探索興趣，提早規劃未來職涯方向。",
+   "mentions": 2,
+   "also_from": [
+    "經濟日報"
+   ]
   }
  ],
  "rejected": [
@@ -11366,6 +11514,36 @@
   {
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvdG92a0JGbG9yLU5wQUE1eXMwYU44OHlzbENvQWhxaXZ6RzZvZTFTZmQybENWaGdZWDZWd2o2UjJveHJfT1BoTG91b3dBQm1kTFE?oc=5",
    "title": "走進絕美的「巴爾幹之巔」，來場跨越群山的長距離健行吧｜劉政暉／Nuevaidee．新點子｜換日線",
+   "date": "2026-11-11"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa3ljS0NDMGRLU2FFNVpJRFowOWc0ZUFYREpMTFJVY3NyM1lReUxCMlBpbWI0STFicmc1THI5M2tYUWkzU240YVo2RUdYOGZOemEwVGdheU8yTWl0UUFOOVhpZllBeDJKZVc5OXlWUUFKOWpkdVNiQkppLWtmeU9pRU5wZEc1djFBb1Z1RXZFNk9vcWwzZUhDRkhnOUcxVFRmWUtYdjVQZWdHYl9YdjNxQzZ2dV9LNnRMZ3UyOTZkQ1dHeFlNTjRuMUhJLUxPT0VEMV9OUkwzWmdBU3kxMjdRQUlnZzY3SU1TMFFlR0k3M1pLZ0xPS2c?oc=5",
+   "title": "新聞資訊",
+   "date": "2026-11-11"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYUQ3WVRTcUx5LWZZVGZ1Tnh6UVNMQjhDcWM5ZFRYSVRBZWNzOXRKODU3Z0hqQlozWTNPME9rYkZ4akhlczRDMmtCa3A5MEwzZzFEaVFvMDBzaTRvWm8tdWdoeUJlT2JReG01c1JVZW9WdWtnb29hRTNFeWxiUlMtdHdETkx6OWs5U2s2WlM2WmdUck81MUVtaW84NHhBSjdnb1E?oc=5",
+   "title": "選前直球對決教會提問！柯志恩偕夫婿對談牧長：從個人婚戀談治理，勾勒「以家為本」的願景",
+   "date": "2026-11-11"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zczNBSUdaMWdSWFNKS2xJV0tHNmptd3Q0c1ZzYVlzT2JEUWduUlNuSGxuRE0yTW9OcW1CYktlczZYRkplcTZDa0lYSnZWMHdKSUtibEhB?oc=5",
+   "title": "家庭幸福有解方 「幸福的堡壘」看短影音抽好禮",
+   "date": "2026-11-11"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93OXlXSnJEemttZ1k2QnJCTV9maWhQaHJpcGg0cklBekVSbW5kTnA4NHppc09wOUc5WHhPNTNOU1AyRWFjeDBsUWpXMHJLa29Ec3g0MkRTajhVZXU3ZzlrbGdXOGlEVlRWd2ZBSldEMGk?oc=5",
+   "title": "「鐵飯碗」不香了台「軍公教」爆逃離潮- 台海",
+   "date": "2026-11-11"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lSFVlVy1MMVRDM1hwZmx5WGp1d2NfaVJHSmxFaXdrQjZnS21TblpWOTdNSGFMTjVmOTV6UkkxNFJvNngtRDRQUzB4VlVtY2xOYmc?oc=5",
+   "title": "南大深化校園反毒教育 結合專題講座與公益捐血守護學生健康",
+   "date": "2026-11-11"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ScUp3WWp5UVotZjlnQzA2bWpPY3BRQlQ0M0ltcnVRVWtnMVJlSVhNWGs0TnQzV1FCcU1od1VxVkh5c2s4NklVU0RnVjN5ZUM1bUJUeGNQM1FGOGZjSVZzbE1wZ2JTT2xsYlJ2czJR?oc=5",
+   "title": "邊界之外．島嶼之中",
    "date": "2026-11-11"
   }
  ]
