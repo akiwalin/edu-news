@@ -10327,9 +10327,10 @@
    "topic": "其他",
    "summary": "高雄鳥松幼兒園與日本星美幼稚園進行線上交流，並啟用全新的泡泡廣場。",
    "takeaway": "鼓勵幼兒參與跨國文化交流，拓展國際視野與互動體驗。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "新媒體經紀人"
+    "新媒體經紀人",
+    "中華新聞雲／中華日報"
    ]
   },
   {
@@ -10408,8 +10409,10 @@
    "topic": "教養",
    "summary": "本文探討孩子網路成癮的現象，並透過親子研究分析情緒與教養方式對此問題的影響。家長可藉此了解如何改善親子互動，以降低孩子對網路的過度依賴。",
    "takeaway": "家長應關注親子互動品質，並透過調整教養方式來引導孩子健康使用網路。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "LINE TODAY"
+   ]
   },
   {
    "date": "2026-11-10",
@@ -10439,8 +10442,10 @@
    "topic": "教養",
    "summary": "針對台灣社會出現的厭童現象，有討論指出這可能與家長教養方式及社會對兒童行為的容忍度有關，引發大眾對於育兒環境的廣泛討論。",
    "takeaway": "家長應重視公共場合的教養引導，同時社會也需建立更友善的親子共融環境。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "udn"
+   ]
   },
   {
    "date": "2026-11-10",
@@ -10788,6 +10793,224 @@
    "also_from": [
     "經濟日報"
    ]
+  },
+  {
+   "date": "2026-11-12",
+   "title": "影／非營利幼兒園擬調薪21% 幼教團體提五大訴求 - udn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EVHRHM1Rod01Gb3Y2LUxGT09BWUVjQ1lJR0NrWVBKaUNoOVpsMnJ4dG9vZHg2NVR3ZTJGQmU3YThLeEtXY3dTQXZDVkxndEhIdFE3enR30gFWQVVfeXFMTURUdEczVGh3TUZvdjYtTEZPT0FZRWNDWUlHQ2tZUEppQ2g5Wmwycnh0b29keDY1VHdlMkZCZTdhOEt4S1djd1NBdkNWTGd0SEh0UTd6dHc?oc=5",
+   "source": "udn",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "幼教團體針對非營利幼兒園的薪資調整計畫，提出了五項具體訴求。",
+   "takeaway": "家長可持續關注幼教政策變動，以了解對幼兒園師資穩定度與教學品質的影響。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-12",
+   "title": "幼童退化／3歲還不會拿湯匙從穿襪、倒牛奶練出自理力| 幼兒園地 - 聯合報數位版",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LdFk5TDl0aGpDVmI3Tl8xQ2xjbW9vbk9fR0lCeGZDdkU0ODNpQTR1OHRueUl6UFNXQjVlWUdXMGQzT2o0NThHMmVqamU2WUtLR2hOR3pxcHJvckwxb3pmNEtjQ19PaEJsc2VzM3FDVnJqY3NEdGE0bWdR?oc=5",
+   "source": "聯合報數位版",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "針對三歲幼童若出現生活自理能力退化或不足的情況，家長可透過練習穿襪子、倒牛奶等日常小事，協助孩子建立獨立生活的能力。",
+   "takeaway": "透過日常瑣事練習，循序漸進培養幼兒的生活自理能力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-12",
+   "title": "萬聖不搗蛋！嘉市邀親子闖關學安全 兒童發展篩檢守護成長 - 嘉義市政府衛生局",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HS1RHdE1PMmpVbHVOVnRwdnZTRENMTmxSVmJUT0d4eXhmem5JNEdHVU1fRHUzQ2k4cExMaEp2RUhpU19hWHl1Q284Yy14VUdpbW9mbDA2WERObVRjUThxQWx6d0hBVmpiekZJWUpybmpNdUhRMVdrM3hsNG0?oc=5",
+   "source": "嘉義市政府衛生局",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "嘉義市政府衛生局舉辦萬聖節親子闖關活動，結合安全教育與兒童發展篩檢，協助家長守護孩子的成長健康。",
+   "takeaway": "家長可透過參與社區活動，同時獲取兒童發展篩檢資訊與安全教育知識。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-12",
+   "title": "全國AI智創機器人競賽 臺東9校32名學生參加 勇奪20項獎項 展現科技教育扎根成果 - 台東最速報",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxONHVZemJydklaR29CRXRfX1FPNy12VUlFOVFKd0twaXV4NnF0NW1rRTNDTG1NMXJzNnlDTXgyd3JEOW1Sd3psLVdJUksyMExkU05MRDlpVEtNWkVGYzZGRkJCX2F6andlT3F2Q1lSUFR0M3lwYjZtVTVJWUstbWhPZU5hTUlTcGRlUFlLYzdNTURodVFycGJQUDlFVmU5ZEhBTk1WN2hsTlV2bzRWS2dQZWVFb2t4RW5UeDAwUGEyOF9NUUQtZ0pOSWFtOUIzcHlFc3dta2pIUzhBelJ1a2t6WXFUNHRDMG5ZeHZxUnVvUUdNQnlmSWhyUm0xR3oxcUNPRU0xYXcyYWpmZXYwVmFkUWpmM0NjNV9ZcGZOY1VCSHplR1phemtKcQ?oc=5",
+   "source": "台東最速報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "臺東地區共有9所學校的學生參與全國AI智創機器人競賽，並成功獲得20個獎項。此佳績顯示當地在推動科技教育方面已取得顯著成效。",
+   "takeaway": "鼓勵孩子參與科技競賽，能有效提升實作能力並展現學習成果。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-12",
+   "title": "南投首頒教育獎勵金164萬 表揚45生 - 中國時報- 翻爆",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQamRxV0lIaTdJemtYWTJzR3h6SlhUazgxODB5cFVqOWF1UmU4RHJNalRLc3B3djhZZTJpS0F2UWVjUDc1X0JudVg5NXdmczlnUHZ5T2tKdVB3THk2TUVpRmhhVDlxTlZ1amQtbUNibUpHcjVQTXdhSE5DNUFyUC04WDFwWnpWTWVI?oc=5",
+   "source": "中國時報- 翻爆",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "南投縣政府首次頒發教育獎勵金，總計發放164萬元以表揚45名優秀學生。",
+   "takeaway": "家長可留意縣市政府的教育獎勵政策，鼓勵孩子在學業或表現上持續努力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-12",
+   "title": "教師輕生憾事 教育部長:學校應建立教師支持網絡 - 國立教育廣播電台",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6UGNXb2djS016ck1XckZ4Nk1BTU5Dc3R5NVpqd0hLZW5RVTJxaVN2NEZ2UVZwRWRwZmM0eEI3RW5QaUdqV0JlV2FtSjdHbGFQLWVKV3VyZXM4ZzJ0ZFBiYjJtSzZmcjNDRTFianNn?oc=5",
+   "source": "國立教育廣播電台",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "針對教師輕生事件，教育部長強調學校應積極建立完善的教師支持網絡。",
+   "takeaway": "家長與老師應共同關注校園心理支持系統，營造友善的教育環境。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-12",
+   "title": "手機暫離線 青春更精彩！ 國教署辦理「青少年關機也幸福營隊分享會」 - 教育部全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6ZDZwQV9JVFYyb2J1ZDRyYlctM3NoaVR1WXJicHExVTNadnJnRmtra283dFRxeDJOMmdoZ1FOYlJndG41TWRFLTh3WkVmVG1zNnM5R0M3OGNZWW1iTW4yTFVUNHlGaHkwQzBIb2NfTmF3TkpLcVNqOEpYamt2MzQ?oc=5",
+   "source": "教育部全球資訊網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "教育部國教署舉辦分享會，鼓勵青少年透過暫時放下手機，體驗更豐富的現實生活與人際互動。",
+   "takeaway": "鼓勵孩子適度遠離數位產品，培養多元興趣並提升人際互動品質。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-12",
+   "title": "阿德勒談教養——親子關係中的課題分離線上講座 - 親子天下Premium",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVZUhIUnZOUTVvMDlTRjFUZTNGY1F2bjBuamg4ZVVSUjVrZElVN2pIYmd5MF9yMUFHVFFhc01ueFJVVEdWR0dGNWNjdkxzVWswdFVJcQ?oc=5",
+   "source": "親子天下Premium",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "本講座探討如何運用阿德勒心理學中的「課題分離」概念，來改善親子互動與教養方式。",
+   "takeaway": "家長應學習區分自己與孩子的責任，建立更健康的親子界線。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-12",
+   "title": "幼兒園女師被控與幼生「蓋棉被」看不雅片調查結果不違法但有違專業| 綜合 - 聯合影音",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBXelM2SHBtSXpxRURwaThvZUZCd1J1VERFZUpISlRCZl9xZDBUQUFfRVllY0t2UGtTalJEaE0wcGU2TXMwQXhzZ1p3?oc=5",
+   "source": "聯合影音",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "幼兒園教師遭指控與幼童有不當互動，經調查後認定雖未觸法，但其行為已違反專業倫理。",
+   "takeaway": "家長應持續關注幼兒園師生互動情形，並留意教師是否落實專業倫理規範。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-12",
+   "title": "新北拚教育 8年投入5360億元 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RYzljSGhpUW5ZNS1pN2ducDhaUk1Mdi1zM2Jzb1lOc3RWXzA4RHBEV1g1MlBneFQyeGU0QjRfSllfRU9SaWY0ZzVZTGprWlFPTC1ZWE81R3dzVURIdzVCcTlB0gFnQVVfeXFMTy1RNzd1NjZkTjVqUmhMa3hYRmhld2RlblhRZkZ5eE1FTmxIS3hTYVNpTUNTZXFhbVdfRFBRYW1EdHFjUEgzZG4ydUZMdGRuRHktSVp0dDZyVTE2Y1JfRXRsd08tV3ZzMA?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "新北市政府宣布在八年內將投入五千三百六十億元經費，用於推動各項教育相關建設與發展。",
+   "takeaway": "家長可持續關注新北市教育資源的分配與具體政策內容，以掌握孩子的學習權益。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-12",
+   "title": "爸媽也需要被照顧！花蓮公益講座陪家長充電 11月還有三場 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jU3k0Q2ZtM015cmRhV2Q5U0hjTDZhaTNWY0VFTk9Da2owa3NqdWdJVnBhNkdTZ2tmM1g1T3puWWZOelhZd1BNaVVibnh4OEVNdlE?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "花蓮舉辦公益講座，旨在提供家長心理支持與充電機會。11月份尚有三場活動，鼓勵家長參與以獲得教養路上的陪伴。",
+   "takeaway": "家長應適時尋求資源照顧自我心理，才能更有餘裕陪伴孩子成長。",
+   "mentions": 2,
+   "also_from": [
+    "Life 生活網"
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "title": "棄中一中選暨大附中！南投5A10+學霸獲10萬升學獎勵金 - ETtoday新聞雲",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45dy1PWUhSM0pHV2w2WkJON090ekVqTW9wRW1yT2VmY2dMYWsyOTVKNFVTdkgwUWpvbGt1OHo0TGtiSFBMRlF4Z3dOVdIBS0FVX3lxTE45dy1PWUhSM0pHV2w2WkJON090ekVqTW9wRW1yT2VmY2dMYWsyOTVKNFVTdkgwUWpvbGt1OHo0TGtiSFBMRlF4Z3dOVQ?oc=5",
+   "source": "ETtoday新聞雲",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "南投一名成績優異的學生放棄就讀台中一中，選擇在地就讀暨大附中。校方為鼓勵優秀學子在地升學，頒發十萬元獎學金給予肯定。",
+   "takeaway": "在地就學不僅能節省通勤時間，也能獲得學校提供的獎勵資源。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-12",
+   "title": "臺師大培訓臺灣隊揚威IEYI發明展勇奪8金 34件作品全獲獎 - 中央社 CNA",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44Z3lVUWxHa3RLZ3FkNlFNMGxuT0c4NWoxNk03N0JJWFgyaVN4am1tNS11NTd3S05qSEdEaE1pT2E1VnlPX2l2dGlXSGpmZmNrYjhVMXJ3?oc=5",
+   "source": "中央社 CNA",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "臺灣學生在IEYI世界青少年發明展中表現優異，全數參賽作品皆獲獎項肯定。此成果顯示臺灣學子在創新發明與科學實作領域具備強大潛力。",
+   "takeaway": "鼓勵孩子參與發明展或科學競賽，培養解決問題的創新思維。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-12",
+   "title": "落實校園健康安全網！國教署舉辦全國高級中等以下學校衛生組長會議，深化防疫、食安與健康促進跨域協作 - 教育部全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95SnUwdGF1eDZ2N2ctbGlrbzZ6TFJWQ25yM0ZiQ2tNbE9wR1BXNE5sQ0RTMV9JWldqRERMaG9fLW5aY0pUM0ttLU9xY1BPMXJmX1RZcl84VVQyVmxQTlVsWXZlSUt0ZExuY181UmRJLVFPRmIwZXRXTXZmWENqOUk?oc=5",
+   "source": "教育部全球資訊網",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "國教署召開全國學校衛生組長會議，旨在強化校園防疫、食品安全及健康促進的跨領域合作。",
+   "takeaway": "家長可留意學校在防疫與食安方面的最新規範，共同維護校園健康環境。",
+   "mentions": 1,
+   "also_from": []
   }
  ],
  "rejected": [
@@ -11545,6 +11768,11 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ScUp3WWp5UVotZjlnQzA2bWpPY3BRQlQ0M0ltcnVRVWtnMVJlSVhNWGs0TnQzV1FCcU1od1VxVkh5c2s4NklVU0RnVjN5ZUM1bUJUeGNQM1FGOGZjSVZzbE1wZ2JTT2xsYlJ2czJR?oc=5",
    "title": "邊界之外．島嶼之中",
    "date": "2026-11-11"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQcnZDTjI0U3I5dGszOWZlRFRtZ0FoYm8xTzRIQ0UyUEhqQVBhdnVxbmtBc3VneFU2cWpyNlNidXVBcnJVMHR6UV9nSnhWTTg5SFpKYTQ5N2l6NTdmT3A2N2tDMDhWRUozOGxlRGRJZzNDZUdiSmFwVVh0VW1jaTVNQVB0UXNqR0hGcFUtNDE2enFYUWhNbm85OUx6UHBoZzdDRU93Q1ZqY3hfWmtyR0p5a3dRbkVEbUItbGdWR3JpRW1ST2dkaWwtYlhvZG5Gcks4RFdTWXd4aHBfQTVvZFJhM0dMWUx2dG9TYXpfQUtSOUpmeE1GUS1vZ3pGRVF6eFRxVzF6M0RsN1BSUnNXZmRlR3owajVoQ3JNZHNZTGMtVVo1blIwT3o5Vmo2OTdCcXNIUFY0X1hDNzhaRjZUdURJUzlFWEN5QjkxTG9XMk8wdDJuWFgxeWhicWNOT2JzSE4zM1otRVJ2eUszVzR3bUlUam1ZeVp2UXl2SnNRQVhUdFJWRWhCVVNIQkJHTzJ2NWtaaWFRTg?oc=5",
+   "title": "黃仁勳有小四！她喊不意外「可能早就中計」：這次真的要吃苦了",
+   "date": "2026-11-12"
   }
  ]
 }
