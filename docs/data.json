@@ -11787,8 +11787,10 @@
    "topic": "其他",
    "summary": "臺南市舉辦議長盃無人機足球體驗交流賽，活動已順利結束。",
    "takeaway": "家長可留意無人機相關科技競賽，鼓勵孩子參與新興科技體驗活動。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "視傳媒"
+   ]
   },
   {
    "date": "2026-11-14",
@@ -11804,9 +11806,10 @@
    "topic": "政策",
    "summary": "有家長針對地方政府過去四年的教育施政成果表達肯定與支持。",
    "takeaway": "家長可持續關注地方教育政策的推動與執行成效。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "元丰傳媒"
+    "元丰傳媒",
+    "民眾新聞網"
    ]
   },
   {
@@ -11881,8 +11884,10 @@
    "topic": "心理健康",
    "summary": "基隆市衛生局透過托嬰中心舉辦兒童發展篩檢講座，協助家長觀察幼兒在翻身、爬行及語言表達等關鍵發展階段的表現。",
    "takeaway": "家長應主動參與發展篩檢講座，學習觀察並掌握幼兒各階段的成長指標。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "報新聞 Mega News"
+   ]
   },
   {
    "date": "2026-11-14",
@@ -12015,8 +12020,10 @@
    "topic": "其他",
    "summary": "基隆市舉辦藝術教育派對，集結了14所學校共24支隊伍、650名學生共同參與演出。此活動提供學生展現藝術學習成果的舞台。",
    "takeaway": "鼓勵孩子參與校際藝術交流，提升自信心與表演經驗。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "報新聞 Mega News"
+   ]
   },
   {
    "date": "2026-11-15",
@@ -12141,8 +12148,10 @@
    "topic": "學習方法",
    "summary": "桃園龍潭高原國小帶領學生走出教室，透過實地探索家鄉溪流進行科學教育。此舉獲得桃園市副市長蘇俊賓的肯定，展現學校推動在地化科學學習的成果。",
    "takeaway": "鼓勵孩子走出教室，透過實地觀察與探索家鄉環境來學習科學。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "LINE TODAY"
+   ]
   },
   {
    "date": "2026-11-15",
@@ -12310,6 +12319,203 @@
    "topic": "學習方法",
    "summary": "教育科技展展示了多所學校的跨領域實作教學成果。透過這些案例，呈現了科技融入教學後的學習成效。",
    "takeaway": "家長與老師可關注科技如何輔助跨領域學習，提升孩子的實作能力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-16",
+   "title": "教大幼兒教育學系代表團訪問華東高校 推動幼兒教育與托育領域合作 - 紫荊網",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUp5WUVsc0hNby10YXo3Ti0teDVvM0pGU2JBM180RmRNRGtlSlMzVVNMQ2dRU2xvRmJyeHdZd2RLUjU5azJEc0JHZHZEVTUtMW9raHBRSTVfaE9DeUUwcndFTUJYN2dRSFhnTXdidUpVQnZhNzR1cS0zeTJob0VaZlNUOUVid2VYb3k0Yjc1Vno?oc=5",
+   "source": "紫荊網",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "其他",
+   "summary": "香港教育大學幼兒教育學系透過訪問華東地區高校，積極推動兩地在幼兒教育與托育領域的交流與合作。",
+   "takeaway": "關注幼教領域的跨區域合作趨勢，有助於了解未來托育與教學資源的發展方向。",
+   "mentions": 2,
+   "also_from": [
+    "大公文匯網"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "title": "台大兒醫家庭資源中心煥新 助家長解惑、減輕就醫焦慮 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wR252WU5FMV9yRURfRnRZTjZNOUdYWV9uLU1yUzRBZExhS1RDeTJKNHlXZVdBS2VWb0RGVzREWkJCYXRIcFgwQnN5djdzSGVF0gFWQVVfeXFMT0xnRHJ6LXdibW1qT1RYRGFGcE5NYU1UcDVWSzFRTU51SmZjS2ZGaHUyMnQzNzNFZVNEb1Vkb1haeHI4N053dHZyRDNCa2JGc0JLa1UteFE?oc=5",
+   "source": "UDN",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "台大兒醫家庭資源中心完成空間更新，旨在協助家長解決就醫過程中的疑慮，並降低孩子與家長在醫療環境中的焦慮感。",
+   "takeaway": "家長若在就醫時感到不安，可多利用醫院的資源中心尋求協助與諮詢。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-16",
+   "title": "翻轉學習新世代 智慧共學展成果 116年度徵件培力啟動 - 臺北市政府全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEtCVWR6SlVEcFMwMGpBR2N0MEsxd2xyejBCMV9WZklkcEJnUmFTVjBoN29GRHZVSzBpQmlCdklNckpFTkpnelc2NUFHOGJFTC11Q1pNckdLY1FuYk8tbFU5bTQ3VWlWMS0yeUQ4QXNsNlFHVUUzWnJMcm1FRUljR1o5c2ViWDFkTHBfc29WV2dPWTc0U1N0eDRfQWZDbXpC?oc=5",
+   "source": "臺北市政府全球資訊網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "臺北市政府推動智慧共學計畫，鼓勵教育現場運用創新教學模式。目前已啟動116年度的徵件與培力計畫，旨在提升學生的學習成效。",
+   "takeaway": "家長與老師可關注相關徵件資訊，了解數位學習資源如何融入教學現場。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-16",
+   "title": "青春不孤單 心事有人聽！宜蘭張老師中心推動校園心理健康講座 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13eExNNkdGREdacGVJckxIWFNJTWFQU2Z0d3o3Q0JsVUdvc1pyaWJyQXZKUUN4UDM5Zzd6R1BVeDFJc3lhQTJLekNGb3pVT251dFE?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "宜蘭張老師中心透過舉辦校園心理健康講座，協助青少年排解成長過程中的情緒困擾與心理壓力。",
+   "takeaway": "家長與老師應多留意青少年的情緒變化，並鼓勵孩子善用校園心理諮詢資源。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-16",
+   "title": "國教處｜海外留學說明會 桃園12/2 台北12/4 掌握交換申請資訊 - 銘傳大學",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwLWZyRS1RMV9PLU81dGtLSHVDMGpiQXNLRWZxMzk3dG02QUJYdnhZSVo1RGIteUpfcGZWRzZpWHkwZXNwaDY5ZHNR?oc=5",
+   "source": "銘傳大學",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "銘傳大學國教處將於桃園與台北舉辦海外留學說明會，協助學生了解交換計畫的申請資訊。",
+   "takeaway": "有意規劃海外交換的國高中生與家長，可把握說明會獲取第一手申請資訊。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-16",
+   "title": "不給答案的AI家教，反而學得少？關鍵在孩子能不能說出為什麼 - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLYmhDM2Vpei1CUTA4cjYzT0VZXy1WU0hONGJ3enJmeHJad2JNTTFaVl94dThLQnJQd2VkVm5MV3NQeW93YmtteGtiSXdhRnR2eTlqYm5ON3dkU2M?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "AI家教若僅提供引導而不給予直接答案，可能會影響學生的學習成效。關鍵在於孩子是否能清楚表達思考過程與背後的邏輯。",
+   "takeaway": "引導孩子練習說出解題思路，比單純使用AI工具更重要。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-16",
+   "title": "【Podcast】政大選研中心主任蕭怡靖的民調關鍵字：選舉民調有哪幾種？怎麼辨識一份具有可信度的科學化民調？台灣為什麼選前10天民調要「封關」？ - 少年報導者The Reporter for Kids",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Oa2RjU2Nfc1RrRjlfVENKNzhYa2FuUkhRb2VpbWZzM2wzN1JaZkhaQVZWOHR2UmtLVjRUcjFaMTJWQTdLRGREWFphQXhTTS1Zb1RPcEFyeHhVT19iTHY1UXcxazJZWjQ?oc=5",
+   "source": "少年報導者The Reporter for Kids",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "本集節目邀請專家解析選舉民調的種類與科學判讀方式，並探討台灣選前封關制度的背景與意義。透過深入淺出的說明，協助青少年建立對民調數據的批判性思考能力。",
+   "takeaway": "引導孩子學習辨識數據來源，培養媒體識讀與獨立思考能力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-16",
+   "title": "教育家人物典範／從受助學生變成矯正教師 彭嬌蓮陪迷途少年找回信心 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10UVd3TjdjaUYzaHBnR2dfYU1zTWZpZ0JvZjBMYnBneTdPNG9XVDRuQTNZRFVrYVJXeFBNc2xXM3NjSC05ZzJMYW5SSjk4Y0dSeFY2YlB4dXVYNXPSAWBBVV95cUxPUlA0MHhUYVlKMFBNOG40Q2w4MWdqcXhVWjl6WWpZc3FYSE9wOGtzQzBrZEdZcGJhamExMDVOY1hGZnRnYkZEY1gyS0IwVFZodWhWTVBaUnhadU9LSXM4LXo?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "彭嬌蓮老師曾是受助學生，如今轉身成為矯正教育工作者，致力於陪伴迷途青少年重拾自信。她以自身經歷為榜樣，協助學生在困境中找回人生方向。",
+   "takeaway": "透過同理心與生命經驗分享，能有效引導迷途青少年建立自信。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-16",
+   "title": "花蓮推動國幼班巡迴輔導 整合在地資源發展特色幼教 - 匯流新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOUHFyRU83OXpvRDhJdTFwWDR3NERTSmlSY0FycGdYVUEtMW5TV1dXeXhCaWNEVDlsLXZDaUpPd1ViLUNsN3FmVk5yTE02d2R0MWszT0JXRmVna2VsXzRhNGFrVjVEUW8zMG1iMWY4YWNtWS1vYURiOWNLVGg2eC1pUElQV3MyQ2Nad0FEUTQtS0tpVU9ScnpXaEstQ2dPWnF2SUJJVDJDZlBKWXRIR0tiZjdOd2h2dC1uUE81dGkxbFB3ZVpDOGl3LS14RDlRaGZzUVRjdWVNQTVoN3c2bkhOTnA0UVVzZzlnS2Q1MGZrSFd5anhZSGRsa0xWQjJlMU1IY3UteGM2TGFvVjItbVJxMWRRY1RJTENzb2ZaT3JwQzBaRmZ6UVNJLUswQWtTQ1plTHRmaFJDblg4SUQ0M0JucGVR?oc=5",
+   "source": "匯流新聞網",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "花蓮縣政府透過推動國幼班巡迴輔導機制，積極整合在地資源以提升幼兒教育品質。此舉旨在發展具備地方特色的幼教環境，強化幼兒園的教學支援。",
+   "takeaway": "家長可留意當地幼兒園是否導入巡迴輔導資源，以獲取更完善的教學支持。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-16",
+   "title": "不只是親子圖書館！ 台大兒醫家庭資源中心升級、1200冊繪本緩解就醫壓力 - 知新聞",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GMGhRQlpCdnlkMjVBQlZWcTlrLXNGWm13ckhwUktLUjY0eTk5V0ZaS2RkSDlYYXhMZDhScGJTYndmMVpPdUhPakFKU3lKeEtfQmFkZXhhRnpCRW5fS2RHcmpuN1FrOEtGUkJuN1l5NA?oc=5",
+   "source": "知新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "台大兒醫家庭資源中心進行空間升級，透過提供大量繪本資源，協助減輕兒童在就醫過程中的焦慮與壓力。",
+   "takeaway": "帶孩子就醫時可善用醫院資源，透過閱讀緩解其緊張情緒。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-16",
+   "title": "降低親子就醫壓力 台大兒醫家庭資源大翻新！ - 台灣醒報 Awakening News Network",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44M0ZlSEI2QzliZ19ORlo5VldQV1lnTTJrRHVTZ2g4ZDRGZnpFbWk1WjNQdzhUbVEydUFKSi1ocE9ZMHlrYzJXSlNIamVyY2xicXBTRy0wQQ?oc=5",
+   "source": "台灣醒報 Awakening News Network",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "台大兒童醫院針對院內家庭資源空間進行翻新，旨在改善兒童就醫時的環境體驗並降低親子壓力。",
+   "takeaway": "家長可多利用醫院提供的友善資源，協助孩子緩解就醫時的焦慮情緒。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-16",
+   "title": "讓陽光穿透藝術 桃園市新明國小獲文化部「教育推廣獎」 - 大紀元",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jWVR1c3NFc1YwY2RlUWIydzhmbllsWDRvWUZIWGFZNHhpNDFUMUZZUFR0MTNWeWlaTjZuSWFyN1M5RlZLdlhoalByajhPSG5vbDdMcVBnQnQ2aDRvVmdMQjN30gFnQVVfeXFMT0p1SEpxeFk2NWN0LWFybmIwY3BtYWZ4N0lWaF9qX2hPRlNjemU5UHRYQ1RCMmUwLVpTVEgyaEJYcFc4dl94c0NQR3BuaVJsZ01KSkZaVl92blVxVk00U2Y3Q2xLV3NjTQ?oc=5",
+   "source": "大紀元",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "桃園市新明國小因推動藝術教育成效卓越，獲得文化部頒發的教育推廣獎項肯定。",
+   "takeaway": "家長可關注學校的藝術教育資源，鼓勵孩子參與校內多元的文化體驗活動。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-16",
+   "title": "聚焦兒童優質教育與青少年身心健康 睿賢女性協會訪澳坊中學小學部 - 澳門力報",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VemZFYXVieUQwT3EtWjRfbDRmMDY5T2VWZUhObk9NSGFlZHJiTGRXZ3FMRW5Nakhub3dQcWk4UkhrWHJDZEZmYnRRaG5fUzVKVDRF?oc=5",
+   "source": "澳門力報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "睿賢女性協會前往澳門坊眾學校小學部進行參訪，重點關注兒童教育品質及青少年的身心健康發展。",
+   "takeaway": "家長與教育工作者應持續關注校園環境對學生身心健康的影響。",
    "mentions": 1,
    "also_from": []
   }
@@ -13179,6 +13385,16 @@
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE93SnlCVXMwbUZ2eDNiU3lacWJraTVoOWxXX3BxR0IxcFdLZkxzSENER2hVR2NUd1ZoWWZWeWMxXzhYMzNUQ3UyU1Fn?oc=5",
    "title": "花創「毛起來玩文化」週末登場 結合市集、展演與手作打造毛孩同樂派對",
    "date": "2026-11-15"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MVUZ1YTQtSjdYNUUtb1RzVjhTTkpVUlItVnBEM0R6LVlrM2F4OGIyT2p4bkk3S2NZRVQ0UGNRMF9QYzJfU3FPUC0tS25GT284eDVXbkpITGVBWmJfM1lqNU15VzJQQTh1QnA2cXVR?oc=5",
+   "title": "謝羅大佑說出心聲區桂芝批民進黨不顧下一代：不知會不會天打雷劈- 生活",
+   "date": "2026-11-16"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzaF9PWXpOZXBZeTBxczByWWZOQzR6cFlZMDNtQTZScjNyYjN5ZjU2WXlEME5uOFE5ZVZvX2s3cXFkSGs3MnotRlh5dXB5RWJ4MVE?oc=5",
+   "title": "在歐洲智庫實習是什麼體驗？我在中歐亞洲研究院，看台灣如何靠「非傳統外交」突圍",
+   "date": "2026-11-16"
   }
  ]
 }
