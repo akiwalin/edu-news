@@ -12705,8 +12705,10 @@
    "topic": "政策",
    "summary": "教育部國教署致力於強化幼兒園階段的特殊教育支持系統，並持續投入資源以充實學前特教服務。",
    "takeaway": "家長可多留意所在地區幼兒園的特教資源配置，以確保孩子獲得適切支持。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "CNMA新聞聯合網"
+   ]
   },
   {
    "date": "2026-11-17",
@@ -12783,9 +12785,10 @@
    "topic": "政策",
    "summary": "嘉義市多所國中小學在教育部教案評選中表現優異，共有11件作品獲獎。其中民生國中、嘉義國中、博愛國小及嘉北國小等校的教案更榮獲特優肯定。",
    "takeaway": "家長可關注學校推動的創新教學，了解孩子在校接觸的多元學習內容。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "睿傳媒 Rightmedia"
+    "睿傳媒 Rightmedia",
+    "Yahoo新聞"
    ]
   },
   {
@@ -12844,9 +12847,10 @@
    "topic": "政策",
    "summary": "高雄市岡山國小校長因職場霸凌案件經調查屬實，教育局已決定解除其校長職務。此事件凸顯校園管理與職場環境對教育品質的影響。",
    "takeaway": "家長應持續關注校園管理狀況，確保孩子在友善的學習環境中成長。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "中時新聞網"
+    "中時新聞網",
+    "三立新聞網SETN.com"
    ]
   },
   {
@@ -13044,6 +13048,189 @@
    "mentions": 2,
    "also_from": [
     "蕃新聞"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "title": "用心究好！媽媽寶寶社長Iris深度對談心理師陳志恆，用溫暖純粹又有心的陪伴，理解孩子，不再焦慮 - Mombaby 媽媽寶寶懷孕生活網",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tZldGZ2dTUmd1V0tSYzZZeUFTLUdnd0htMDJNM2F0d21lUjRYSkdqbjhiczdDRWJPT2xTQ2d2ZGRFVG8tYUdPSTRQd0NTb0oxaG1FTVFn?oc=5",
+   "source": "Mombaby 媽媽寶寶懷孕生活網",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "透過媽媽寶寶社長與心理師陳志恆的對談，探討如何以溫暖且用心的陪伴方式，來理解孩子的內心世界並緩解家長的焦慮。",
+   "takeaway": "透過深度對談與溫暖陪伴，學習理解孩子情緒並減輕教養焦慮。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "南投三光國中棒球隊告別10人大通鋪 4400萬新建學舍啟用 - 中時新聞網",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxN0hYZFZSR1dDVDJsSnN4V3laaV9zSFBORFBNTXFzMmEyVTIwcHYxbnFROW5wMFdqSUpXeTFCRlRoZEdiZElyVGJfRUxra3FSa0FVLU4tVXFpc1VDTnBvY0Z4UE5TTzljR195RDl3?oc=5",
+   "source": "中時新聞網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "南投三光國中為棒球隊投入四千四百萬元，興建全新的學生宿舍。這項設施改善了球員過去十人共用大通鋪的擁擠住宿環境。",
+   "takeaway": "關注校園硬體設施改善，以提升學生運動員的住宿品質與生活環境。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "自殺成青少年第2大死因！心理急救課明年開跑 教家長辨識警訊 - 中時新聞網",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXS1Z3eTZVTE15bVBXX1ZETWhCMEE1cWc2dVE0UVFvY2tnRnVDWkhsZWlfd1IxblR2NEhGUy1sYWNkUnh5YkdWcHpJVUhwRHRSZVVYcWd5bV95Sk1PNTFYUDRuam1HUjNpTnFyLTRR?oc=5",
+   "source": "中時新聞網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "針對青少年自殺率上升的現況，政府預計於明年推動心理急救課程。此計畫旨在協助家長與師長提升辨識孩子心理危機警訊的能力。",
+   "takeaway": "家長應主動關注青少年的情緒變化，並學習正確的心理急救知識以提供即時支持。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "國教署辦理防制詐騙增能研習 培育種子師資 攜手守護校園安全 - 教育部全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZYUVGWDJyVlhBTXkwcTgyQW83OGtPc0hGZ1ljajNVWjhVaHhJSjdzSUFpZzhzU3ZEVGZXQ1ZNVHVST1RBNW1UdzlURVdMbUxzUFI3dzRkd2J6RDRvRkZUZTM0eVh0ZEN6YnNRd1JuSmQ1SWRfSFBDMUlqcHJoVDg?oc=5",
+   "source": "教育部全球資訊網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部國教署透過舉辦防制詐騙研習，旨在培訓校園種子師資以提升防詐知能。此舉期望能強化校園安全，共同防範詐騙事件對學生造成的影響。",
+   "takeaway": "家長與老師應留意校園防詐資訊，協助孩子建立正確的網路安全與防詐觀念。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "【投書】當未成年成為保護傘：輔導阻止不了暴力，誰來保護無辜的孩子？｜王俐文／多元發聲．讀者投書 - 獨立評論@天下",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vYWdNYktOckZSZEZJbWxoaWpMLW5DMGdneVJoOFVNQ1dGeFJsUDk4c1hnVlBEVHA0UDVtc3QxRjc0V2JmaHFpS1BpZU9QdzFhT0ZYR3FLUHZKNjZmeXFZS0dJUU5BUQ?oc=5",
+   "source": "獨立評論@天下",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "本文探討未成年人涉及暴力行為時，現行輔導機制可能面臨的侷限與挑戰。文章呼籲社會應正視校園暴力問題，並思考如何有效保護受害學生的安全。",
+   "takeaway": "家長與老師應密切關注校園霸凌與暴力議題，並適時尋求專業資源以保障孩子安全。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "社宅、幼托、長照、綠色運輸，4年後體檢六都現任市長競選政見落實程度 - 報導者The Reporter",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeTAwSzl4alFfUENxVXAxQnJmSzEtajJHQXdUbmI0ZEhfOVB5bHQ1cVBCQzNkTFpZTGQzVGtYck5UdDBhMnJucE9xazhoMkMxcnQwSGo4V0JIR25XY0dMc0FQeTl4c1V6a1V1RGtST0hDbDVzZ0cxcm9wSlVEaHhMckhZdWtuS2dyNElzZmFqZy1PVUY5dkN2Yw?oc=5",
+   "source": "報導者The Reporter",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "本報導針對六都市長在幼托等競選政見的執行成效進行四年後的檢視與評估。",
+   "takeaway": "家長可透過此檢視報告，了解居住地的幼托政策落實情形與資源現況。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "會生得囝身，袂生得囝心。 - 每日一台語 - 自由電子報 專區 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lZ1dObXEzRjlaVDdFUjV2MnhPRWZ4bEl5STFONlQxb09Sc3JpTTNyQVl3cjEyRm5Ya3BVZzhXYlJ3Mm9xLXJrOThOcUJEM1RicXJrOVFiRWdpWXREMXc?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "這句台語俗諺意指父母雖然能賦予孩子生命，卻難以完全掌控或預測孩子的內心想法與個性。提醒家長在教養過程中，應尊重孩子作為獨立個體的心理發展。",
+   "takeaway": "理解親子間的差異，學習尊重並接納孩子的獨特個性。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "南市辦理幼兒園正向管教研習 與300位教保夥伴齊心守護幼兒安全 - 民安救護車",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qZ2JvaS1ReWVtV2VVMFktYTFpSUJ6YkJxMWFrLVpXVWZ2M3BCSjBHWUhjY2NaaEhjeTVhYmRkdUxkaFV6SDhaeC1TVms4MFYtQWJYQ1h2ZGNoeEhrOVRKcGplaUhHS0xESjhyOA?oc=5",
+   "source": "民安救護車",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "台南市舉辦幼兒園正向管教研習，邀請三百位教保人員共同參與，旨在提升幼兒園的安全與管教品質。",
+   "takeaway": "教保人員應落實正向管教，共同營造安全友善的幼兒學習環境。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "從捐教材到共追成效 關西教育大聯盟試辦公私協力 - 中央社 CNA",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HZW85aUQ4WDdCa0EzWWZNUnRfSTZOeTA4aG40cHJmX3dIdDdyYmNqSVBGdkVZT1dFdGpJc0xkWUFUQWhkRkxoNXJ2UUZZblNZSjIwZDN3?oc=5",
+   "source": "中央社 CNA",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "關西教育大聯盟透過公私協力模式，將資源投入方式從單純的教材捐贈，轉向共同追蹤教育成效的深度合作。",
+   "takeaway": "家長與老師可關注此類公私協力計畫，了解在地教育資源如何更有效整合與運用。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "救青少年！自殺率翻倍 推「心理急救課」培訓大人當後盾 - TVBS新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fYXVaZGRHRnhVdFBham1rckhGMmQyUi03ZVNXdS1OdTNuRk42bGl1dFk1czBvUVI5ajBoWS1obHJ0VVFLdkx2ZkFhT1VnQQ?oc=5",
+   "source": "TVBS新聞網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "針對青少年自殺率攀升的現象，相關單位推動心理急救課程。此計畫旨在培訓成人具備專業知能，成為守護青少年的重要支持後盾。",
+   "takeaway": "家長與老師應主動學習心理急救技巧，及時察覺並接住青少年的情緒困擾。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "科普類讀物如何讓孩子讀得下去？ - 親子天下Shopping",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wWlFCek9SdFVpT3NES3lHRUJhenhMRl9TWWZZYnZ1T2hWYWdKN0VIZFE3aHllQmRCaVQ4Xzd2ekVObElqQXRZWFF4MC1PbHlycUlKb3FWaWZ5QTY5T01jYWhhWG04eElfNEUyMQ?oc=5",
+   "source": "親子天下Shopping",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "本文探討如何引導孩子閱讀科普類書籍，提升其閱讀興趣與理解能力。",
+   "takeaway": "家長可透過挑選合適的科普讀物，培養孩子的科學素養與閱讀習慣。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "臺南市舉辦正向管教研習 近300位教保人員參與 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnSFRsY1hPU3hYRmdTaDhyaDJWZDdEVUh3N1pHaUhCVGVHNWFMM3VHbFZtdVlrU2F2UV8xOVcyTWF6RURoZnlSanAtaTRCbDlBMmc?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "臺南市近期舉辦了針對教保人員的正向管教研習活動，吸引了近三百位相關從業人員共同參與。",
+   "takeaway": "教保人員可透過研習提升正向管教技巧，營造更友善的幼兒學習環境。",
+   "mentions": 2,
+   "also_from": [
+    "LIFE 生活網"
    ]
   }
  ],
@@ -13976,6 +14163,21 @@
   {
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02Y2J4R0h6cUg1U19wRFNSek9IR05qeE53dUZUS3lEaXgtNEtHUXpwWWpqNDRJdGotNi1pWF80UGJjSHZLbDQ4WldFX1I2UXRudFE?oc=5",
    "title": "歷史系畢業能做什麼？給在人文學科裡迷惘的你：我們才是最懂運用「AI 思維」的人！",
+   "date": "2026-11-18"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlaE0yTUh5TlhwUWo2TXJGVWFaWEdYMmVESlpCVHZLelowa3A3dGwyMmdXZ0paWEpBellzZ0REWUVIZUN5bzlXNW9HQXBuLVhBTGVhc0U1N0s?oc=5",
+   "title": "「候選人不要只會罵我不會生小孩」 周春米：細膩政策才能全面照顧| 2026九合一選舉",
+   "date": "2026-11-18"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PZm5RT2pQd3lxN0VOSTU0OWs1NHQxdkRiUjc1cXBYMmJNdzJuVTJDdjM0b1llM0pESC0taFhMYXRMUEQyTUwwZQ?oc=5",
+   "title": "萬聖節不只討糖果 馬兒遊行傳遞社區溫情",
+   "date": "2026-11-18"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YVlNpbWFtZGxYRzBpX2pkZWlaNy0xWDFYZm1LMUF0cjRBVlF1UDZ4QWFwQzF5Qmw0QmtkYTNCSURMVGpDWWlfeUF0TFhRT1ZxR0w2X3J5V0RZeU9mQmVhQ1JTVm0wU1E?oc=5",
+   "title": "她是移工，她也想上大學！印尼空中大學Universitas Terbuka為百萬印尼人圓夢｜鄭安君／特約作者",
    "date": "2026-11-18"
   }
  ]
