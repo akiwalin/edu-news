@@ -12770,8 +12770,10 @@
    "topic": "其他",
    "summary": "臺大醫院家庭資源中心完成翻新，為病童與家屬提供更友善的醫療級親子空間。此舉旨在減輕家庭在就醫過程中的壓力，讓病童家庭獲得更溫暖的支持。",
    "takeaway": "家長在陪同孩子就醫時，可多加利用醫院提供的友善資源與空間，緩解就醫壓力。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "健康醫療網"
+   ]
   },
   {
    "date": "2026-11-17",
@@ -13045,9 +13047,10 @@
    "topic": "學習方法",
    "summary": "福德國小學童連續三年前往裡山塾進行戶外教學，透過親自下田體驗農耕過程。學生們在活動中化身蔬食小廚神，實踐從產地到餐桌的食農教育。",
    "takeaway": "鼓勵孩子參與戶外農事體驗，能讓他們更深刻理解食物來源與環境永續的重要性。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "蕃新聞"
+    "蕃新聞",
+    "Yahoo新聞"
    ]
   },
   {
@@ -13137,8 +13140,10 @@
    "topic": "政策",
    "summary": "本報導針對六都市長在幼托等競選政見的執行成效進行四年後的檢視與評估。",
    "takeaway": "家長可透過此檢視報告，了解居住地的幼托政策落實情形與資源現況。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "報導者"
+   ]
   },
   {
    "date": "2026-11-18",
@@ -13232,6 +13237,221 @@
    "also_from": [
     "LIFE 生活網"
    ]
+  },
+  {
+   "date": "2026-11-18",
+   "title": "出包之後，有人陪你一起走過──《雙囍》許承傑、謝沛如重寫婚禮的意義",
+   "url": "https://www.twreporter.org/a/2026-taipei-golden-horse-film-festival-double-happiness",
+   "source": "報導者",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "電影《雙囍》探討重組家庭孩子在面對父母離異與婚禮籌備時，為了討好雙方而產生的心理壓力與童年創傷。導演透過自身經驗，呈現出重組家庭孩子常需察言觀色、早熟的成長面貌。故事強調在人生重要時刻，重點不在於追求完美，而是有人能陪伴彼此共同面對挫折。",
+   "takeaway": "理解重組家庭孩子的心理負擔，並在孩子遭遇挫折時，給予接納與陪伴而非要求完美。",
+   "mentions": 2,
+   "also_from": [
+    "報導者The Reporter"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "title": "虐童零容忍 正向管教研習登場 - 中華新聞雲／中華日報",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tSzMxQVNWcDVJV19OaGJOUHo0eHM1MFh6T1hXdFR5VWdoRnI3R3gzaF9zTHlsRlB1NEhtYktVaS16Q1RrMjlkUnRSSHZLRnFIOGc?oc=5",
+   "source": "中華新聞雲／中華日報",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "為落實虐童零容忍政策，相關單位舉辦正向管教研習活動。此舉旨在推廣合適的教育方式，以保障兒童的身心健康與安全。",
+   "takeaway": "家長與老師應學習並實踐正向管教，以取代體罰或不當管教方式。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "【2027育兒趨勢】迎接「Beta 世代」全新育兒浪潮！27個母嬰趨勢大解析 - Mombaby 媽媽寶寶懷孕生活網",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GWDJUdFV1WUViVHA1emFkYnoyYUJrWll4Y3ZiTmNDa0k1N082SWI2ajQ0RlU5RHRFVzY4MzdTdDluX21UcldOSU82YnprTmN6NE9JWkln?oc=5",
+   "source": "Mombaby 媽媽寶寶懷孕生活網",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "本文探討即將到來的「Beta 世代」育兒趨勢，並整理出 27 項影響未來母嬰生活的關鍵指標。",
+   "takeaway": "家長可透過關注育兒趨勢，提前為不同成長階段的孩子規劃合適的教養資源。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "中市115學年度國際教育週登場 展現國際教育成果 - 臺中市政府全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xV0w2aTFGa3ktODBiTkhyRlpiWGhhRm9fd3VnRG5Bc2hoTzlnOFk3cVNQVF9SLWpHSEtPbmZ1anlXbXl6Ti1MWVFCbU9aV3d6R2c?oc=5",
+   "source": "臺中市政府全球資訊網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "臺中市舉辦115學年度國際教育週，旨在呈現當地學校推動國際教育的具體成果。",
+   "takeaway": "家長可關注學校的國際教育資源，鼓勵孩子參與相關交流活動以拓展視野。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "5年心血快沒了！孩子上幼兒園後拒說英文 爸「1狠招」吵翻 | 國際 | CTWANT - CTWANT",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96SFAyM3VJMHBnR0VrRV85UXNVdDE0MHROV3VGdkVhZ3ljUzl0a3VRWjBCMXlnQUNjbzJfOGY3WFdpdmVTZThaRWtUdmk3blXSAVRBVV95cUxPaU5TcVhUQkg1NW4wZ2lWQ01mbzZmWFg4M2g5YzNjcnBiWGdMRTVZbzc3UEFZRm1tdlpObFBTU2U2MVRYVUpVa0FvbkQ4ZG9PbDd4dHA?oc=5",
+   "source": "CTWANT",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "一名家長因孩子進入幼兒園後排斥說英文，採取強硬手段試圖扭轉，卻引發家庭衝突。此事件反映出幼兒在語言學習轉換期的適應挑戰與親子溝通困境。",
+   "takeaway": "面對孩子排斥學習時，應優先傾聽其感受，避免強硬手段造成反效果。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "青少年心理健康受關注 華心明年培訓800名急救員 - 大紀元",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fS2MxbV9TUXZEVHpwRU1nNmFhRzV2ZTV4MTQ2b1locmR1Z2NYSjgxVUF1NmRVeGxkX29QS2lqSW90b1IxTVpFUS1HMGpubU8yV09oaTg0TXhIbC1RMmEyR2pUTnZWYTTSAWdBVV95cUxPX0tjMW1fU1F2RFR6cEVNZzZhYUc1dmU1eDE0Nm9ZaHJkdWdjWEo4MVVBdTZkVXhsZF9vUEtpaklvdG9SMU1aRVEtRzBqbm1PMldPaGk4NE14SGwtUTJhMkdqVE52VmE0?oc=5",
+   "source": "大紀元",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "華心計畫於明年培訓八百名心理健康急救員，以提升對青少年心理健康的關注與支援。",
+   "takeaway": "家長與老師可留意相關培訓資源，學習如何及時辨識並協助心理困擾的青少年。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "以愛為初心、以倫理為承諾！新生醫專幼兒保育科實習生宣誓守護幼兒成長 - 桃園電子報",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHckdJcXo2ekswSk1kYVY0ZVpnQ1FvSVV3clhGYjI3RDRidXlONlVGSW85b0U1bzQ2WTV4WVpHOVBSYml4amQ3a1c0clY?oc=5",
+   "source": "桃園電子報",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "其他",
+   "summary": "新生醫專幼兒保育科的實習生透過宣誓儀式，展現守護幼兒成長的決心與專業倫理。此舉強調了幼教從業人員對孩子身心發展的責任感。",
+   "takeaway": "家長可留意幼教人員的專業素養與倫理態度，確保孩子在受教過程中獲得妥善照顧。",
+   "mentions": 2,
+   "also_from": [
+    "LIFE 生活網"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "title": "台大兒醫結合繪本與疾病資訊 降低病童就醫焦慮|藝文臺灣 - 僑新聞",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wLUZ5VENqNGdmMTRsbjdSbzJIa05acDRPX1plT2JLcVdsTnZ3cTY5OEZKS2xja19vVkJiTDJzNWs5YWI5N3BBXzF0QQ?oc=5",
+   "source": "僑新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "台大兒童醫院透過結合繪本與醫療資訊，協助病童緩解就醫時的焦慮情緒。",
+   "takeaway": "家長可利用繪本引導孩子認識醫療過程，降低孩子對看診的恐懼。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "一堂最美的生命教育課！成功國小「零錢一日捐」讓愛從校園延伸蘭嶼 孩子用行動完成善的循環 - 台灣新聞雲報",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1uUndJclE5cmdaTWVZaWhQeW9SS2ZsVDBwYWNsQjRabXplZXJMWmcyRWdDNTA2S1NBWVpqYnNXdFdNWlVJMGc?oc=5",
+   "source": "台灣新聞雲報",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "成功國小透過「零錢一日捐」活動，帶領學生參與公益行動。這堂生命教育課讓孩子將愛心從校園擴展至蘭嶼，實踐善的循環。",
+   "takeaway": "鼓勵孩子參與公益活動，從實作中培養同理心與社會責任感。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "自殺躍青少年第二大死因 救心！全台啟動「心理急救課程」 - 匯流新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1hSDExS0dEeFhqUUtqMXpEWFJxWk02YktQeXRURDItMm1DSVk2QUlGRms5M2pRbUxvY2JGdmJoejA5MDJLS1JWVUdn?oc=5",
+   "source": "匯流新聞網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "針對青少年自殺率上升的現象，相關單位已推動心理急救課程以提供必要協助。此舉旨在提升對青少年心理健康的關注，並建立更完善的預防機制。",
+   "takeaway": "家長與老師應多留意青少年的情緒變化，並主動學習心理急救知識以提供支持。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "3-6歲 野餐推薦 - 親子天下Shopping",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQXpGV3NFSGUxQ19RMjNiUGhDcm5JTDRjcmdkLVREYURObWQzZjl6NGREVHhEZklpdEFsSGxUN1Ftd0Y5NW9hdHh1djZHbVh0em9uTDEtdVhxcFdnbDZla2xDTWFDMkZOZmpXcFhleWhmZFhFNFEySWItdVliWXRCa014a2Jpb3RTbmlmRVFnaXh2cnJX?oc=5",
+   "source": "親子天下Shopping",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "其他",
+   "summary": "本資訊提供適合 3 至 6 歲幼兒進行野餐活動的相關推薦。",
+   "takeaway": "家長可參考相關推薦，規劃適合幼兒的戶外野餐活動。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "南大幼教曾沛筠獲教育實習學生楷模獎、考取教師 展現卓越實力 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1TzI1Uk5KMlUwYUZ6Rk5STTk4ZEgwaHNOb0p6VlpXQjNzYV9UZEpKRjNUYmgwLVltcHQ1MzZJMkZueXhJbmJYVGMtTlFPb25LRnc?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "其他",
+   "summary": "國立臺南大學幼兒教育學系學生曾沛筠，因表現優異獲頒教育實習學生楷模獎，並順利考取教師資格。",
+   "takeaway": "可關注幼教專業人才的培育歷程，作為未來幼兒教育品質的參考指標。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "讓好書多走一段路！信義房屋「社區一家」攜手台灣展臂閱讀協會募集童書 - 台灣好報",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rZlVSNGl4MmdPNWhCcUQ3X1Y1NW5xdmJBYjNoWUNfQXV3NWNId0Vac1dieVBEVzlYTkxsODk5WFNVQzRtLU9QT0RCeHA1eFVzcEJz?oc=5",
+   "source": "台灣好報",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "信義房屋與台灣展臂閱讀協會合作，發起童書募集活動以推廣閱讀資源。此計畫旨在透過社區力量，讓更多優質書籍能傳遞給需要的孩子。",
+   "takeaway": "家長可留意社區閱讀資源募集資訊，透過捐贈或參與活動培養孩子的閱讀習慣。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-18",
+   "title": "中市公私立國小家長會長授證表揚 攜手再創優質教育新高度 - 墨新聞-MORE News",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1jcnNDMW9tSEQtSGJpWnFsd2pVWTJoc29yWk8tcFBSQThTMmI4LVU0MGtrdFZoNGY2aldKRXdibEZyUQ?oc=5",
+   "source": "墨新聞-MORE News",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "政策",
+   "summary": "台中市舉辦公私立國小家長會長授證表揚活動，藉此肯定家長會長對教育事務的投入與貢獻，並期許透過親師合作共同提升教育品質。",
+   "takeaway": "家長可透過參與家長會，與學校建立良好溝通管道，共同為孩子營造優質學習環境。",
+   "mentions": 1,
+   "also_from": []
   }
  ],
  "rejected": [
@@ -14178,6 +14398,11 @@
   {
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YVlNpbWFtZGxYRzBpX2pkZWlaNy0xWDFYZm1LMUF0cjRBVlF1UDZ4QWFwQzF5Qmw0QmtkYTNCSURMVGpDWWlfeUF0TFhRT1ZxR0w2X3J5V0RZeU9mQmVhQ1JTVm0wU1E?oc=5",
    "title": "她是移工，她也想上大學！印尼空中大學Universitas Terbuka為百萬印尼人圓夢｜鄭安君／特約作者",
+   "date": "2026-11-18"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40bzVOWkxtVXJfMHd1M0daWTM1QlNzOUFsQzNyYzdPb2V4V2cyb3NSZlc5azM1MW44SmxjQ3pfRnVBM3dFS2RYVExWcGNMMU52aGs3MXJtR0dsSXBOOHR5VnRTN1J5V2dNRU1lQkNVZEVVWlZKYkZGeVBKc24?oc=5",
+   "title": "【金馬63】新新相印",
    "date": "2026-11-18"
   }
  ]
