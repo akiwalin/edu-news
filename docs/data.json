@@ -12770,9 +12770,10 @@
    "topic": "其他",
    "summary": "臺大醫院家庭資源中心完成翻新，為病童與家屬提供更友善的醫療級親子空間。此舉旨在減輕家庭在就醫過程中的壓力，讓病童家庭獲得更溫暖的支持。",
    "takeaway": "家長在陪同孩子就醫時，可多加利用醫院提供的友善資源與空間，緩解就醫壓力。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "健康醫療網"
+    "健康醫療網",
+    "民生電子報"
    ]
   },
   {
@@ -12787,10 +12788,11 @@
    "topic": "政策",
    "summary": "嘉義市多所國中小學在教育部教案評選中表現優異，共有11件作品獲獎。其中民生國中、嘉義國中、博愛國小及嘉北國小等校的教案更榮獲特優肯定。",
    "takeaway": "家長可關注學校推動的創新教學，了解孩子在校接觸的多元學習內容。",
-   "mentions": 3,
+   "mentions": 4,
    "also_from": [
     "睿傳媒 Rightmedia",
-    "Yahoo新聞"
+    "Yahoo新聞",
+    "台灣好報"
    ]
   },
   {
@@ -12971,8 +12973,10 @@
    "topic": "學習方法",
    "summary": "福德國小透過戶外教育課程，引導學生走出教室，利用五感體驗自然環境。藉由觀察葉子等自然元素，讓孩子在實地探索中認識土地。",
    "takeaway": "鼓勵孩子多參與戶外探索，透過感官體驗深化對環境的觀察與學習。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "彰化人彰化事新聞"
+   ]
   },
   {
    "date": "2026-11-18",
@@ -13450,6 +13454,178 @@
    "topic": "政策",
    "summary": "台中市舉辦公私立國小家長會長授證表揚活動，藉此肯定家長會長對教育事務的投入與貢獻，並期許透過親師合作共同提升教育品質。",
    "takeaway": "家長可透過參與家長會，與學校建立良好溝通管道，共同為孩子營造優質學習環境。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-19",
+   "title": "苗栗福星國小教保中心辦親子共讀 12月5日《健忘的汪達奶奶》 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wd0lrbk16RnVIeW4tWTZ0VW9BclNEdkg5cUxnenh0NXFFQ3RWcGQ2bDE0bjN0UlZPTGlzbVZpbEwtaDVpSC1YSDFvRGRWUk52Q0E?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "3-6",
+    "6-12"
+   ],
+   "topic": "教養",
+   "summary": "苗栗福星國小教保中心將於12月5日舉辦親子共讀活動，選讀繪本《健忘的汪達奶奶》。",
+   "takeaway": "家長可透過參與校園舉辦的親子共讀活動，增進親子互動並培養孩子的閱讀習慣。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-19",
+   "title": "朱敬一：AI輔助教養的邊界在哪裡？ - 工商時報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xUUVrQWdGMHltNWlPeHZIa1l2cVpMZGtEb3JoNTBJbTFoR1BMbVJwNDRHcUV3dTJwR25ManJVUk1tUHJwV193d2tpT3dIeHJ4MnZja3FuNTM4QkRKQ1BJ?oc=5",
+   "source": "工商時報",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "本文探討在人工智慧技術普及的時代，家長與教育者在運用AI輔助教養時應有的界線與思考。文章旨在引導成人反思科技介入孩子成長過程的適當性。",
+   "takeaway": "家長應思考AI在教育中的角色，並為孩子建立適當的科技使用界線。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-19",
+   "title": "3招居家感統遊戲！天冷下雨在家也能輕鬆放電 - 天才領袖",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12RlBmSXpYVjE4bnNxbDJwQnNjRXVhZ0pBR0pqQ1NDRExuVm1ZWXBRTmJ3UVI5V0otV2pXcjhFbXdnS1NWdF92b0JMRnFaR3JEZGJ2SVJQaWZTYkE?oc=5",
+   "source": "天才領袖",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12"
+   ],
+   "topic": "教養",
+   "summary": "這篇文章介紹了三種適合在室內進行的感覺統合遊戲，讓孩子在天氣不佳時也能在家中消耗體力。透過這些活動，家長可以協助孩子在家中進行有效的感統訓練。",
+   "takeaway": "利用居家感統遊戲，幫助孩子在室內也能維持活動量與感官發展。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-19",
+   "title": "開學了！這學期狂放5波連假 115學年行事曆出爐：放假、重要考試一次看 - 三立新聞網SETN.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fdXRaMEQ5bGN2b01SLUlUdm1FeHd1TTF2bkpYcFFDcjRDbGhTc0UzQUFuRm1KSlNqMUFHVW9fOU1LTGJLc3FfdNIBTEFVX3lxTE1KS1RXS25leTc4QjY0MGJBVE9OMjR6S2p0UXFoS0RUV04wa191MVBRLTloU2hYQUxtbkJRU05Zd2ViYllhY20zUnQ1RU8?oc=5",
+   "source": "三立新聞網SETN.com",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部已公布115學年度的行事曆，明確列出學期的連續假期與重要考試時程。家長與師生可透過此資訊，提前掌握學期規劃與安排相關活動。",
+   "takeaway": "建議家長與老師提前參考行事曆，協助孩子規劃學習進度與假期安排。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-19",
+   "title": "青少年自殺成第2大死因 心理急救課明年上路助家長辨警訊 - ETtoday健康雲",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QQ09heE5ETGVzWnFDSnFhMnpnSGwyVEFvLV9DY3ZMQnI2eVdoOWcwdGtzNW1uSXRxdzBEMkkwSk1VdUJrdm9weUNxWlI3RE510gFPQVVfeXFMUDlHRFRwbFRldXcwZGQ1SGUwSXJNZGQwZUtIc2pEZy1FMHFUbmxlOTRDVnFTNGcwS0hRX3diRTA1Y1pscUQ2VEVpZlFVbm5xbw?oc=5",
+   "source": "ETtoday健康雲",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "青少年自殺已成為該年齡層的第二大死因。政府預計於明年推動心理急救課程，協助家長及早辨識孩子的心理警訊。",
+   "takeaway": "家長應多留意青少年的情緒變化，並可關注後續推出的心理急救課程資訊。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-19",
+   "title": "獨家｜高中職「優質化方案」延宕 教育部：可申請展延、簡化執行 - 知新聞",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oMDI0UWZPbl9yYUE0aGVlZ1pmYnFaRmN1c2N4dzZOaVRZMVVvOUFJX1BUSjMzZlFva0Jjb2YydHE0bWtXcVBnemFhUlBnaHlxS1JBQ3lNQnZZRG5TVVNaZ05UX0dxdkRRWTR2eDFQZw?oc=5",
+   "source": "知新聞",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部針對高中職優質化方案執行進度延宕的情況，宣布學校可申請展延並簡化相關執行程序。",
+   "takeaway": "高中職校方應留意教育部簡化後的申請流程，確保計畫執行順利。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-19",
+   "title": "【投書】從要老師「不能適應就離職」的嘲諷，正視教育崩壞的危機｜ 許廷愷 ／ 多元發聲．讀者投書 - 獨立評論@天下",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkRmtKaV9HX055d1RNYjZIX2dxME55dUpTSmExZzhJS3BRSkRVN1Vzd3FUZTVXbjJDcVRaYkhRX0R3OEhrRkgyWFl2MlNJVDh4UXFMZThxeHJ3OTFzNDB2OHRSX285QQ?oc=5",
+   "source": "獨立評論@天下",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "本文探討教育現場面臨的困境，指出社會對教師的負面言論與嘲諷，反映出教育體系正陷入崩壞危機。作者呼籲大眾應正視這些結構性問題，而非僅以個人適應力作為評斷標準。",
+   "takeaway": "家長與社會應給予教師更多尊重與支持，共同改善教育環境。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-19",
+   "title": "GTA6即將上市，孩子吵著要玩該答應嗎？心理專家：暴力遊戲不一定讓孩子變暴力，但這些風險家長不能忽略 - Mombaby 媽媽寶寶懷孕生活網",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02dWJWOVZ0NVZiamkwV1pJTm9tNVJTNnBSZUZkV2RJbS1HWDdBc1E4Q1Zzck1jNEkybDZXRTBnRGJLWkRNU0FHSElYWFF2NERGUnRqbzhB?oc=5",
+   "source": "Mombaby 媽媽寶寶懷孕生活網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "面對孩子對暴力遊戲的渴望，家長應審慎評估其潛在風險。專家提醒，雖然遊戲不直接等同於暴力行為，但仍需關注其對孩子身心發展的影響。",
+   "takeaway": "家長應主動了解遊戲內容，並評估孩子是否具備足夠的判斷力與自制力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-19",
+   "title": "「你不必完美，只要穩定出現」，哈佛兒童發展研究給疲憊父母的信 - Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNa0dGekIzelIzMXB3dkVGWkF4LVR1cXBWOUNMWXZCSDQ3aDBMdEc1WWZEWFlKWE5wdi1UNVhrdUF0Sno0a05TWDkxc3k2b2owaVJLU0FKUUlZamNPYktvY1JTSTZBYjhDZ0hHQzNTeGtTTGwxbVBVbU94R3Y4NFBmSmdDOUlKVXU4TXpEdXEzTVJwUjJ1QXN0NmtQeDQ4Q09UY1I0cDVyQUliNlFFMTdTeW45cW9RWkMtSTFmcEtiSmtwWndoRlZQYnBhQncwWU42dXYtcVVvSmxhZmZNQmZOaDJVelRNbUtFRzJlZlZlenZOQVJJMUt5bHZCSWRrTmpMaWR2NU1YMDFLNkN2d2FjR1Y5TkN4YkI3a3pkbEJOSHN5SXVkcndqX1N5RlF6aHV5TDQwREYtZGNaeXlsa1pibGU5OGVIVHAtT2htRkh1b3p0Nm5aSU03TDdfTlBMZDUtLXFRS05uV0dIOURsZ0hza3hndXJLOTF0TEtaLTB6YUZXNnBFOXZEeWVQaWNFdw?oc=5",
+   "source": "Yahoo新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "這篇文章探討哈佛兒童發展研究的觀點，強調父母不需要追求完美，只要能穩定地陪伴孩子即可。穩定的情感支持對孩子的成長至關重要。",
+   "takeaway": "放下完美主義，將心力放在穩定且持續的陪伴上。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-19",
+   "title": "不只認識地名！南投170位教師走訪13鄉鎮市 把百年風土民情寫進課本 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IV3pnUlM3b3FBU0xXQjNQVTRjZUhaTVM5dUVkeFROcUNfU1piXzZwUllLdW1rSkh4VFhmOGRsLTJpVUd6QlR2QTJXQkx0eTNPZEVYdF9B0gFWQVVfeXFMUFBSR0hmdGZCS1RJUGdYRUF3WEw4Z19rTU5lSzljTW5pVUtaYUtSQkVVMUxBLWVWa1JSWDRxUDc4dFFsUlU1TVhOV1lJQkdqTXhzOURTQ0E?oc=5",
+   "source": "UDN",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "南投縣集結170位教師深入在地13鄉鎮市，將豐富的百年風土民情轉化為教學素材。此舉旨在讓課本內容與在地文化連結，提升學生的學習深度。",
+   "takeaway": "教師可參考此模式，將在地文化融入課程，引導學生深入認識家鄉。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-19",
+   "title": "品格教育 書推薦 - 親子天下Shopping",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd18wYjlKMFZzT2RSaTVSQkpEUHNKZWhpNjZhRmc5M0N3TkhGRVg4SjRwbHhWQlBmYXJnUl9aTVJYVC1wdlJ0OHhYcFV4MW81QUlRNEtYR2tpNlNaZnZ2Zno5YzJMOU5aQmoycGo2VGxCd0RwaG1ZMlI4Y1dEYS1vcm54a1U3em5Id2tWSVZSVGtVSi1OX2hvaWQ5dWdNU0FiaEpOU1hWdGVRaGVDMHBSWWd1dXlTZDVi?oc=5",
+   "source": "親子天下Shopping",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "本資訊提供適合用於品格教育的書籍推薦清單。",
+   "takeaway": "家長可參考推薦書單，透過親子共讀引導孩子建立良好品格。",
    "mentions": 1,
    "also_from": []
   }
@@ -14404,6 +14580,26 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40bzVOWkxtVXJfMHd1M0daWTM1QlNzOUFsQzNyYzdPb2V4V2cyb3NSZlc5azM1MW44SmxjQ3pfRnVBM3dFS2RYVExWcGNMMU52aGs3MXJtR0dsSXBOOHR5VnRTN1J5V2dNRU1lQkNVZEVVWlZKYkZGeVBKc24?oc=5",
    "title": "【金馬63】新新相印",
    "date": "2026-11-18"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pd191S0Yxc0xzeG94MnB2bjhuQTZodXpQcFRDSFRwZHgxOXUyOHVqbDVpUUlxem92UW0tOHVSSTVXaFZLcUpVMlBzN2dnRHNLdWc?oc=5",
+   "title": "走出城市邊界 從青年對話到產業創新，一場拓展視野的跨域交流",
+   "date": "2026-11-19"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxZjA5ZUJOSFVXZkduQWtHV1BTMTRadXFnaTJGY1BMSElnSzNfdGxxRnNUa2k4NEM0eGEzYWk5YzdkU1c0SE1zNU84Wll5VGs20gFWQVVfeXFMTWVSdmpGX0lqc0RsSWFmWTRZZlA4TG55bU1OTWRxbTE2c2drd2o2UzNxWlprbTlEMkYwS3h4eHVkRTBpenlFVFppVURKSF9lQ1ZyN3B5aXc?oc=5",
+   "title": "4生肖子女運旺！孩子懂事又上進 父母不用事事操心",
+   "date": "2026-11-19"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iSm84S3Y1Y3RhWjFtdFRTMTliVDVFN3dmQUJYNmZJdkI5YkVON0Y1ZWFSZ3o1c3lWX1NqbkRCbFJkbHBHVW9PVlN4ZzBkM2xqS0pnb0hCZnN2bnJpbTFWR0VVejgwQU3SAWdBVV95cUxNYkpvOEt2NWN0YVoxbXRUUzE5YlQ1RTd3ZkFCWDZmSXZCOWJFTjdGNWVhUmd6NXN5Vl9Tam5EQmxSZGxwR1VvT1ZTeGcwZDNsaktKZ29IQmZzdm5yaW0xVkdFVXo4MEFN?oc=5",
+   "title": "自由開講》沈伯洋把台北市長選戰 變成公民教育現場",
+   "date": "2026-11-19"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96VHVNQlA0dHZucUZNcnhXeWdHeXZoNU04QzNIZkloRURQYld5Q0M5czJTblNXQmVHMk5TMF9pWXFKQWpXSlhjY01nUkhmaC1vb1E?oc=5",
+   "title": "國合會「瓜地馬拉實習」全開箱：台灣邦交國，原來跟我想的不一樣",
+   "date": "2026-11-19"
   }
  ]
 }
