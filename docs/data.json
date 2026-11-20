@@ -13809,8 +13809,10 @@
    "topic": "政策",
    "summary": "臺中市政府近年積極推動校園建設，八年內已完成近五十座禮堂的興建工程。透過完善校園硬體設施，致力於為學生打造更優質的學習與活動環境。",
    "takeaway": "家長可留意學校硬體設施更新，並鼓勵孩子多利用校內空間參與多元活動。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "風傳媒"
+   ]
   },
   {
    "date": "2026-11-19",
@@ -13898,8 +13900,10 @@
    "topic": "政策",
    "summary": "台灣學前教育產業工會正式成立，旨在爭取幼兒園教師應有的備課時間。工會同時呼籲政府應補足融合教育所需的人力資源，以提升教學品質。",
    "takeaway": "家長可關注幼教政策對教學現場的影響，並支持提升幼教品質的相關倡議。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "經濟日報"
+   ]
   },
   {
    "date": "2026-11-20",
@@ -13994,6 +13998,187 @@
    "topic": "政策",
    "summary": "台灣學前教育產業工會於世界兒童日正式成立，旨在爭取教保人員的合理工時與勞動權益。",
    "takeaway": "關注教保人員勞動條件，這將直接影響幼兒教育品質與照顧穩定度。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-20",
+   "title": "台商西進潮落幕後，看見留下來的人如何生活：專訪《迴山》林佑恩、莊淳淨，如何在家庭裂痕裡練習靠近",
+   "url": "https://www.twreporter.org/a/podcast-2026-11-20",
+   "source": "報導者",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "紀錄片導演林佑恩透過鏡頭，記錄下自己成長過程中因父親西進而破碎的家庭關係。這部作品探討了離異家庭孩子在面對母親高壓期待與父親缺席時，如何經歷漫長的心理修復與重新連結。透過拍攝過程，一家人嘗試面對過往傷痕，學習重新定義彼此的關係。",
+   "takeaway": "家長應留意高壓期待對孩子的影響，並學習在家庭變故中與孩子坦誠溝通，修復情感連結。",
+   "mentions": 2,
+   "also_from": [
+    "報導者The Reporter"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "title": "孩子想玩《GTA 6》 兒童心理學家表示禁止前應先進行這段對話 - Business Insider Taiwan",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MSWVhVm5vQUlkR3VURjFVTUtaRGhEWjZKWW1IbzFhckN6SEl5ek1YZ1cxRG5sTHotbGl1UnpMT0VfVmIweUhYU1hlYW8tanlKXzVFUzRjRQ?oc=5",
+   "source": "Business Insider Taiwan",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "面對孩子想遊玩成人級遊戲的需求，兒童心理學家建議家長在做出禁止決定前，應先與孩子進行深入的溝通與對話。",
+   "takeaway": "面對爭議性遊戲，應先了解孩子動機並進行理性溝通，而非直接禁止。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-20",
+   "title": "大臺中診所協會連續9年守護家扶慢飛兒健康 - PeoPo 公民新聞",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3aEJRZmlIUFNhX3M5bGNFb3N3TnZRYTJxaFJwX3p1VExVTGdiRlF6Wld2WndOTUZKX1hHTkNER09XcGJvbUttYw?oc=5",
+   "source": "PeoPo 公民新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "大臺中診所協會長期投入公益，連續九年為家扶中心的慢飛兒提供健康守護服務。",
+   "takeaway": "家長與老師可關注在地醫療資源，適時為有需求的孩童尋求專業協助。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-20",
+   "title": "中市8年投入逾92億設10所新校！南興國小迎首次校慶 教育局長親到場祝賀 - 臺中市政府全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSejVyOGVraUViR19kOENPVXIydmIxQVVxM0llV3VVekdhckRfUWtMcEhuNGo0NVV5R1lvRWVOb1R3OWdEY2I5S2tIQ3VIOUpJRmc?oc=5",
+   "source": "臺中市政府全球資訊網",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "政策",
+   "summary": "台中市政府近年積極投入資源增設新學校，以完善教育基礎建設。南興國小作為新設學校之一，近期舉辦了創校後的首次校慶活動。",
+   "takeaway": "家長可關注居住區域的教育資源配置與新設校發展，以了解學區規劃。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-20",
+   "title": "當「快節奏」遇上「慢步調」：從幼兒園搭班看大人合作學，如何與不同夥伴磨出默契？｜賴汶渝／讀者投書｜換日線 - 換日線 Crossing",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RNUVBeXlKTnJDWE9QdmM3dWxOdmYwcUxjSWpZVWhJekNicV9FQTJXeXRaR1dCRHdYOUw2djVhOHlYcDZ6RE5fNFN6c2FveWFuRUE?oc=5",
+   "source": "換日線 Crossing",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "本文探討幼兒園教師在搭班合作時，如何調適彼此不同的教學節奏與步調。透過不同風格的磨合，展現大人在教育現場的合作智慧。",
+   "takeaway": "家長與老師可透過觀察教師間的合作模式，理解教育現場如何透過溝通建立教學默契。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-20",
+   "title": "狂賀！基隆雙銀入袋 八斗國小、成長幼兒園教學卓越獎發光 - 墨新聞-MORE News",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBtUkozSGhRRGZPMkxnbTRfSENlWXZMZWJQY2JPMFg4am00NDhvZ1RTb3gtMDdvOWxrbjJ2VzdNbHE3QQ?oc=5",
+   "source": "墨新聞-MORE News",
+   "ages": [
+    "3-6",
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "基隆市八斗國小與成長幼兒園在教學卓越獎中榮獲佳績，展現優質的教學成果。",
+   "takeaway": "家長可關注獲獎學校的教學特色，作為選擇幼兒園或小學的參考指標。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-20",
+   "title": "「便溺」不是念ㄋㄧˋ？國文老師揭正解 一票人驚：長知識了 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBdGdUVzFEb3NBMDlPYWFRYVM2WThSYnE4V1Nsc1pnYkZwZVQ4T0gtei0zUy1RanBaeDJaRmNRd19EMlp5Z2k2TTZ1Vi12NlZzaDNaWnpB0gFWQVVfeXFMUEF0Z1RXMURvc0EwOU9hYVFhUzZZOFJicThXU2xzWmdiRnBlVDhPSC16LTNTLVFqcFp4MlpGY1F3X0QyWnlnaTZNNnVWLXY2VnNoM1paekE?oc=5",
+   "source": "UDN",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "國文老師針對「便溺」一詞的正確讀音進行說明，釐清大眾常見的發音誤區。",
+   "takeaway": "家長與老師可藉此機會引導孩子查閱字典，培養正確的字音認知習慣。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-20",
+   "title": "英國明年禁未滿16歲用社群 威爾斯啟動十萬人心理追蹤研究 - LIFE 生活網",
+   "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNU1BKcTdteUlGZFZnamJOQ0YzazFSbmtIbzV0dzlCb3FyYVRPbzNNRDI1amRaVUh2QzNNTndwLWg1ZElqTHBGYXNqMm9KSDRsRVJOT0QtV1ZPRlQ5cEdVWkRZdEJmdlNJUE9GbHBpZ3pjMndtcTFaZDZFREJXNXk1SzEybE1hREtSakZHOWN3T180YWZlWGl4RksxZ3pURGc5NU41UnpSdTgzajNidVR3MkZuNU4xNkxweXV0cUE2OWFDMXpPWUJHWjNmV3dleHAtODNhdk5jZWRmMUNpck5nT2g5Wk9nV2sxcVFETzUtaFliT3NVSGtOcVVhT2ljVmVId1lldFlIR211b0g2emE0RUE3YWJwOXNaRWZ3b2t0czZLcnRGX1VZM1Uwb3lsMHNsbmVKZnFJanowbHhfbWk3NEl3YVhYdlhnei05MnFWQm0xUnNxek95WXFjRThLaUp4OHNSRl9UZnFUY0dvakdVcWpyLVF1Zjg?oc=5",
+   "source": "LIFE 生活網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "英國計畫禁止未滿16歲青少年使用社群媒體，威爾斯地區同時展開大規模的心理健康追蹤研究。此舉旨在探討數位環境對青少年身心發展的影響。",
+   "takeaway": "家長應密切關注社群媒體對青少年的心理影響，並留意相關政策變動。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-20",
+   "title": "中市大里國小慶祝112周年校慶 市府獻上價值1億新禮堂 - 經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fdlRXM2xYcl9xbGd2SDRRMjRMcVVqU3hCSUlULV9RTnF2ZS1femlVZU1GVG5QNHUzcEhVWFZ4M2dxNUVuMVItaUhxM3dKWEp4WE9GWFVFaWFnWFc3RFJZ0gFfQVVfeXFMTl92VFczbFhyX3FsZ3ZINFEyNExxVWpTeEJJSVQtX1FOcXZlLV96aVVlTUZUblA0dTNwSFVYVngzZ3E1RW4xUi1pSHEzd0pYSnhYT0ZYVUVpYWdYVzdEUlk?oc=5",
+   "source": "經濟日報",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "台中市大里國小歡慶112週年校慶，市府特別贈送價值一億元的新禮堂作為賀禮。",
+   "takeaway": "家長可留意學校硬體設施更新，了解校園環境改善對孩子學習活動的影響。",
+   "mentions": 2,
+   "also_from": [
+    "UDN"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "title": "茄芷袋裝滿歡笑 苗栗幼兒田間拔蘿蔔學惜食 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OZGhEeHJPYnRWUU9oWUxiZnVUVWJMNjBzZEVEa01Hd1dmeDBPM254RGl1RWJ5eXhCS1J1aFdDVEFHbm1Fa0o3TDlKR2I0VFQtTE5fNzVGTDJkVFJuTDhiRk11akfSAWpBVV95cUxPWDFzdzEtMThBajVuS0JsS2tRaGtMNHhzMGNKR2hwOHVkeFF1NlY0R3ZuSzEwYWhlZ2VUcExGOHpua0k2UkN2dWVTUkctSmVEWU4zdTRXS2lWWmtzQW5CWVRrOXZfOHdBMkt3?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "學習方法",
+   "summary": "苗栗幼兒園透過帶領孩子前往田間拔蘿蔔的戶外教學，讓幼兒親身體驗農作過程。藉由實際參與採收，引導孩子認識食物來源並培養珍惜食物的觀念。",
+   "takeaway": "透過親近土地的實作體驗，能有效幫助幼兒建立惜食觀念與生活素養。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-20",
+   "title": "教學卓越獎傳捷報！桃園打造優質學習環境 勇奪3金1銀 | 桃園電子報 - LINE TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaTmhzSVZSTkFNSzUtbk1tcnVOdFljM29RVDJUYThaR012RHRjek9BQ1h4allTVzY2YmM5M2tCRGN6ZXlTV3FpclVLTGhOVG1VM1FlOEdn?oc=5",
+   "source": "LINE TODAY",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "桃園市在教學卓越獎中表現優異，獲得三金一銀的佳績。此獎項肯定了桃園在提升教學品質與營造優質學習環境上的努力。",
+   "takeaway": "家長可關注獲獎學校的教學特色，作為選擇學校或了解教育趨勢的參考。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-20",
+   "title": "[Gia đình mang họ của mẹ] Huỳnh Quang Thanh và Thẩm Quang Sán, anh em ruột: một người mang họ của bố, người kia mang họ của mẹ, vì vậy không ai trong gia đình bị \"lẻ loi\". - 少年報導者The Reporter for Kids",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lTjhpajVTNWpGOWhVeWdZZjRnemNuYWlSYVpUQ19wcHFwM3g4Uk5zbExuR2xqTXJGSnMxbXhKREdYbkJGdXVfT0F2QWcwdHRlUnd1YXZvamlKN01Nc2cxVjgxMS1KSmFGVkxBTHBORmt4djl1LTVKcldB?oc=5",
+   "source": "少年報導者The Reporter for Kids",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "本文探討家庭中子女分別從父姓與母姓的現象，透過兄弟間不同姓氏的案例，呈現多元的家庭命名觀點。",
+   "takeaway": "鼓勵家長與孩子討論姓氏背後的文化意義，尊重多元的家庭組成方式。",
    "mentions": 1,
    "also_from": []
   }
@@ -14997,6 +15182,21 @@
   {
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY0xoZUU3aU1MYWozUU9pUnhEdms3aW9MbHNVVWpaZUVlMDhYQ0pIRlNRRmU1QzBjdlBlRWFFSk9WMVI1bUNTWjc5N3MtNVFUckZDck5aQ3VIVmJ4Vm1BSGh5ZjRKTDg2dGc1eXh6d2lsMS14Z0tXNWstdW9SWU1razFiamEyMXprUTlRMDdPNF9PZzFjMXJ2cmV6SXZYNEtPQnc?oc=5",
    "title": "《女孩》、《雙囍》領銜下，台灣新電影的餘熱與火傳",
+   "date": "2026-11-20"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BYWRwV2pUZTVlcFZ2WDNrdjBDU0MtRHpYTkJYUTRObWhManFvVDRBTm9zcFhMcXU5S1F2bVJmbDJ6YUN5b3NMV1NsYUoxUG9IZ1E?oc=5",
+   "title": "「畢業第一年，放手做熱愛的事！」從政大生靠 LINE 社群起家，看學生創業的最新生存法則",
+   "date": "2026-11-20"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5YmJIazRfbkFQNlRrTE54VWVCNWJUMUZ4Mlh6OTE4RVFxWGROMXZWRFVqU29hY3hvYkFJZlRLT1RlVFJkNFhtU2c2ZHUzV016MzhBRW5EZldnM014QWRxcWNkcjd3Qzg?oc=5",
+   "title": "時論廣場》教育部長的遮羞布（段心儀）",
+   "date": "2026-11-20"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KZEVaejVaZk9PbDhyOVp6N28zLWc4VThTM21hOWxrbS1JejZVQV9IckJzRmltRUpXQVNMWUxnbHNsUkxGYXYxNGtHdlNmb28?oc=5",
+   "title": "賴汶渝／讀者投書",
    "date": "2026-11-20"
   }
  ]
