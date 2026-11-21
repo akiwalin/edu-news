@@ -13710,9 +13710,10 @@
    "topic": "心理健康",
    "summary": "當孩子遇到心事時，家長應避免直接提供建議。醫師建議採取心理健康急救五步驟，以更有效的方式陪伴孩子。",
    "takeaway": "面對孩子情緒時，先傾聽與同理，避免急於給予建議。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "健康醫療網"
+    "健康醫療網",
+    "民視新聞網"
    ]
   },
   {
@@ -13727,8 +13728,10 @@
    "topic": "政策",
    "summary": "教育部國教署推動學習扶助計畫，旨在協助學習落後的學生找回學習動力與自信。透過系統性的資源投入，確保每位孩子都能獲得適當的教育支持。",
    "takeaway": "家長與老師可主動了解學校的學習扶助資源，協助孩子補強學習缺口。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "CNMA新聞聯合網"
+   ]
   },
   {
    "date": "2026-11-19",
@@ -14273,9 +14276,11 @@
    "topic": "學習方法",
    "summary": "墾丁國小附設幼兒園將自然環境融入教學，以在地山海資源作為學習場域，榮獲教育部教學卓越金質獎肯定。",
    "takeaway": "家長可參考此模式，鼓勵孩子走出教室，透過親近大自然來啟發學習興趣。",
-   "mentions": 2,
+   "mentions": 4,
    "also_from": [
-    "台灣新聞雲報"
+    "台灣新聞雲報",
+    "Yahoo新聞",
+    "天晴報媒體"
    ]
   },
   {
@@ -14291,8 +14296,10 @@
    "topic": "學習方法",
    "summary": "新北市整合轄內15處食農教育場域，並與企業合作推出行動食農教室。透過此計畫，將農業知識與體驗活動帶入校園與社區。",
    "takeaway": "家長可留意新北市相關食農活動，帶領孩子透過實作體驗認識在地農業與食物來源。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "墨新聞-MORE News"
+   ]
   },
   {
    "date": "2026-11-21",
@@ -14368,6 +14375,209 @@
    "topic": "政策",
    "summary": "針對AI科技對教育帶來的影響，有基金會建議應禁止國小學童獨立使用通用型人工智慧工具。",
    "takeaway": "家長與老師應留意學童使用AI工具的適齡性，並加強引導與監督。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-21",
+   "title": "吃盤乾炒牛河，找到善惡背後的理解──《善男信女》楊兩全的香港浮世繪",
+   "url": "https://www.twreporter.org/a/2026-taipei-golden-horse-film-festival-we-are-born-good",
+   "source": "報導者",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "本文介紹香港導演楊兩全的創作歷程，他從國中時期受金庸小說啟發開始文字創作，並透過劇場與影像實踐講故事的熱情。其執導的電影《善男信女》探討人性善惡的複雜性，並反映出社會變動下小人物的壓抑與無力感。楊兩全強調創作應擁抱角色的不完美，避免將人物刻板化或工具化。",
+   "takeaway": "鼓勵青少年透過閱讀與劇場探索興趣，並學習以不帶批判的眼光觀察與理解他人的複雜性。",
+   "mentions": 2,
+   "also_from": [
+    "報導者The Reporter"
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "title": "花蓮縣政府推動兒少保護多元親職教育 從理解孩子出發，凝聚家庭支持力量 - 台灣新聞雲報",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1aT2pEczh2NDVpRVJ2V2xRYTdfOE1fVW4tXzFZQ0NkQkEzenJTY0VwcUZPRHAzU3pYMU1iQnA2YTg4NWYzekE?oc=5",
+   "source": "台灣新聞雲報",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "花蓮縣政府透過推動多元親職教育，協助家長深入理解孩子需求，並藉此強化家庭內部的支持系統以落實兒少保護。",
+   "takeaway": "家長可多參與親職教育課程，學習以同理心與孩子溝通，建立更緊密的親子關係。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-21",
+   "title": "市府新聞稿-臺北市大同區大龍國民小學130週年校慶運動會 - 臺北市政府全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0tBa3JPTFBpemJxRkJZNlowQ2xLamM5M3FTVUthczROeHZZXzBfX1F2Q1JiY1Fndm16cklUaWVkYjFBWUZEWUdob2FLYTBTQzFmRmIyc0pfWmFLNVZJTDlRMzQ5bUlYakdvNW1RX3JiV25GbTB0R0p5Mk4zaDQyLThKRF9fby1TMEp6THM5ZzQycXVfeF9ncFBWRDk4cDlo?oc=5",
+   "source": "臺北市政府全球資訊網",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "臺北市大同區大龍國民小學即將舉辦130週年校慶運動會。",
+   "takeaway": "家長可留意學校公告，參與校慶活動以支持孩子的校園生活。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-21",
+   "title": "記得自己、理解他人，清醒地走過時間──虞戡平的山屋、忠犬與晚年",
+   "url": "https://www.twreporter.org/a/2026-taipei-golden-horse-film-festival-yu-kan-ping",
+   "source": "報導者",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "導演虞戡平長期深入原住民部落進行文化紀錄與影像保存，並致力於培訓年輕影視人才。他透過創作關懷社會邊緣群體，展現了創作者對文化傳承與社會責任的堅持。即便面臨健康挑戰，他仍持續整理多年累積的珍貴影像素材，希望完成對部落文化變遷的紀錄。",
+   "takeaway": "鼓勵青少年學習虞導「放下自我、深入現場」的精神，培養對多元文化與社會議題的同理心。",
+   "mentions": 2,
+   "also_from": [
+    "報導者The Reporter"
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "title": "里端魯賓籲社展局採適當措施, 關注與改善丹南幼兒園基設, 確保享有優質舒適安全環境 - Overseas Chinese Daily News",
+   "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxOeFZVWVFvOFpXOTZrS1BJdGlmajAyaDNMSUtvcVRPT0ZKa0NBSnE1TWxSTmVTRXltenhhRzlGa1ltRXVsU3Rscy1uNTJxVC1pX28wRDNoQll2aXlSa2h5UmxwR3psSElFWXNuM3BLWndHZ1lJcnBOdGdwOV9TNERoWWVSSHhsMmNveWY0cVQtVS11Z0RqWGctaFFPUmJoYU9QWXFyYWFtTTMxSkRmVTBzM0duMlFjWUpJaXVZUm9jWFFXMWJUVG1yYXhQVFlEb2RpQzl1NlV1YTgwUDR2SzlqQWppTjU3dE16S0E1VGhmenE4ZUFDVzI3ZlBlUjVickx5c04yUV8yNHZGUmpyZ1Nva0hyVVducDVUMGJadWpZeWFGcEJvNzZFVVJ0aEw0dWNVWHgtMW1jMW5aNU8yMThTWFc0bGtxc0VKSzdCTWpMMHRObS1yaGJtcE9JSUZ5RGhsVTREUml0N3M2REx2dXpXNEtwYWhpQ09ST2NsV0h4OENncW0yLUtoRUFORXB0Yk5oaEowOGduNXNOME43Z2xNWFlkZDJTOGhyNkEzdjRrS09CaGVVckdoRlF2SDlPM2xucHZmQU41YWc0dnZJRWRpTlNoYmR5a0lyLUduVU5IZGluR1JxcnhMbElmMzczTzBzZ0VtQWhXNHdaUDRERnRRX3poQmNrQW5VUElwWF9YWjhFLUZxanQxV3JwQktnV1NDN1BFa2k4RQ?oc=5",
+   "source": "Overseas Chinese Daily News",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "相關官員呼籲社會發展局應重視並改善丹南地區幼兒園的基礎設施。此舉旨在確保幼兒能在安全且舒適的環境中接受優質教育。",
+   "takeaway": "家長與老師應持續關注幼兒園的硬體安全與環境品質，保障孩子學習權益。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-21",
+   "title": "孩子不專心、不合群是故意的？醫談神經多樣性 籲家長理解行為背後需求 - 鏡週刊Mirror Media",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2WGZ5YzdwS3pDbVpJVGxRZHZhWEZFTVNxSzUwRVFsZk8xcGU2NGVIZkJYRHdwa3lNbnQ0UnV6Z1BmYjcyYmF6elRpNFRhM1ZRQ05pVHVKdEhuNHgzcWNDdWdrRFBCZlHSAWdBVV95cUxQNlhmeWM3cEt6Q21aSVRsUWR2YVhGRU1TcUs1MEVRbGZPMXBlNjRlSGZCWER3cGt5TW50NFJ1emdQZmI3MmJhenpUaTRUYTNWUUNOaVR1SnRIbjR4M3FjQ3Vna0RQQmZR?oc=5",
+   "source": "鏡週刊Mirror Media",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "孩子出現不專心或不合群等行為時，可能與神經多樣性有關。家長應嘗試理解這些行為背後隱藏的真實需求，而非將其視為故意搗蛋。",
+   "takeaway": "面對孩子異常行為時，請先觀察並理解其背後需求，而非急於責備。",
+   "mentions": 2,
+   "also_from": [
+    "健康醫療網"
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "title": "聽見孩子們的需要 伊甸辦學齡前兒童聽力篩檢 - Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOdE5wbnQ4VjEtU0J4eHo3d0Z3blRRVHVVRGkxVmVMNlhKbGJoQjVOemRLZGx4VWdiYUN2QlNhUi1fR2VaRkpiSzkyb0d6VjRZclUtMlhjZ0NtbHBtMDFIanpseDBacVBPZ3MyM2tCYk1lT3V4Q1d0QVlMUHhaNld4QlNtY3BoSDE0TDlZQmh6XzBfV01xSnNaN29GRTBFbVlNQ1NsZzNXUDF3Z1RzaW9sOVRiWVU2dlFLdFBMVzg2V0sxdWpHc1ZzWE5CWTFaQkhIMlZYNmlJbDN4alpHY251V1h3Z1Iwemg4SjJ2U3BlN3VYaFhBc1FudzdBMWRkRTI3RkVLOU93SDEtZWRlZW5nZXNqSDB1TVoyZHJ4Z0Ztc1JadWIwdjBkOTJKTW1rSzRQRjIwdS04a0R1cmw3dEl5R2RxVGE?oc=5",
+   "source": "Yahoo新聞",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "其他",
+   "summary": "伊甸基金會針對學齡前兒童舉辦聽力篩檢活動，旨在及早發現並協助有聽力需求的幼兒。",
+   "takeaway": "家長應把握學齡前黃金期，主動參與聽力篩檢以確保孩子聽力發展正常。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-21",
+   "title": "學生是否靠AI完成作業 過半教師坦言很難分辨 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oUzdUM0ptMXFqaklPTUZJNDgzanFQVm14d0trQzRRTE1NSWVXRFQ0bFgzb1lqdDY3dVRleWN5UjJhZDlxeVBWWEg2Ty1UX3l1SkxCak5TdWQ0WUhYTk9wR0wyUzF0T2k5YmfSAWpBVV95cUxPaFM3VDNKbTFxampJT01GSTQ4M2pxUFZteHdLa0M0UUxNTUllV0RUNGxYM29ZanQ2N3VUZXljeVIyYWQ5cXlQVlhINk8tVF95dUpMQmpOU3VkNFlIWE5PcEdMMlMxdE9pOWJn?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "多數教師表示，難以判斷學生作業是否由人工智慧輔助完成。這顯示AI工具對現行教學評量方式帶來挑戰。",
+   "takeaway": "家長與老師應引導孩子正確使用AI，並重新思考評量學習成果的方式。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-21",
+   "title": "教育部推動國際交流 352校學生走向世界課堂 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqS1plNDFWMEdqMjM2UmIweXNBRjZIcmFEc21zWEQ5NmU1Nk91cEZIN2ZZLXhzamwtUGNoZFlzVExPT1QwMXpWX0RZMlVXdUZxM0ZqajBvS0E2cVFBTnd4cXdQMHdnNzBBTGfSAWpBVV95cUxQaktaZTQxVjBHajIzNlJiMHlzQUY2SHJhRHNtc1hEOTZlNTZPdXBGSDdmWS14c2psLVBjaGRZc1RMT09UMDF6Vl9EWTJVV3VGcTNGamowb0tBNnFRQU53eHF3UDB3ZzcwQUxn?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部積極推動國際交流計畫，目前已有 352 所學校參與，鼓勵學生透過多元管道與世界接軌。此舉旨在提升學生的國際視野與跨文化學習機會。",
+   "takeaway": "家長可留意學校是否有相關國際交流資源，鼓勵孩子參與以拓展視野。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-21",
+   "title": "《病菌入侵我能預防！》從生活好習慣開始，陪孩子學會照顧自己 - 親子天下Shopping",
+   "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQjlDNWl4bTRSV2lUcV9Td3ZBbUZuVDItOFM4Wm1DaDByTGppbC1OSUx3eXJOeElvaUVaaE03XzY0RmFybE5WSno4UFlPWTd3RHBPWUhoeF9pYjhwSkVCYnItMHd4bzEybkFXd19oMVJ1blplS1I5WjQxdUdpMmM4QlMtRjRuTFJvS0ZSeXJrSXpTdVFwQzBsZ3hFNWFSSVlFUllzNGVsS25QU2duVVl5NVFXMGdmc3l4cExzc0NMV2hwNzAxbm5qX2trU1ktdWsxY0EtMk43S05rVGQyTUJZdGlvOXI1bnRFeHBYbmV1c1pKNVhhbDctWTM5djd3WWg1V3hfcFRpUkk5elZhdlYyUEpmaGtFWVVPWTVDeHdpUzNXQ0NTTEJISER1NTc0ZG5hakdoczFPb0VCR195M0ZadlRjYjBqSmFGbkNSdlgxaEU?oc=5",
+   "source": "親子天下Shopping",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "透過建立良好的生活習慣，引導孩子學習自我照顧與預防病菌入侵。家長可藉此培養孩子正確的衛生觀念。",
+   "takeaway": "透過日常習慣養成，教導孩子落實衛生防護以照顧健康。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-21",
+   "title": "盧秀燕挺蔣萬安鮮奶政策 楊典忠：先救台中兌換率 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fM3pNWXRJWFpnYzZkZXQ2aDF0aDBYTERueWhzbHFIOXl5azdrLS1yYXpvNTZJVTl6Y2x6UFpHOEFSbGlXR2d5blJCamx2Y0VVMTYtX3lndlJySFR5TFEtd9IBZkFVX3lxTE8yR2V3UGswbmEwUEZQRnpSRlNkQWJYdGZVZ2RCVVBTZmNLWEtURzN3ZTVBQ1F1WFg4Um9oa2g1OUp3MUJvRlVvRlRwYm9pRUdRNE8xMGxnYU9VeHA4eXpEbVQtZjZ6QQ?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "政策",
+   "summary": "台中市議員針對學校鮮奶供應政策提出質疑，認為應優先改善台中市目前的鮮奶兌換率問題。",
+   "takeaway": "家長可持續關注學校鮮奶政策的執行成效與兌換便利性。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-21",
+   "title": "王子榮／《奧德賽》投射的司法難題：法律如何看見一個人的自我認同與內心傷痕？",
+   "url": "https://www.twreporter.org/a/saturday-features-legal-profession-drama-the-odyssey",
+   "source": "報導者",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "本文透過電影《奧德賽》的劇情，探討主角在戰後經歷的心理創傷與自我認同困境。文章進一步連結至司法實務，說明創傷後壓力症候群（PTSD）如何影響被害人的生活，以及在性侵害等司法案件中，PTSD診斷如何作為補強證據。同時也討論了跨性別者在法律身分認同上所面臨的挑戰與人權議題。",
+   "takeaway": "家長與老師應關注青少年的心理健康，理解創傷對個體行為與認知的深遠影響，並給予包容與支持。",
+   "mentions": 2,
+   "also_from": [
+    "報導者The Reporter"
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "title": "教育部教學卓越獎揭曉！竹市水源國小奪金、東園附幼摘銀 - 中華新聞雲／中華日報",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBReDFaM1JDTDNCSHBJT3hVNUNwSGhud1hyWWdDTmNoUFp0VWJIa0JCUV9ORDFLdGRJSG1SLXJGVDBvZ25ONHpOei1McXh0eFkySlE?oc=5",
+   "source": "中華新聞雲／中華日報",
+   "ages": [
+    "3-6",
+    "6-12"
+   ],
+   "topic": "政策",
+   "summary": "教育部公布教學卓越獎獲獎名單，新竹市水源國小與東園附幼分別獲得金質獎與銀質獎肯定。",
+   "takeaway": "家長可關注獲獎學校的教學特色，了解優質教育的發展方向。",
    "mentions": 1,
    "also_from": []
   }
@@ -15401,6 +15611,16 @@
   {
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VR3NjNlo2bjdOWjZpWHBaSTRJWnRwOG5QSENxUXotZXctM1JMeFluQWtyaWNLdmlNUGE4cGNzR1RLMUZ0VmFpZmlTTjhHRU5XdW55THczRXNoNVhjZnlzU19xSEVrdw?oc=5",
    "title": "【投書】5,000人排隊等養生村，台灣為何還沒有看見「超高齡社會紅利」？｜謝旻憲／多元發聲．讀者投書",
+   "date": "2026-11-21"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iSTllRHIwM1UtMlBEekZOWnZJRnphR280b0pqc0h5QVJVc2VDb2xKWmZ5cUlDTjhsX3d2T3UzUjF2S0t4RU04VzRRelpRVUIxZUE?oc=5",
+   "title": "破紀錄 大成國中家長會長陳松鉉率168人顧問團再度連任",
+   "date": "2026-11-21"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsM3FUaC1oOWpjVjY3X2xmeXAzVzRBUXpOOGdiTHA0V3Awb1ljWk1QdU1WNkNHX0lYYjRIYVNPZVhFODE3a0pSb2x2dThqNmFfWThDZXdLdnlpZFRkZmF3T3JfTkZDdUxNM19J?oc=5",
+   "title": "教育部長的遮羞布- 時論- 中國時報",
    "date": "2026-11-21"
   }
  ]
