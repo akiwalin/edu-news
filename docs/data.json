@@ -13862,8 +13862,10 @@
    "topic": "政策",
    "summary": "台灣學前教育產業工會正式成立，旨在推動改善幼教人員的勞動條件與制度。透過工會的運作，期望能建立更健全的幼教環境，進而提升整體教育品質。",
    "takeaway": "家長可關注幼教勞動權益改善，這有助於提升幼兒園的教學品質與穩定性。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "LINE TODAY"
+   ]
   },
   {
    "date": "2026-11-20",
@@ -13876,8 +13878,10 @@
    "topic": "其他",
    "summary": "台中市南興國小舉辦創校以來首次校慶活動，教育局長親自出席表達祝賀。",
    "takeaway": "家長可關注學校舉辦的重大慶祝活動，藉此增進親子互動與對校園生活的了解。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "Yahoo新聞"
+   ]
   },
   {
    "date": "2026-11-20",
@@ -14361,8 +14365,10 @@
    "topic": "教養",
    "summary": "台南市某幼兒園發生教師疑似虐待幼童事件，相關影像在網路上流傳。目前教育局已介入處理，並要求涉案教師立即停職接受調查。",
    "takeaway": "家長應多留意孩子在校狀況，並關注教育局後續的調查結果與幼兒園管理情形。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "Yahoo新聞"
+   ]
   },
   {
    "date": "2026-11-21",
@@ -14486,8 +14492,10 @@
    "topic": "其他",
    "summary": "伊甸基金會針對學齡前兒童舉辦聽力篩檢活動，旨在及早發現並協助有聽力需求的幼兒。",
    "takeaway": "家長應把握學齡前黃金期，主動參與聽力篩檢以確保孩子聽力發展正常。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "蕃新聞"
+   ]
   },
   {
    "date": "2026-11-21",
@@ -14578,8 +14586,196 @@
    "topic": "政策",
    "summary": "教育部公布教學卓越獎獲獎名單，新竹市水源國小與東園附幼分別獲得金質獎與銀質獎肯定。",
    "takeaway": "家長可關注獲獎學校的教學特色，了解優質教育的發展方向。",
+   "mentions": 2,
+   "also_from": [
+    "LINE TODAY"
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "title": "花蓮縣兒少教育帳戶三年穩定儲蓄 61戶家庭參加獎勵親子遊 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6SjVyYXVGeTllU3prZHlfS25TcFp6bTRQd1lCdkNxSnJSdE4ydVhPVHg0YU1wNHhHTHFJb3hNZkxBS0FHLXR6Z0R0MER0em1peHc?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "花蓮縣推動兒少教育發展帳戶，鼓勵弱勢家庭透過長期儲蓄累積資產。近期共有61戶家庭因達成穩定儲蓄目標，獲得參與親子旅遊的獎勵。",
+   "takeaway": "家長可關注政府提供的教育儲蓄政策，為孩子的未來教育基金提早規劃。",
    "mentions": 1,
    "also_from": []
+  },
+  {
+   "date": "2026-11-22",
+   "title": "南竿公托聖誕尋寶GO 親子闖關、律動共享節慶歡樂 - 馬祖日報",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1md05XcGx5blV1WXpGNmRrTWU3LW0yQWNqQmY1bldWbm1XbjM1MUZfZk1UaDlySkFhZ3VKbTQyeVpyOS1CanBHcUE2TWU5ZEIyZFRZRDE2aElrRVpLRnc?oc=5",
+   "source": "馬祖日報",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "其他",
+   "summary": "南竿公托舉辦聖誕主題的親子闖關與律動活動，讓家長與孩子共同參與節慶互動。",
+   "takeaway": "家長可多參與公托舉辦的親子活動，增進親子互動並豐富孩子的社交體驗。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-22",
+   "title": "高雄岡山國小校長遭解職！家長、教師要抗議 控政治干預 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WelFWUHNQeEotZ19tS3ZPVGhpajVTVTVDakZsRmZTR0VCQk9fTXZ0bHRfNVpET0kxWTlDVDBmRklGZW5pbHZRRV9OemlRbXgwYWsxY2czaEdHRW9sTjhzYTZpWlPSAWpBVV95cUxNX3Fod01oNk52dkF3VFVwdVFMdHlITkJvcHdESGNRX0lBNFRjRTl6d0NFT2dTODlWZ0FpN2pJYjZTbWZBZU5HWVliZG81dTY0aU1ScHZXNDlkaUxSYzNBT3ZxZWZwai1kVzl3?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "政策",
+   "summary": "高雄岡山國小校長遭解職一事引發爭議，校內家長與教師質疑背後涉及政治干預，並計畫發起抗議行動。",
+   "takeaway": "家長與教師應持續關注校務運作與行政決策的透明度，以維護校園教學環境的穩定。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-22",
+   "title": "心理健康急救解青少年第二大死因！精神醫揭親子溝通關鍵：傾聽不批判 - TVBS 健康2.0",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iVUs0bWxCQ1dkOERhREVKN2Zma2hEQ2JQSktSallPTUVCS2RJVVM4ZVgwdU9GSTlPLURsc2tBQ3MyY2FKeDlBcnA2U0pvb1U?oc=5",
+   "source": "TVBS 健康2.0",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "針對青少年心理健康議題，專家強調家長應採取傾聽且不批判的態度進行溝通。透過心理健康急救，能有效預防青少年自殺等嚴重風險。",
+   "takeaway": "家長應練習以開放、不評價的態度傾聽，成為孩子心理支持的後盾。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-22",
+   "title": "推動沉浸式族語課程 落實族語生活化學習 - 教育部全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrWU1sbjRkdkV2V3JBZVRvbC1UQ3dBcnpIZFEwbksySVNIV0dBX19tVW1lMmFNWkRVb1pEa3NSS2Z4cEtaVUY1czlENGp5cVo0cm1zQjgxVFBpckx5WUhTQVJSSjBmUW1HNU4wMlZQcVFPMHM5SXo4RU5aMnZTalE?oc=5",
+   "source": "教育部全球資訊網",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部致力於推動沉浸式族語教學，旨在讓孩子在日常生活中自然地學習並使用族語。",
+   "takeaway": "家長與老師可鼓勵孩子在生活中多接觸族語，營造自然的語言學習環境。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-22",
+   "title": "教育部擴大推動沉浸式課程 走進部落學原住民族語 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wbE43aEtzaTBVaHJDMTBwYTRFc015d3pkMnZHdzlpQ0hFdGVuZlM1VW9rNFVkODUyX0IxQ2I4d2JhUThzaWxPeDdnQlpEOWhZbVE1VVdiZWx2V2ZtY1dsTl9qb0rSAWpBVV95cUxQY3R4UnNRbDJ2dzVERnFuYlJFWS0xbEVwNm1tSmRmbGZwYWlDUTJtbHZza0FqVEZGY0ZQOWRnRjhfVWdFQk1MN19EdkZHc1RWdUtGcVZCQ1ZBT0Uza2JCSUpPSFphWUpQQVl3?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部正積極推動沉浸式族語教學，鼓勵學生透過進入部落環境來學習原住民族語言。此政策旨在透過實際生活情境，提升學生對族語的學習成效與文化認同。",
+   "takeaway": "家長可留意學校是否提供相關族語課程，鼓勵孩子參與沉浸式學習體驗。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-22",
+   "title": "新社崑山國小70週年校慶 教育局副局長郭明洲到場祝賀 - 報新聞 Mega News",
+   "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNZnRUbVYxbkVVTHpzd1dwMmNuRFRvaFVZM0xuRnNCcHQ2RUVTaW9EX3BOS0JQZlZtTlBLSEsxOTVta25iTnU1dERtTjFqblZueW9vbVlHQjRTb2ZTUGVud1U5TUpuOWk1bGtiZFNuemYzN2tzS0Q1SWU4TGZpcVg5WW9PaDltbVhicmpWam5wN2pXOF9hUmw1UmRMaFduWDFKQ0FGYkEzVzE4ZF9veW4xODhDVURVU1JOYjh1bHdsWFQ2TUpPMDN5Y3Z2QUpYTEpqRVkwOWhKLWRJS2R4WnAzYklta0t6THlWS3IzbE9xSWdRSjZUbXFKV2Y1M3hKNVBLbFFBNHBaeHFMVnhYajV6UzFKNXRvY0VXU3hUM1hKOWk0UEM3eWRRSmNaR3ZHeElMZ3NZc2JMZTJUWVN1NVpqeGVUZ3JLMnlDYlozd1doMFhtVTBRdVVFZGRIN1E4YzVkX3lEWXlBWjVzZw?oc=5",
+   "source": "報新聞 Mega News",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "其他",
+   "summary": "新社崑山國小舉辦70週年校慶活動，台中市教育局副局長郭明洲親自出席表達祝賀。",
+   "takeaway": "可關注學校週年慶活動，了解學校發展歷程與社區連結。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-22",
+   "title": "YouTube遭控設計易成癮損害學生心理健康！與美國學區達成30億美元和解 - Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQc1VGX1VkREpJMHJiX19NNXdTTjlTYXQxdXNUbVJMbUdNN3JSUUdrVFR2RHhnUllOcFpHX0ZDSk1xemdxbEhkYjd2UzlVVHJLdE5YYllEaG5GbDNIVlJYZjlSM2tMNXNqNDA5ZndTbDhmTER4WVVzaUVNN3RVN0V6UlVBWTRvN2VrZGRaU2F6blF5UXJMaVROMUdleWVTMFBMMFZTR1otOVZhYkpLRXVoUnZac3BqUTlwcm9lSHgtREZXTnNzLXctZG1McXlEYUl1QWVwV1o1Q3VSSGREbm82eGY3X2tkZHprbWx3Z09OYzJrWVgwUVFmSGxZSUg0bkI0Sk52N18tZUVFTXlHcS1tR3NCUl9RdTlfbFduYUxmMVFBMkJHeWlxWXJHcDVfVHpEYWtLOVhGUDdwc1ZXQWJ0VEdiNnMybXRpZnVVM0lCSnQ5b3VPOE5GT29scmlnS0wtbVV0WVRkbjRvMUpNOFpKX0paMndIN0s1bFVwbnJhNXJCckpDOWM0ODFNLTl6T0FPYWRFRFNVTkVlV0dqV0RJUERfRXQ?oc=5",
+   "source": "Yahoo新聞",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "YouTube 因被指控演算法設計易導致學生上癮並損害心理健康，最終與美國多個學區達成 30 億美元的和解協議。",
+   "takeaway": "家長應留意孩子使用影音平台的時長，並關注其心理狀態與網路成癮風險。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-22",
+   "title": "聖誕降臨曆推薦｜兒童聖誕禮物、倒數驚喜 - 親子天下Shopping",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1acnpUYkp4R2J1amY1TGFBZE5LU3ltNFkwYl9WS2hTNXI4bWhELU1xTGdnc0lQbUlNWnJuNkNxTG1NNTFUMU9SLUFGdlZzbFEya043TjVQOF9XcXdWemJaLUpqN1dZYWVzYlRsZEZYRUtOekZ2V214WA?oc=5",
+   "source": "親子天下Shopping",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "本文介紹適合兒童的聖誕降臨曆，作為節慶期間的倒數驚喜禮物。",
+   "takeaway": "可挑選適合孩子年齡的降臨曆，增添節日儀式感與期待感。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-22",
+   "title": "【投書】孩子的未來，不該只能碰運氣｜ 吳文炎 ／ 多元發聲．讀者投書 - 獨立評論@天下",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWWDIzZjQ5MHNjN1hxaGMzWE9HUmk0WnZDRTJ0bVM2Mm9waWxkMzVqdzNGdU5BRnhac2V5cmhkSUlLeWljYURCZUlrMl9RbUlLdVdkQVA5ZzBHUkt0b3Q3NUNrSUhkUQ?oc=5",
+   "source": "獨立評論@天下",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "本文探討台灣教育體制下，孩子的發展不應僅依賴運氣，呼籲重視教育環境與制度的完善。",
+   "takeaway": "家長應持續關注教育政策發展，並積極參與孩子的學習規劃。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-22",
+   "title": "台南私幼爆不當管教 老師嗆幼童「閉嘴啦」還恐嚇修理 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0QkhVTTVYWERueWI0LW92ZnRtV2xVb0Zya3BRZTRfd2FwdGExWHRPWEhqTnlGajZVWHZyVFJILXhDWXVDUEpzeTZ4QVBTZnhydGdFVWs5SnFzY183SnpzMW13UlHSAWpBVV95cUxNSjlIYUJsbmZNMC1LUExQZzdkUHByUGpaUW5kU1kxLUpGSFFVQUc0Ny10ZnNvVmJRWmNFZVhFaGo5RFVOR0dSdWVvUVp0S3BVQlgydmRjdldtUldPRUZtWFBQbm5iTWVVSDJ3?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "台南市一間私立幼兒園傳出教師對幼童進行不當管教，不僅以言語喝斥，甚至出現恐嚇威脅的行為。",
+   "takeaway": "家長應多留意孩子在校情緒與反應，並關注幼兒園的師資管理與教學品質。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-22",
+   "title": "教育部國教署推動多元國際交流 從校園出發拓展學生國際視野 - CNMA新聞聯合網",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ublJvamVNSjBHd3QxejVZNUdyMEpDMjFBeTdMY2FJMzFjV3FUVXlrckRpZFpqdVpxMXVKcTlyV0dUQXBZWWhWXzJoclY0ckNSd2dPYlQzbUpOZ21OVEVlcGd1aw?oc=5",
+   "source": "CNMA新聞聯合網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部國教署積極推動多元國際交流計畫，旨在透過校園環境協助學生拓展國際視野。此舉鼓勵學校參與各類交流活動，以提升學生的全球競爭力與跨文化素養。",
+   "takeaway": "家長可留意學校提供的國際交流機會，鼓勵孩子參與以開拓視野。",
+   "mentions": 2,
+   "also_from": [
+    "蕃新聞"
+   ]
   }
  ],
  "rejected": [
@@ -15622,6 +15818,21 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsM3FUaC1oOWpjVjY3X2xmeXAzVzRBUXpOOGdiTHA0V3Awb1ljWk1QdU1WNkNHX0lYYjRIYVNPZVhFODE3a0pSb2x2dThqNmFfWThDZXdLdnlpZFRkZmF3T3JfTkZDdUxNM19J?oc=5",
    "title": "教育部長的遮羞布- 時論- 中國時報",
    "date": "2026-11-21"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQUlMSGJjQ1hPcVc2TzIydWFZMWJvcmZjai1vWjk2VXJ6eXNic3NLT2hsZm44OWVWMFBESXRYUzhIeTBxYnk40gFLQVVfeXFMTmNxZVFzVDNsRGRLT28ybmx3M0JrVjJIdzVUbUlvWHdjS3gwM29mTkl3WU9IeUtUZXc3SEhnQWxoalJSWnpOZE5Cb1BZ?oc=5",
+   "title": "哪些動漫作品有資格放進新課綱裡？ 鄉民列出這麼多",
+   "date": "2026-11-22"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oQVIwbkt2SFpGTndYa01PS0ZDZEJwOXF4YmRBakh3MzBpNG0yZWRueXY0WkFoWTBSbU54U3k5UWJwcUZlc2pXZER5OW91Qk5ZN19MT0tkcDlNWmpIbUZJYzh5eVo?oc=5",
+   "title": "【校園生存挑戰】活動分享",
+   "date": "2026-11-22"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xZFhpUExDSWhWb0Jud2xkZ3lEcHBIOFlYOTVaOTZPV3BMYXBMNFNPU3RUZVl1VGllOWItbERhakRwSEVEMnpLbWxOMS1iN25H?oc=5",
+   "title": "最有子女福的4生肖爸媽！孩子長大懂事又有出息，不必事事操心、晚年更安心 | 魏甫丞 | 風生活",
+   "date": "2026-11-22"
   }
  ]
 }
