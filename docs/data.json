@@ -13446,8 +13446,10 @@
    "topic": "其他",
    "summary": "信義房屋與台灣展臂閱讀協會合作，發起童書募集活動以推廣閱讀資源。此計畫旨在透過社區力量，讓更多優質書籍能傳遞給需要的孩子。",
    "takeaway": "家長可留意社區閱讀資源募集資訊，透過捐贈或參與活動培養孩子的閱讀習慣。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "udn房地產"
+   ]
   },
   {
    "date": "2026-11-18",
@@ -14280,12 +14282,13 @@
    "topic": "學習方法",
    "summary": "墾丁國小附設幼兒園將自然環境融入教學，以在地山海資源作為學習場域，榮獲教育部教學卓越金質獎肯定。",
    "takeaway": "家長可參考此模式，鼓勵孩子走出教室，透過親近大自然來啟發學習興趣。",
-   "mentions": 5,
+   "mentions": 6,
    "also_from": [
     "台灣新聞雲報",
     "Yahoo新聞",
     "天晴報媒體",
-    "新頭條"
+    "新頭條",
+    "臺灣導報"
    ]
   },
   {
@@ -14941,6 +14944,176 @@
    "topic": "學習方法",
    "summary": "建議在孩子成年並取得帳戶資金前，應透過學校教育提供模擬理財的實務經驗。讓學生在受控環境中學習管理金錢，能為未來獨立理財打下基礎。",
    "takeaway": "建議家長與學校合作，在校園內推動理財模擬活動，培養孩子的財務素養。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-23",
+   "title": "台南教育局特幼科分設幼兒教育科、特殊教育科 11/19揭牌 - 報新聞 Mega News",
+   "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxObHA3QmZhc1lPZlhNMVFDTlVPNER1SVlmam5RODJVZkFGcjN3cV9qUG9NMnZaUU9XT1ZhWHpuVktRNlZrNmFuSGY5LXQ0eXRQYzdDMDFxMzc0RGZzRk1wdXQwVHFTay12eDF2RmZGdTZibFlFbFFsWmszV2VNM0M2bHFBM0tBbUhXYkxCblpqZmlhLXcyMkdScS1PS0YwbndhZlZ6V1lrbkhqZmpsTlhSd3lyQWwyV0F6QWhjcThna29UZExfVUt6ejAxdHZ5dUVreVhhaHZqa0s0bEZnUlFuSWFyYUdPWWZNUDNzY0VHN1dXdEZWMVNKaG1vZC1rb2I5LVVSWVdBVjA1Nm9ld0pjMzRkbk10Y0dBakJkSHRCZVI1WDhUY3RJNlZlcWU1enJaZElLTDdjMGItVXM2UmtWeWZOQm0zQ1BZNmFIRGlZcGY0UUtBQUhzeG9QQnR2VXVvWXhDMHlnT1d2UQ?oc=5",
+   "source": "報新聞 Mega News",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "台南市教育局將原有的特幼科拆分為幼兒教育科與特殊教育科。此調整旨在透過組織分工，提升對幼兒教育及特殊教育的行政效能與專業服務。",
+   "takeaway": "家長可留意未來相關教育資源的分配與服務窗口是否更為專業明確。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-23",
+   "title": "家是孩子最重要的力量來源！心理學教授分享3個關鍵，關鍵累積「家庭韌性」，成為孩子一生最堅實的支持。 - Mombaby 媽媽寶寶懷孕生活網",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JbVc4dGR2dWt3UnBWa0hiM25BajZhelFlcjdORGxnZ0JtN1U5UzV5ZFZ2a2xKWE0teWtRcTNIVDl0QW9Rd0xoR3dmNmRmOFo1ZXFKTDVn?oc=5",
+   "source": "Mombaby 媽媽寶寶懷孕生活網",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "家庭是孩子成長過程中最強大的後盾，透過建立家庭韌性，能為孩子提供一生的支持。心理學教授提出了三個關鍵要素，協助家長強化家庭內部的連結與力量。",
+   "takeaway": "家長應重視家庭韌性的培養，成為孩子面對挑戰時最穩定的依靠。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-23",
+   "title": "【代發教育局新聞稿】市府重申霸凌零容忍，岡山國小校長職場霸凌成立，依法解除校長職務 - 高雄市政府全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMHJBYTdDbFppMnMzejF0UTN3SW1DQ0VUdkhmaVJQTm4tMkpqWGsxcDlKTW12NGEzemRMMnFmTk81a3RmRHN0OHN3Q21vbzNZZnhvNTlPVWdiZFRVWlFyQ1Vnc1dmOUZkeks2WTNLMVd6T2ZhWE9MZ0lIQ3hwVTJDbXJrdndGeXg1LVFZ?oc=5",
+   "source": "高雄市政府全球資訊網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "高雄市政府針對岡山國小校長職場霸凌事件進行調查，確認霸凌事實成立。市府秉持霸凌零容忍的立場，已依法解除該校長的職務。",
+   "takeaway": "家長應持續關注校園環境，若發現不當管教或霸凌情事，應勇於向教育單位反映。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-23",
+   "title": "期中考後省思：把基本分拿穩！3個普通班也能用的潛能班教學方法 - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRnNyWWtlbDVHcGZQMmNyUVpZLVN1NmlNblg0NkxNVFlNM1h5aFNjM0tmMnd1RlBfMFRHZjNoNG9fQ3kzbkZ0c2ZhUndIMHpEeTVFaHVFbWRteTA?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "本文探討期中考後的檢討策略，並分享適用於普通班級的潛能開發教學技巧。重點在於如何透過穩固基礎分數，提升學生的學習成效。",
+   "takeaway": "家長與老師可參考潛能班教學法，協助孩子在考後穩固基礎並建立學習信心。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-23",
+   "title": "【議題融入教案】閱讀思辨微課程：網路友誼與隱私的界線，誰說了算？ - 少年報導者The Reporter for Kids",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRmEyZEJpLVNScjZsVXpkajBJdWNVY2xTblE0UERBT3FBVGxHN0xNdVBuSFFjeEd0bHBhVUVocDRtRWRtQU9HWmtpaFdzandkcHJiaU1oNXQ5ZzRLdUFOZEpCVE5oLXc3RWNZZHBoX3dYbmJBbGdtYTZlMTZ4UDE0LTRjMzE?oc=5",
+   "source": "少年報導者The Reporter for Kids",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "本課程透過閱讀思辨的方式，引導青少年探討網路交友與個人隱私的界線議題。協助學生建立正確的數位素養與自我保護觀念。",
+   "takeaway": "建議老師運用此教案，引導學生反思網路互動的風險與隱私界線。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-23",
+   "title": "台南AI機器人親子營爆滿 家長孩子攜手玩科技 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBadW9pREpieEJlZldES19fd1g1VHZORnNOMGEySWMwLVBRcmRSYXZEWElWaFFMSkVYejd0WXRiejlral83eWRzUTk1TldUUnNjb19LMU5uZDFqZ1ZucV9xTkVLdTDSAWpBVV95cUxPbGpiV1VqbDBpQzJCWC1GelFwdFVwNHlpa3pQR2pLR2pYS0RpcGtCMEZyeUh4bXhaOXRjb0pCZ1ZPR1ZOMjZjMjhDbHJHSjBWSmFBX1ZGYmFmSnBXOExtNktsbDVfOVhNSy1n?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "台南舉辦的AI機器人親子營活動報名踴躍，吸引許多家長與孩子共同參與科技體驗。透過親子互動的方式，讓孩子在實作中接觸人工智慧相關知識。",
+   "takeaway": "家長可多留意在地科技教育活動，透過親子共學提升孩子對AI的興趣。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-23",
+   "title": "台南教育局幼教、特教分科！設專責團隊 強化第一線支援 - ETtoday新聞雲",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EandCR0dfNU11b0tFaXlkRnE3ckp4NWFRdDlpV01CTzZxVUh3TzBTU2w0VDJ0MVBPWWlRZ3FmVGxWREdvb1N1R2VtNG5PSDlySHRVcXEzTjFGcFlqcUHSAUtBVV95cUxOTW1RT0FMaGV1TGZwNzBHR2tkOWZvMHZEOEhycVZMYl9RQmpRSDVTTjQyenM2TUtBa051T0hObkFTSGNWZzVCUERJalk?oc=5",
+   "source": "ETtoday新聞雲",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12"
+   ],
+   "topic": "政策",
+   "summary": "台南市教育局將幼兒教育與特殊教育進行分科管理，並成立專責團隊以提升對第一線教學現場的支援力度。",
+   "takeaway": "家長與老師可留意後續相關教育資源的分配與服務調整。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-23",
+   "title": "陪伴特教兒童 花蓮親子共學營助家長掌握正向行為與支持策略 - 匯流新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOdzVRYUFydm1CSHJZb1ZpQmxwa1JCdXd2NzFWTUpyU1dHcW9kUmRScW5hMFhKWWlLYjMzc1FPemxkdk5vanBjcndCR0gzMWxCbUlTUmE2Mmh6Z2lobmN1eDdhNVRoUVk3R1VQX2g5ZEJ0U3AzNWxOdDg0Zmo3b25NaFBaOTY4ZFNMQVM0dDg5cHA1U2pHM0NJX210Y3FBLUhPbjNyR0dwalRmUTRqbmsyclVnQ183am1wWjc4TnVJcExmVkwwbXpQeUFmcFhiQzZmZzI3Vk1kUXFIWXdUM21lUHlLYWdhZTVNR2pBVTlmSEwxeXB3XzFQY3dKMG8yS3ZOdjhrbTJhU3FzSXFyQWtxUjBuSDEtV1VVU2kzM2ZtTFhoZV80SzBmNk90S3J6aVFQVGFhdDZlM0FJVW9rMEZObHVn?oc=5",
+   "source": "匯流新聞網",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "花蓮舉辦親子共學營，旨在協助特教兒童家長學習正向行為引導與支持策略。透過此活動，家長能獲得更多陪伴與教養特教孩子的實用技巧。",
+   "takeaway": "家長可透過參與共學營，學習如何以正向策略支持特教孩子的行為發展。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-23",
+   "title": "寶寶爬行、搬搬樂歡樂開賽 萌娃逗樂全場 - 馬祖日報",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50QVN6Y3RvY2hpREEyRXp0cWJrSmN6OXpHQm9MRGpDSWk4TE4zaUFmdHlRTjg5T2NpcFNZd0tXTjc4SzdLVkxKVjduaG14bl9QQzNIUFNmZDdlb1RNcnc?oc=5",
+   "source": "馬祖日報",
+   "ages": [
+    "0-3"
+   ],
+   "topic": "其他",
+   "summary": "馬祖舉辦寶寶爬行與搬搬樂競賽，透過趣味活動展現幼兒的活力與成長。",
+   "takeaway": "可透過參與社區舉辦的親子活動，增進親子互動並觀察幼兒的發展狀況。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-23",
+   "title": "帶領學生從山藥田到神將走讀 新北多元教育勇奪教學卓越獎冠全國 - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Fd0Q2VWIyMlQ3ZEtaaXJmY0QtYU9SQzJleGdTZmo4eVhPeDBPWjNIZ2p0bllXcThyUGg3NjBFSzhCaF9DZkszd3Q2bmhaWmdsaWtKM1l0YU9fd2c?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "新北市推動多元特色教學，透過結合在地山藥產業與傳統神將文化等走讀課程，榮獲全國教學卓越獎肯定。",
+   "takeaway": "家長與老師可參考此模式，鼓勵孩子透過在地走讀探索家鄉文化。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-23",
+   "title": "半數學生用 AI 做作業！如何用 AI 幫助學習而非變孩子的「認知拐杖」？ - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6V0pXVHYxVmpJVmxPOWduWlVlZ2VZMTRteWFqb2NkTk9GNmJzam5FTVdxTFNIbFlCX3AyZkRuQlpmdGJfTnNXOVY0dkllYURFalJjS1BqTk4wSDA?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "面對半數學生使用 AI 輔助作業的現況，家長與教師需思考如何引導孩子正確運用科技。重點在於將 AI 轉化為學習助力，而非讓其取代思考能力。",
+   "takeaway": "引導孩子將 AI 視為輔助工具，並培養獨立思考與批判能力。",
    "mentions": 1,
    "also_from": []
   }
@@ -16020,6 +16193,26 @@
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2M5blZQRG41cjlvRVg1bDF6TFFCRTFKRXo4ZmMwQ1lZbEpvaG1nc1ZYYmdOX2dvNDFYNWhtNDZTajVsTzdEdmk2WWRuTE9fTkZsNTE5Q1Q4eWNKZHFGSG9SQjluQU5kUENwRklkaUFEQjRETVNNc0xKWjhObDNEdklDbGtrb3hrWUxZanVnLXVQMl9abGtPRU9lQ3R6QUhKVW84blBjYTVndnk3WXRyaW9GZkZnRUNMRlQ5R1czWGt0QWN2?oc=5",
    "title": "點讀 成就貼紙推薦",
    "date": "2026-11-22"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDVmtJVER1d0dkc2h0MkhpOXdyejFENUxETUxIZjdfU3hrcTB4eTRTTUkxb0FJZ1J2d28xTzd4NlVZaG90SEFlZ09hdnFGUlNNeFE?oc=5",
+   "title": "流量吸引客人，也帶來麻煩？從免費招待到拒絕網紅，餐飲業迎來「科學怪人時刻」！",
+   "date": "2026-11-23"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOHZ3YkYzc0tYUElUcUdzRHJVV0pVSi1pQ1FPWGtmTUdjZWpaT2ZIX1ZaYTVzMjR2UmtvZ3F1M29MWUN0blQ5eWV0Q0EzX3lsSFN5QVBPUUNueVIxcU8zckZFQVRLVDdxMENPRHBYTE05TTBCSzJNVXlMTkRXdVR4RA?oc=5",
+   "title": "如沐／這次，換我扶他們一把| 看聯副",
+   "date": "2026-11-23"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOeXlOVElFNWMwMHBXWVhwTzd3MVFISUZ1TWhYNGsyOGVWZWdHSlV6UkhUYWpkc29UeW9zeWF1TXhUR0RSMmRsNm9Xak5fTkx1ZWY1ZDN5eF9OWnU0OUNtRU9Hb2tQcUJfZHBna0p6OTNlT0dENk5XUm5Gc0V4UElnX2VsQWVGSlRjTzhja0dzTHc4eG5NQUN6cmZPTVJYS2hiQVZMTmJINmZqX0VWdGVyaUtiMHB6TW1ETDllUnVwM1FVUV93LUN4Z1U5aEdvalRwb2w3QUdJd0ozcjB2TzljQW96b3ZWZWRsX0NxY1BLYU1VY3U1bGlyQmpGN3p2SDI5cmRobEo1Q3pUQWNLOFpuY0t5TF9YdUR4VjJ1R0t1c2hPbFdWMDdINkpSaFkyajVNeWJUeW9LZklwbzRCcWhSRUFR?oc=5",
+   "title": "謝立功陪同 莊競程與新住民姊妹客廳會聽需求",
+   "date": "2026-11-23"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzNzBDX3V0cG5pZXRGekw4T1RaVVBzQzJPUFBNeW1oR0xIRV8xOXZ4UktOQXFZVDVZNmRxUnZSVWF5R2VVNkZncUtHSEVTcThnTXoyTEZtYlQzaGY2MTZ4OWJQRTQ5RFN0U21qMWhIQTEyNjMzUG01T0R4eFVwdw?oc=5",
+   "title": "【圖輯】金馬63：把艱難化為永恆的光",
+   "date": "2026-11-23"
   }
  ]
 }
