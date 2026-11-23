@@ -14698,8 +14698,10 @@
    "topic": "其他",
    "summary": "新社崑山國小舉辦70週年校慶活動，台中市教育局副局長郭明洲親自出席表達祝賀。",
    "takeaway": "可關注學校週年慶活動，了解學校發展歷程與社區連結。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "行銷人"
+   ]
   },
   {
    "date": "2026-11-22",
@@ -15114,6 +15116,145 @@
    "topic": "學習方法",
    "summary": "面對半數學生使用 AI 輔助作業的現況，家長與教師需思考如何引導孩子正確運用科技。重點在於將 AI 轉化為學習助力，而非讓其取代思考能力。",
    "takeaway": "引導孩子將 AI 視為輔助工具，並培養獨立思考與批判能力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-24",
+   "title": "教育局幼、特教 分設專責科室 - 中華新聞雲／中華日報",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wY2drVTdfNjYzYVRyRjRHQ1gzYVBFN0EwY2RYNTV3LXBnbl80bjdUVzg3QjliemhibkZYTzJINk40dWt2MDhKVnU0ZzQybEZheEE?oc=5",
+   "source": "中華新聞雲／中華日報",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12"
+   ],
+   "topic": "政策",
+   "summary": "教育局針對幼兒教育與特殊教育設立了專責科室。",
+   "takeaway": "家長可留意教育局調整幼教與特教專責科室後所帶來的相關政策與資源變動。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-24",
+   "title": "一場改寫台灣偏鄉教育的官司，潭墘國小起死回生，律師仗義協助，為村莊拿回學校 - 上下游",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1ODJEREc5YndkTUM2TUszMkNiOWRYSmE4WjdGT25kM1dRdVNhdU5HOFIwM3hROUZYcDQ0RHpqYTcwLXU1a1ZWLVpNbUo3X3V2bjNWLQ?oc=5",
+   "source": "上下游",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "彰化潭墘國小透過法律途徑成功爭取保留學校，免於被裁併的命運。這場官司不僅保住了偏鄉學童的受教權，也讓社區重新找回教育核心。",
+   "takeaway": "關注偏鄉教育政策與裁併校議題，重視社區與學校共存的價值。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-24",
+   "title": "南市教育局幼教、特教分設專責科室 專業分工、完善幼兒支持服務 - 視傳媒",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MQklBMG9oVEc1NERfSzBaQmNpWDU2ZjhjbUd6ZzdwMno2NHd0STNiUzVQd1hPMlNBcFhRYWRPb2ViZGxLS1BhSVNtbzZZUjBKWEkyVWZfZnpnX0dIcVQ2ZThLb2tEZWV4Znc?oc=5",
+   "source": "視傳媒",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12"
+   ],
+   "topic": "政策",
+   "summary": "臺南市教育局將幼教與特教分設為專責科室，旨在落實專業分工並完善幼兒的支持服務。",
+   "takeaway": "家長可留意教育局調整後，相關幼教與特教資源的運用與服務升級。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-24",
+   "title": "新北市救國團攜手五股國中 深耕校園反毒、反菸害、反霸凌 共築青春安全防護網 - 台灣新聞雲報",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9HR0JUc0s4OW1ldE1uVWFtLVpCMndxRC1IOFlfMkljSHFBQ0trNGlTd3V6TTBHUGk1Z0R1Z2ZEc1BZVElEUlE?oc=5",
+   "source": "台灣新聞雲報",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "新北市救國團與五股國中合作推動校園宣導，共同建立防護網。",
+   "takeaway": "家長與老師應留意並引導青少年遠離菸害與霸凌。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-24",
+   "title": "臺南教育局特幼教育科拆分 幼教、特教兩科揭牌強化專業服務 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRQjE2cktMajRneldGNUwyMFZKVnJ0eldMTU1YTjFEN1RjcDZZNVBIVkl0LTQyVnp6Z1l0R1hXdV93VFh4Vmh6eGd3N3FuWlhaRkE?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "臺南市教育局將特幼教育科分拆為幼教與特教兩科，並舉行揭牌儀式。此舉旨在透過組織調整，進一步強化幼兒教育與特殊教育的專業服務品質。",
+   "takeaway": "家長與老師可關注此政策調整後，未來在幼教與特教資源上的專業升級與服務成效。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-24",
+   "title": "韓國AI作弊連環爆：240萬檢舉金、教育部長下台，為何AI讓人更想投機？ - 天下雜誌",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NZTRUUFRBTWd6QzU4MVY1STdfcmhRNHRyWWF3MXRUeU01V3VCWXQ1cGxWWXM2Rk5EOWZFeXVDbFJxaXpKODRMRDBEeGdvUQ?oc=5",
+   "source": "天下雜誌",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "韓國近期爆發大規模AI作弊事件，引發教育高層震盪並凸顯防弊機制的重要性。這反映出當科技被用於投機時，對青少年誠信教育與考試制度帶來的嚴重挑戰。",
+   "takeaway": "面對AI工具普及，家長與老師應加強引導孩子建立正確的學習誠信與價值觀。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-24",
+   "title": "藝術走進偏鄉校園 教育部招募大專生投入美感育苗 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wdmY3eTVjdTExYWh2c2Z0aVRfSmJ0T1g2R19NcWloc0xNN3hDSHNfbHdFOFhmb183a0V6aUYybURFWVRZZWR1aTFZWlprU2k3d01GX0p1SVAzeWRrYzNoZWh4d0jSAWpBVV95cUxPNnNIRFRtc3VNMkpIZXFiMXA4OFNsa3d6V1RJNFhsS0NBREg5V3VyWFZhNWpIX211YmFUaVlaZHdGWmFVT2NCNkQ3ejlVTDJqMEpDaWs4dDZETWRrNzcwUzhKczQxTmZXU0dB?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部為將藝術資源帶入偏鄉校園，正招募大專生參與美感育苗計畫。",
+   "takeaway": "家長與老師可關注大專生投入偏鄉美感教育的相關資源與機會。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-24",
+   "title": "親子共學成長 花蓮為特教家庭提供正向支持 - Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNS0hzMFdQYmRlNjhyVFZlWFEtbW81bzlXYUYyVjdqakt0NjdkdmVuaTQ2RlIwQkZmZ2lWWUpNQTNnY0ZsNkpoR09QQnhJdUJGcjF6cW9nZ2theFFEYjliT0hvSzlZM2l3c1JWelUtOVZDQXBKOXJzSTZuVENwUGl4bmNOeHlOeHMtUzRfUm5HRHc5NEpFSGw2N3oxX2RpdGs1UW8wRi1oV1FoOGZNc2pFM0oyQTNnUmhTczRjSWNfVnBrcDhpa3B3M0lxWlYwbzdPMXBONEsySEpGa2QtREdHSnExZDZ5eExmUHVtTklUT196dEdBX3NVa2ZIVlhmN1NsWmQ3eEhULWpfRXd4SkRGOTNCcEJvNHBaUG9aQ0JRSDBkUTB5eTRXZjM4dHhHM2t4NjdCcTY3eEs?oc=5",
+   "source": "Yahoo新聞",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "花蓮推動親子共學成長計畫，為特教家庭提供正向支持。",
+   "takeaway": "家長可多關注並善用地方政府提供的特教支持資源。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-24",
+   "title": "影／岡山國小校長游柏芬解職案5天拍板惹議 高市教育局：依法有據 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyRUhZUjYxLTZNM3hvcHI4VnAyQ19PWkU2UVN2cnhHbHZ1dEtPSW96d1VjclZydkNadGJXX01VRWpsSWNDZmdKLXU0alcwRGpt0gFWQVVfeXFMTjYtbzlTLWtwckZxOXBhc2ZxM2ZNa2xpTnFMT2lHbmdWS0FoWi1EVWV2cUVKQ1l4ZlZha3c3TF9uM3BCSkVsYWJLM2szZWVORmNHUFp6UWc?oc=5",
+   "source": "UDN",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "高雄市岡山國小校長游柏芬的解職案在五天內快速拍板定案，引發外界爭議，對此高雄市教育局回應表示此舉依法有據。",
+   "takeaway": "家長與老師可關注校園人事異動與教育行政決策的公開透明性。",
    "mentions": 1,
    "also_from": []
   }
@@ -16213,6 +16354,31 @@
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzNzBDX3V0cG5pZXRGekw4T1RaVVBzQzJPUFBNeW1oR0xIRV8xOXZ4UktOQXFZVDVZNmRxUnZSVWF5R2VVNkZncUtHSEVTcThnTXoyTEZtYlQzaGY2MTZ4OWJQRTQ5RFN0U21qMWhIQTEyNjMzUG01T0R4eFVwdw?oc=5",
    "title": "【圖輯】金馬63：把艱難化為永恆的光",
    "date": "2026-11-23"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aNFhWc1J4ZlVENjR0Z0tYenZrYjRObzlqYW53WV9HemQ4ZzlkVTJlUUppOW1JQkJkZXBNb3B5VHgwVlE3XzM2aVRiQlJDa21SU21fdTN3?oc=5",
+   "title": "快訊／基隆14歲女學生校內墜樓不治！明年將考會考卻傳憾事",
+   "date": "2026-11-24"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jUk5SVGpFOXliZEk1M01IbnIta0pieUJIUFpSa0pfR2pici1qRlhjVWZQa2tsNmRuUGtMdkhMVFh5THYyQzJINW5LbHFxSmdmTXhoZ2RzYlB1eEhtZU9CR29oelhmUQ?oc=5",
+   "title": "【投書】從高為元事件反思：我們要大學校長承諾什麼？ ｜ 牟中瑜、李卓穎 ／ 多元發聲．讀者投書",
+   "date": "2026-11-24"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FaEVDNW5TeTJFRi14azFCTlJMNjgxUzBDbkhpMnA5ZVloRk82N09fcUg1UW11WEFvWHFpUU1aZ2dBM2ZlQmwzSE13UTBxZHhwSllvUHR1bnMtcFJ6eWozNWo1V0JtZVA1YkZ3Uzln?oc=5",
+   "title": "基隆14歲少女倒臥校園廣場！多處骨折送醫不治- 社會",
+   "date": "2026-11-24"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX3FIUHJhemxZaGc2TFA0NVFUTGE5ME5aLUpHRktGLXpmckdndXA5b1BqWEVLUEJnT2pScTRZamExU0FMMUYwb3EyT3FTRldVa3RsaWdmQ25YN3BycUNNTXpfVW1SbkdYRHZCcF9BX3FFc2N1VnRKX1FqQmFyWENLOE5xd0pZNWtBRXk3aW04eWFtZy1zZVFGZg?oc=5",
+   "title": "KPMG安侯建業第19屆企業志工日：感恩節前夕全台送暖",
+   "date": "2026-11-24"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rQ2l0WXlKS0RBU0xoeGhZYWRSem1KbllDOUpkX2NnYXI5anJYd2kyYkJhY3d2NXNSVEt2VkxuT2hRdU5DbURzQTd1OUZ5SzhBYUE?oc=5",
+   "title": "顧問團力挺 陳松鉉連任大成國中家長會長",
+   "date": "2026-11-24"
   }
  ]
 }
