@@ -15312,9 +15312,10 @@
    "topic": "政策",
    "summary": "澎湖縣政府與馬偕醫院簽署合作意向書，將共同推動兒童智慧早療及居家療育服務。",
    "takeaway": "家長可留意當地政府與醫療機構合作的早療資源，善用智慧科技提升療育效率。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "台灣好新聞"
+    "台灣好新聞",
+    "LINE TODAY"
    ]
   },
   {
@@ -15737,8 +15738,10 @@
    "topic": "學習方法",
    "summary": "2026育網盃競賽展現了高中生將線上學習資源轉化為實際跨領域應用成果的能力。此活動強調學生自主學習與實踐的連結，鼓勵青少年探索真實世界的挑戰。",
    "takeaway": "鼓勵孩子善用線上資源，並引導他們將所學知識應用於解決實際問題。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "17news民生好報"
+   ]
   },
   {
    "date": "2026-11-25",
@@ -15972,8 +15975,10 @@
    "topic": "心理健康",
    "summary": "針對校園持刀事件，專家曲智鑛強調孩子的情緒管理與心理健康需要特別關注與學習。",
    "takeaway": "家長與老師應重視孩子的情緒教育，陪伴並引導他們學習適當的情緒表達與調節。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "中天新聞網"
+   ]
   },
   {
    "date": "2026-11-26",
@@ -15987,10 +15992,11 @@
    "topic": "政策",
    "summary": "臺北市發布國中小機器人微課程手冊，並提供新科技深耕計畫每校最高三十萬元的補助。",
    "takeaway": "家長與老師可留意學校是否申請此補助，並鼓勵孩子接觸機器人新科技課程。",
-   "mentions": 3,
+   "mentions": 4,
    "also_from": [
     "蕃新聞",
-    "報新聞 Mega News"
+    "報新聞 Mega News",
+    "LINE TODAY"
    ]
   },
   {
@@ -16054,8 +16060,10 @@
    "topic": "心理健康",
    "summary": "國際研究指出，多數校園心理輔導計畫因資源不足而面臨停擺。這顯示目前學校推動心理支持系統仍存在推廣困難。",
    "takeaway": "家長與老師應多關注校內心理資源的穩定性，並適時尋求外部輔導管道。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "LIFE 生活網"
+   ]
   },
   {
    "date": "2026-11-26",
@@ -16069,8 +16077,10 @@
    "topic": "學習方法",
    "summary": "本文探討新竹地區如何透過在地資源，培養孩子具備與國際接軌的競爭力。重點在於如何讓學生不必出國，也能在國內獲得世界級的學習體驗與能力養成。",
    "takeaway": "家長可關注在地教育資源，協助孩子在國內培養國際視野與核心競爭力。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "天下雜誌"
+   ]
   },
   {
    "date": "2026-11-26",
@@ -16176,6 +16186,224 @@
    "topic": "政策",
    "summary": "嘉義市政府透過跨局處合作機制，成功協助中輟邊緣學生重返校園並提升學業表現，獲得全國中輟預防績優肯定。",
    "takeaway": "家長與老師應留意孩子在校適應狀況，並善用政府提供的跨單位輔導資源。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-27",
+   "title": "從社宅多元取得，到家庭支持體系，解讀六都市長候選人「生養住育」政見，誰能讓我「安居樂業」？",
+   "url": "https://www.twreporter.org/a/podcast-2026-11-26",
+   "source": "報導者",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "本文探討六都市長候選人針對居住與育兒提出的政見，分析社宅資源分配及托育服務的可行性。節目邀請專家解析如何檢視候選人的政策承諾，並討論政府在家庭支持體系中應扮演的角色。家長可藉此了解如何評估與監督地方政府的生養育政策。",
+   "takeaway": "家長應主動檢視候選人的育兒與居住政見，並在選後持續監督其落實情況。",
+   "mentions": 2,
+   "also_from": [
+    "報導者The Reporter"
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "title": "幸福幼兒園新校舍落成 嘉市第三處社區教保資源中心啟用 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBidXFSQlRQZEx2Z2dpVFhEaUw2TTlaeXNTbF9tUjVEZDhtNWdGYl9qbXkwNkdPN2MzZnkzbGk0UGp5T0JMcDkyYy1xNk05NUpkOHN3QV9n0gFWQVVfeXFMUGJ1cVJCVFBkTHZnZ2lUWERpTDZNOVp5c1NsX21SNURkOG01Z0ZiX2pteTA2R083YzNmeTNsaTRQanlPQkxwOTJjLXE2TTk1SmQ4c3dBX2c?oc=5",
+   "source": "UDN",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "政策",
+   "summary": "嘉義市幸福幼兒園新校舍正式落成，並同步啟用市內第三處社區教保資源中心。此舉旨在提供在地家庭更多元的教保服務與資源。",
+   "takeaway": "家長可多加利用社區教保資源中心，獲取專業的育兒諮詢與親子活動資訊。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-27",
+   "title": "「孩子、老公都顧好了，那我呢？」職能治療師林姿吟：除了當家人的「加分題」， 我也想為自己而活 - 嬰兒與母親",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iOFc2R2x4MWJsWktSMmJWY0hnMHR5NXlHQTlTdUhuQ29VZGZVLVU5eVdEaW5Zd0lhcnRfNm9pTXhSMVFRdGtWeURjNzIzZnFzQkdzQXQ0SGQ2SFJP?oc=5",
+   "source": "嬰兒與母親",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "職能治療師林姿吟探討家長在照顧家庭與孩子之餘，如何找回自我價值與生活重心。強調在扮演好家人角色的同時，也應重視個人的心理需求與自我實現。",
+   "takeaway": "家長在照顧孩子與家庭時，也應適度留給自己喘息空間，照顧好自己的身心健康。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-27",
+   "title": "家鄉就是最好的教室 鹿谷秀峰國小榮獲教育部教學卓越金質獎 - 台灣生活新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lb3pqdGNqSnl1cDFYNTc1ZGU4eDI0dkhZZ1UtM1NIU3lEYVhoUk1BdWMxTk55dUQ5VHNpMVRZUVY5TUdQY09EYkVLWldGYXZ3?oc=5",
+   "source": "台灣生活新聞",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "學習方法",
+   "summary": "南投縣鹿谷鄉秀峰國小透過在地化教學，成功獲得教育部教學卓越獎金質獎的肯定。",
+   "takeaway": "家長與老師可參考在地化課程設計，引導孩子從生活環境中探索學習。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-27",
+   "title": "嘉義市舉辦特殊教育教材教具設計比賽頒獎 吸引約60名教育工作者參與 - LIFE 生活網",
+   "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPUEtoaE1vSDAyUFpfMTFSbDc1ZUZ0ekZRNzhxLXM1LXVhZXRncHc4NTMxS3cxZGhUdDJiUWU2OWlWdUlpajNqM25OanhldDhkOVJiMlpkOGhITVl5Um1xbGZrVi03VVJrZWRsLUczMl94X05YZERhbGNLd2dIbFRYU0lTN0R5WENDeWRqVkRELW5wRE5MalFfcDBDVmdlM2RIUTVlQ2l3SmNDbXhJSklGdW9UTkFNaHg5UGRWZk9ZRWtmQ0JtMUVFQUpPVUtreGo3YnZYUDZtME5Oei1ocVc1V3N6UERLcHM5em16UnhpcDdVMU42cUpIakxORHFVOHUyUm9Lb3dGV0tvLUNqVll2bUV6UDVDYlJxbS03Z1dqa2R6b2ZacThqUVU1Q0YzdGptZl9Yc0k3MVRlYzNQZklFVTc5aEpoRklZXzJ2Y1YzbC1rR29SazgtZEVmYVF1ZWxya3lMNng4ZkQ0TlpRZmdJWFR3dUp1TVpiNFJwb3VBZWl6MGpSajkxUjB3ZzZBMHM?oc=5",
+   "source": "LIFE 生活網",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "嘉義市舉辦特殊教育教材教具設計比賽，並公開表揚獲獎的教育工作者。此活動旨在鼓勵教師投入特教資源開發，共有約60名相關人員參與。",
+   "takeaway": "家長與老師可關注特教資源的創新發展，以提升特殊需求學生的學習成效。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-27",
+   "title": "精神健康教育平台推出 助學校盡早識別及跟進有需要學生 - TVB",
+   "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPTUV0MklOSVZkdmcwUUpHczdZa2s2ZERqZ1BTQWpYUGJCUE0ySFdWVktCNEl2REY2NE5PTVMwOHF4ZU12Nm9sNTkyUG05RDVnVEZkVDlCeHhQUy1HQU1BWUlCTXZKQmJGUW1GN0x5dm95Z3o4LVRXbHRrWmJleElqUDFRcXNvMW5mam9Ia3BCdGdKNkg0Rjg2dVJ6dDl2enZ0NWYtUlkzazdZd1B3T0NRQTRYbFRyY1hLWXZVMnJTNjlSSDI2eU1QcVVvTHNVWTZCekZiNHdGdlZxb2JhVkYxY1VNOEE0YUFPb3dHU09PNUY2WlNFanJ0NUp6VGxUWVJKZTIxNnBsWmo3SEpva2UycVNpVGozVHRmdFlGcVJzclRWUFUzZUhYTERiMnlEMlRHbzI2X3ZnQnhiUGhZZ1ZpM2N6dGNtRnZVd0l5WEhjY2R0VDhVUG9UTnJ4YUVqLVBpOGtPOUJ1WmY5UzdpNU10MWFGVQ?oc=5",
+   "source": "TVB",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "有教育平台推出相關資源，旨在協助學校及早發現並支援心理健康狀況需要關注的學生。",
+   "takeaway": "學校與家長應多加留意學生的情緒變化，並善用專業平台資源進行早期介入。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-27",
+   "title": "Tangle扭扭樂是什麼？能訓練專注力？簡介、系列、價格介紹 - 親子天下",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qdk1ha1RzWEtuYkZSdUZCNGJWRnZWYXhheXVQY1lYWC1GYWpnQXN0aHZUSjB5V3Z3dmFNMmEwb2wwbzhRSjhGek1tMTJRUVdiMWJneE1ENA?oc=5",
+   "source": "親子天下",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "本文介紹了Tangle扭扭樂這款教具的特色與系列資訊，探討其作為輔助工具在提升專注力方面的應用。",
+   "takeaway": "家長可評估孩子是否需要透過感官教具來輔助穩定情緒或提升專注力。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-27",
+   "title": "訪校札記 | 新北市直潭國小簡怡欣老師-破框思考，陪伴孩子找到屬於自己的節奏 - 天下雜誌教育基金會",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSX09GMGFtMFNaU2YtOWVuRkNNUldOWFlSZnhMTzRzRVQ2VjhxZ3lnUjV4aDdmOUNaZXZCVHVCT0ZTSllWeG1LOXF6Q1VaYm9aZlpkUA?oc=5",
+   "source": "天下雜誌教育基金會",
+   "ages": [
+    "6-12"
+   ],
+   "topic": "教養",
+   "summary": "本文透過訪談新北市直潭國小簡怡欣老師，分享如何透過打破框架的教學思維，引導學生發掘個人特質並建立學習節奏。",
+   "takeaway": "家長與老師應尊重孩子的個別差異，鼓勵其發展獨特的學習步調。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-27",
+   "title": "邀共創共演孩子走向國際舞台| 文教新訊| 文教 - UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91NXo2ZW1wY0xjR0lJcDI3WkRhUHZ3TGRteldBWmRRQkMwZXNZbW9HU0V2NE9HeFJ2Qkt0cm9YLTZwYXNYYVNKbjhSMTdYQ0dT?oc=5",
+   "source": "UDN",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "此報導鼓勵透過共同創作與表演的方式，協助孩子提升藝術素養並拓展國際視野。",
+   "takeaway": "家長與老師可多鼓勵孩子參與展演活動，藉此培養自信並接軌國際。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-27",
+   "title": "飲水思源回饋故鄉！君綺生醫張麗綺董事長深耕嘉義偏鄉教育 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YdlJwSTN6OGtOc3FVU2UyZDNtRmFKaEVveTZNQURIeURXNHRKcXB1Zk5fcnVhT3BBLUxEb2ZUTmRFUGtWUm1NSk82MEdiSmhP?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "君綺生醫董事長張麗綺致力於回饋故鄉，積極投入資源支持嘉義偏鄉地區的教育發展。",
+   "takeaway": "關注企業投入偏鄉教育的資源，適時為孩子爭取更多學習機會。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-27",
+   "title": "嘉義市幸福社區教保資源中心啟用 - 大紀元",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yWWFvR0NyV20tcHJwb0R3czl0a0RsRG03U0hiWFZiNExFeGJOVHl1Q0NFVnNYcWJVV2RmU2ppSlVNY2d6OXVFd2w4aVdNQ3B4UEpMb2dHWW1udGQxeTBOOG05Nzd1a2vSAWdBVV95cUxOcllhb0dDcldtLXBycG9Ed3M5dGtEbERtN1NIYlhWYjRMRXhiTlR5dUNDRVZzWHFiVVdkZlNqaUpVTWNnejl1RXdsOGlXTUNweFBKTG9nR1ltbnRkMXkwTjhtOTc3dWtr?oc=5",
+   "source": "大紀元",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "其他",
+   "summary": "嘉義市新設立了幸福社區教保資源中心，為當地幼兒提供相關教育與保育資源。",
+   "takeaway": "家長可多加利用社區教保資源中心，獲取幼兒教育與育兒支援服務。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-27",
+   "title": "北市4年挹注1.5億元 81校兒童遊戲場汰舊換新 | 中華日報 - LINE TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxdWd0YzcxaFFNdzg3bmd4VjNLUG83WHpadlh2Sm5ZcHU2UDhCQmZIOFhnbHA5cVd6ZGlQamdMS1o0TktYeVRleG1DYjFWUzd2ZGRyblZ3?oc=5",
+   "source": "LINE TODAY",
+   "ages": [
+    "3-6",
+    "6-12"
+   ],
+   "topic": "政策",
+   "summary": "台北市計畫在四年內投入一億五千萬元，針對轄內八十一所學校的兒童遊戲場進行更新與汰換。",
+   "takeaway": "家長可留意孩子就讀學校的遊戲設施更新進度，確保校園遊樂環境的安全。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-27",
+   "title": "台美教育交流！麻州官員訪新北樟樹國小 - 原住民族文化事業基金會",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJNkxXcWY5dW5yTDFWWEg1dnM0WnAyQzduT19vNEloblRMZ1Nacjgtb3F4LUxLbmlKNWdBSEdRelJxRmV5elE?oc=5",
+   "source": "原住民族文化事業基金會",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "美國麻州官員前往新北市樟樹國小進行教育交流訪問。",
+   "takeaway": "關注國際教育交流活動，了解不同文化背景下的教學模式與資源。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-27",
+   "title": "115年音樂舞蹈縣賽！南榮國中勇奪45項獎、5項特優、8隊晉級全國賽 - LIFE 生活網",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOWnJEQjhWR0JzQldxRUpiVEpCamNSVDhFSWozQm9UQXZud2Z1eWJFSWtlbUVBRzZFblZMckJwb0hMQUtvQzZfX01vbFllM3ZFdUdGZlM4aEUxZC00R24waGpfNUxNLW1NTlo2MVJjam1TeXRtaGRaQm5GUzcyWU5qcUgwVGpKcG5wblFILWdDYVJlV2FpVXFNc2V1M2xxNkpyekEyaHVKVU4waEJQYjlrZTR1QnJWQzl2NGZkbVJaS1I5Z0xpcjlHeFctdkdsci1CYnNsU0c0Z2p5RjFOaVVZek1scGFXWXlLbkFibF9Eb2gyUG45WUd4TWN0LWc5WFhvUGVtbnFUNUgtWDNnU3g3a3Q3OGwtMVVHT0ZuYnhzcDlUQWlRek9wZl85TnU3V3Fnbkl4SHUxSWlNRmFwaHRoSU03cEQ?oc=5",
+   "source": "LIFE 生活網",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "南榮國中在115年音樂舞蹈縣賽中表現優異，共獲得45項獎項。其中包含5項特優，並有8支隊伍成功晉級全國賽。",
+   "takeaway": "鼓勵孩子參與藝文競賽，透過舞台經驗提升自信與專業能力。",
    "mentions": 1,
    "also_from": []
   }
@@ -17385,6 +17613,11 @@
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FREdvdXB2M1N0aVFVeUE3N1VYdmM0WDhTUXhzNDd0TzlqLWtGNjIyX3FuRzR5RGlLXzNyWklJOXFUaUZWaDBDUTRB?oc=5",
    "title": "國教處｜留學經驗分享12/15台北 12/18桃園 留學夢登場",
    "date": "2026-11-26"
+  },
+  {
+   "url": "https://www.twreporter.org/a/opinion-bong-joon-ho",
+   "title": "許景雅／回望站在光化門前單人示威的奉俊昊：從抵抗到走進好萊塢，他與韓國電影的30年",
+   "date": "2026-11-27"
   }
  ]
 }
