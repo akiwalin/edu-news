@@ -16224,8 +16224,10 @@
    "topic": "政策",
    "summary": "嘉義市幸福幼兒園新校舍正式落成，並同步啟用市內第三處社區教保資源中心。此舉旨在提供在地家庭更多元的教保服務與資源。",
    "takeaway": "家長可多加利用社區教保資源中心，獲取專業的育兒諮詢與親子活動資訊。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "三星傳媒"
+   ]
   },
   {
    "date": "2026-11-27",
@@ -16438,9 +16440,10 @@
    "topic": "學習方法",
    "summary": "國聖國小與菲律賓宿霧大學簽署姊妹校協議，透過國際交流活動提升學生的全球視野。",
    "takeaway": "鼓勵孩子參與國際交流活動，培養跨文化溝通能力與國際觀。",
-   "mentions": 2,
+   "mentions": 3,
    "also_from": [
-    "PChome Online 新聞"
+    "PChome Online 新聞",
+    "蕃新聞"
    ]
   },
   {
@@ -16744,8 +16747,10 @@
    "topic": "心理健康",
    "summary": "當家長發現孩子有發展遲緩跡象時，尋求正確的醫療科別至關重要。若掛錯科別可能導致治療效果不彰，建議透過專業醫師引導進行早期療育。",
    "takeaway": "若懷疑孩子發展遲緩，應諮詢專業醫師以釐清正確就診科別，把握黃金療育期。",
-   "mentions": 1,
-   "also_from": []
+   "mentions": 2,
+   "also_from": [
+    "LINE TODAY"
+   ]
   },
   {
    "date": "2026-11-28",
@@ -16912,6 +16917,224 @@
    "topic": "心理健康",
    "summary": "醫師提醒家長，即便孩子目前視力正常，仍需定期進行散瞳驗光檢查。若發現遠視儲備不足，孩子在一年內發生近視的風險將大幅提升。",
    "takeaway": "應定期帶孩子進行專業散瞳驗光，及早掌握視力發展狀況。",
+   "mentions": 2,
+   "also_from": [
+    "信傳媒"
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "title": "75位高中師長赴日教育交流 四國路線訪學校體驗地方文化 - 蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aNjFTMTduVm81RG04bmRTQXJTVlpLNHRUTVluQ25SMEp1ZnNqMDVVdXdFUEdvY3pUVE9KbzYyR2NuV2lJQ1QtLW5RUE4xZDVETWc?oc=5",
+   "source": "蕃新聞",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "其他",
+   "summary": "台灣高中師長前往日本進行教育交流，透過走訪四國地區的學校與體驗在地文化，拓展國際視野。",
+   "takeaway": "教師可透過國際交流汲取教學經驗，並將多元文化觀點帶回課堂。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-28",
+   "title": "心理健康介入落地難 學者提共創架構解構推行落差 - LIFE 生活網",
+   "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQUXJ6REhyZ0loQWpETWM3dThJWFFGRnRoSkxnQnN6TGRhWW5uWHZIRW5ERGtWa3djUGROQVM4RElxV2tFRFg4dDdjLUY2VEl0Qlhaazloa1VYMVFlQnM5VXlEMXlWWERpSXN5Mm12NUFHZThlemNaQ1FlVkthNS1vSGl4T2ZRLVJhNHV1dGdwYVJSNUlQcHlIcjh5d2NJZWxnRjFxSFB0dFVVSk1yZm8xNTlPWUMzajJ3RmctR3V1Y0t1TnhjYWFXRXhfdFpvLV81OExvRFdxVUU0SURVNUo4eWhyazhzZVBVbUVFVFdFa1NXWU5JajczbkIzYk15bnNyQzYtb0FTM25wSm85NzFSUTlIM21UcEZKQjd6X3FLTkpUZUdFdFBJdE5hMG5BTTVNMU9oV0FLU3U5VnNLNnRBNUszNGdoTmhvUXUwT3hJNG4?oc=5",
+   "source": "LIFE 生活網",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "針對校園或社區心理健康介入措施難以落實的問題，學者建議透過共創架構來縮短政策與執行間的落差。",
+   "takeaway": "家長與老師應關注心理健康資源的實際執行成效，並積極參與相關支持系統的建構。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-28",
+   "title": "左營高中推食農教育五感體驗 永續飲食從校園延伸到家庭餐桌 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZVTVTSUl5NGZ5RlhSQTFJNlVDSk5nQUtRT1dCUnZGTDRhUzQ2SXhXRDlYMlJuM2wtQVdERnphRkRrdS1CNTBKamZNRXhhZm9VMHlLd29LUmhodWVlNENhUzgyOTXSAWpBVV95cUxPeXluZGFKRWkwVkphb3lEbG9FamdhYXZXUFhzMGt3NFhabTZzNXNLT1hRVzdXYzU4LXo5aXg5OW5YN1A1MW44a21ERFNtdndfelBqSFAwY0Z5T1B4WlJCaVVyWjlNWGFkaU9R?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "左營高中透過五感體驗推動食農教育，引導學生深入了解永續飲食的概念。此計畫旨在將校園內的飲食學習經驗，進一步連結至家庭餐桌。",
+   "takeaway": "家長可與孩子討論校園飲食教育內容，並在日常生活中實踐永續飲食觀念。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-28",
+   "title": "「你覺得媽媽什麼時候最愛你？」孩子答案藏9種動物系性格，秒懂孩子真正的需求 - 造咖",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yM2haYWE1dVlqdHBZRjVGWFdULWo3dmZqZHp1d3ItVVhYMTNZcjBLeFhhTDRtSDVwOXN3MG9TX3VpRllVWFVkM1MtelY0amc3TlVUVA?oc=5",
+   "source": "造咖",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "透過孩子對「媽媽何時最愛我」的回答，可以觀察出孩子內在的性格特質。家長能藉此更深入了解孩子的心理需求，進而調整互動方式。",
+   "takeaway": "透過詢問孩子感受，觀察其性格特質並給予對應的愛與支持。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-28",
+   "title": "加班費調漲！學習扶助課後鐘點費調升 國小486元、國中546元 - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yZW1McDRza1ZMQkN3Skl0VG05NlVxeEVwMkxnUngwNlA5TXdlek41YXdoVUMzQ25fVlk0OTJxUC1lbnBXUWRSb0hfc3hDZnZXUThVcXJVck9DMG8?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "政府宣布調升學習扶助計畫的課後鐘點費，國小與國中階段的鐘點費分別提高至486元與546元。",
+   "takeaway": "家長可留意學校是否運用此資源，強化孩子的學習扶助成效。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-28",
+   "title": "嬰幼兒閱讀 情緒教育推薦 - 親子天下Shopping",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONU1QYlFYck80UHQ0cng4S3hQN3FOR19faXE1bTliMDhNMTYxR3ROYmhXM055VDNZZlF4T09pZ0F4WHF4SGgxRXZMOHlRWjFGVGFVejlpOENwNmR5clZPNk52aEE4VTZWX3BoaHdYLWdfOENyTkU3OFFWT0xQamhtXzVTeWtjVkhnQzFpTmxwd0Q2UlFuNktOaUk4cWhGUGdRXzBuNHNHV3g3b3YxbW9IMGsyVkNsSUVTQjJpdTFxWDB5VjFpOE5ENlcySUdoX3RzaVVycTJHU21hc1NHYThOV2pwLURCSmxM?oc=5",
+   "source": "親子天下Shopping",
+   "ages": [
+    "0-3",
+    "3-6"
+   ],
+   "topic": "教養",
+   "summary": "此內容為親子天下針對嬰幼兒閱讀與情緒教育所規劃的選書推薦。",
+   "takeaway": "家長可透過共讀繪本，引導幼兒認識並學習表達情緒。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-28",
+   "title": "孩子考100分，不如陪他看世界？一趟黃石公園旅行 讓父母學到課本沒教的事 - 經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtWWc4cnlYM2N6QmxsaVdndjR1dnFDdnotclgzTTlQZXVmUEhWbzQ5ci00ZzdRdGdxVHRGV3RwNGhJYnN0OEptNFMxSHlyaWJFTEFtaFBjd3BZZ9IBX0FVX3lxTE9vUTJzck9rY2dKSTNvT1JGTElzdjlEMDdkU3BldXQyTXZpRlBIdGZMNkJUX0V0QnFNcXc4WDJ0MWlMOURSX25nUDNFMVBTdFVNOXNja3Z0ZTBrS3pCcjNN?oc=5",
+   "source": "經濟日報",
+   "ages": [
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "透過帶領孩子進行戶外旅行，父母能體會到課本知識以外的教育價值。這段經歷強調了親身探索世界對孩子成長的重要性，勝過單純追求學業成績。",
+   "takeaway": "家長應重視生活體驗，透過旅行培養孩子的視野與學習熱忱。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-28",
+   "title": "竹市女童被爆要求安親班同學下跪還甩巴掌！家長竟稱「沒針對性」 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzbi1vZjJaTmZ0UzY4RFZsV1pQVXEwNlpIN1hEZlFMTHdwaHBVZkhub2NMQW5wTTRVS2JIN0MwN29BQkd4b1BSMW1OV1Fja2dWekc1eXE0U3I4N3g5UG42bVlCNVlZR1FBY2o5MEZn0gFzQVVfeXFMTWtnRnpTTmQ5TWNzdk11LW9Cck5rYTNmMzFMRG1Vbi1MTFBWVExFMHk1WlI1aVc1YktpbnFqZlhNU0FaV1d2dW52Z3gzanlkRFhXbm1UeXFHXzBFWVo0OTV6SC1iWTctblVlblRFVV9QbEhrNA?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "心理健康",
+   "summary": "新竹市傳出安親班學童霸凌同學的事件，涉事女童被指控要求同儕下跪並動手打人。家長對此行為的回應引發社會關注與討論。",
+   "takeaway": "家長與老師應重視校園霸凌議題，並引導孩子建立正確的人際互動與尊重觀念。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-28",
+   "title": "南華大學AI機器人結合AR雙語繪本 翻轉偏鄉閱讀教育邁向國際 - 中央社 CNA",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqS0h2VTlSa2tkMXJQWnJ5aVRrLUxlQmtMUF96dWdLUlpJcE92clZLUFk4NlJVaWdRR0JkR0tGUGxRYTNScmxLaElQNUVWUGZ5Y1JHTzFn?oc=5",
+   "source": "中央社 CNA",
+   "ages": [
+    "3-6",
+    "6-12"
+   ],
+   "topic": "學習方法",
+   "summary": "南華大學運用AI機器人與AR技術，開發出雙語繪本教學資源。此計畫旨在提升偏鄉地區學童的閱讀興趣，並協助其接軌國際教育。",
+   "takeaway": "家長與老師可關注科技輔助教學工具，提升孩子跨語言學習的動機。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-28",
+   "title": "醫療走進社區 攜手社政織密兒少保護網 長庚體系兒少保護研討會 深化區域照護合作 - 今傳媒 JNEWS",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QQ2RRZEplX2o1RUsxWmdpbDhLNWFqQTc1WG93YVJrVUlWZGpwcjNpRl95TWhnUVhhbnRpYThjTFNlQzJ1dUI4REhSOGdjWUFZSjkyWVNvZ1Q1d9IBWkFVX3lxTE5QQ2RRZEplX2o1RUsxWmdpbDhLNWFqQTc1WG93YVJrVUlWZGpwcjNpRl95TWhnUVhhbnRpYThjTFNlQzJ1dUI4REhSOGdjWUFZSjkyWVNvZ1Q1dw?oc=5",
+   "source": "今傳媒 JNEWS",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "長庚醫療體系透過舉辦研討會，探討如何結合醫療與社政資源，共同強化兒少保護網絡的區域合作。",
+   "takeaway": "家長與老師應留意社區兒少保護資源，並在發現潛在風險時適時尋求專業協助。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-28",
+   "title": "美國教育主管訪團來臺 深化臺美華語及中小學教育合作 - CNMA新聞聯合網",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5MGVTaE5ZSHpzWEp1VHViN01lYnRnbS04NDA5T2xldGR6a0JKX0Y2UDFhNE0tLUtuTkdmbmt1MHdrc0NIb1J2Uk1zeFZNeDVTRVVCd185WWxwY3FhMXRFQmpKVG40ZDYzdndPbVhB?oc=5",
+   "source": "CNMA新聞聯合網",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "美國教育主管官員訪台，旨在強化雙方在華語教學及中小學教育領域的合作交流。",
+   "takeaway": "家長與老師可持續關注台美教育合作帶來的教學資源與交流機會。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-28",
+   "title": "「藝教30－全國藝術教育論壇」南區場 跨界對話，攜手擘劃臺灣藝術教育新藍圖 - 教育部全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUVzZIZmF3R0l5ZkY2TWpKbmo2aTdZS2JGdkt0cHd3ejhiNHpHbzdtakVKSnViSWY0UU5mR0VzeU9BXzRmWmM5NXpnUnk5THM0T2hIMGhKYmRkUEhYZ21PeTZ5UllxZjUzdTdxT1hSWDAxZldhQ0p0WXh0R2o3X1U?oc=5",
+   "source": "教育部全球資訊網",
+   "ages": [
+    "0-3",
+    "3-6",
+    "6-12",
+    "12-16"
+   ],
+   "topic": "政策",
+   "summary": "教育部舉辦全國藝術教育論壇，透過跨界對話共同規劃臺灣藝術教育的未來發展藍圖。",
+   "takeaway": "家長與老師可持續關注藝術教育政策走向，以掌握未來教學資源與發展重點。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-28",
+   "title": "拒絕框架的劉詠欣，先顧部落孩子的生存才談教育 - 翻轉教育",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Tak01X1FkUmNHbTNhSWlVbG11dlZSN0djMGFfQUpMQTg1Y1dWVVRPeXRVdERnRkJmemVIbHNOdnN2SUhybHUycGI2dkJVTzY4eDlFZVNmem1IMzg?oc=5",
+   "source": "翻轉教育",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "教養",
+   "summary": "劉詠欣老師在部落推動教育時，強調必須先解決孩子的生活生存需求，才能進一步談論學習與教育。她主張打破既有的教育框架，以更貼近在地需求的方式支持孩子成長。",
+   "takeaway": "教育應先關注孩子的生存與生活需求，再根據實際情況調整教學方式。",
+   "mentions": 1,
+   "also_from": []
+  },
+  {
+   "date": "2026-11-28",
+   "title": "高市攜手美大學 6實習外師走進杉林辦雙語營隊 - 自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2Q19EM2wySFV4YWRxUUd1ZVRQcjFRREZZLWpwc0Fvemh1ZnEyY3JMa1pZb2VKTWFVRGI3c2MxQWZEZW9aTE5ESlMxQnVDcE1vblM2MkN5eTByUTRyZUVQRzc0MTnSAWpBVV95cUxNOXJvMDJZaWZwdWJibGRpOWQyaktvYkhYZ3BjOHFrcmFhN19GY0MwM09ZSV9hM2cya0VPTDBWeWhMcVRRb0ZUR2RYRGpWaFJBUGVObzRJX2ZKRkw1cWNqQW9Kc3pKeHZtWlVR?oc=5",
+   "source": "自由時報",
+   "ages": [
+    "6-12",
+    "12-16"
+   ],
+   "topic": "學習方法",
+   "summary": "高雄市教育局與美國大學合作，引進實習外籍教師至杉林區舉辦雙語營隊。此計畫旨在透過外師資源，提升偏鄉地區學生的英語學習環境與實務體驗。",
+   "takeaway": "家長可留意當地教育局舉辦的雙語營隊資訊，鼓勵孩子參與提升英語口說自信。",
    "mentions": 1,
    "also_from": []
   }
@@ -18185,6 +18408,11 @@
   {
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE81QjZ5LU5zYzhJUk5DNjdPb0VNVlRQQzFad3V2VEZJLU1pMk9hdVNSUzdGRV9JX0tncjFITnNMS0VEa3pDRHdxcEFR?oc=5",
    "title": "影／陳亭妃鐵馬最後衝刺黃偉哲力挺市政無縫接軌| 時事",
+   "date": "2026-11-28"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVUxOX3lsRWxhTjZCeFdLMXJrNVd0cVN2V3RjUjU1Z1N2a1Z3b3BhVWJMRmR1VEo3d0FfV2FnNXAwVlMwWE5CNFNnZURGd2QtZGR6TG1sd0ROdE56bjUyQkR3bW9qeEVzck1IUGl6dVhLa05QU2M3ejg0X2lfX2tMa25BYUZQcXBNVEhN?oc=5",
+   "title": "2026年12月台灣角川全書系重點書書訊- 消費新聞",
    "date": "2026-11-28"
   }
  ]
